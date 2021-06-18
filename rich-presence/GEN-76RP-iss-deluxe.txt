@@ -1,6 +1,24 @@
 Format:Goals
 FormatType=VALUE
 
+Format:Minutes
+FormatType=VALUE
+
+Format:SecLeft
+FormatType=VALUE
+
+Format:SecRight
+FormatType=VALUE
+
+Format:Round
+FormatType=VALUE
+
+Lookup:Period
+0x00=1st HT
+0x01=2nd HT
+0x02=1st OT
+0x03=2nd OT
+
 Lookup:Team
 0x00=England
 0x01=Germany
@@ -45,6 +63,61 @@ Lookup:Team
 0x28=African Star
 0x29=All American Star
 
+Lookup:Menu
+0x01=🔃
+0x02=🧍🧍🧍
+0x03=📝
+0x04=🏃‍♂️🏃‍♂️
+0x05=🅰️
+0x06=🎮
+0x07=1️⃣
+0x08=💯
+0x09=👕
+
+Lookup:Penalty
+0x00=❌
+0x01=✅
+0xff=⚽
+
+Lookup:Nav
+0x00=On main menu
+0x01=Selecting open game mode
+0x02=Selecting players
+0x03=Selecting team
+0x04=Selecting stadium
+0x11=Changing options
+0x12=Changing rules
+0x3a=Inserting password
+
+Lookup:Challenge
+0x00=Dribble
+0x01=Pass
+0x02=Shoot
+0x03=Defence
+0x04=Corner Kick
+0x05=Free Kick
+
+Lookup:CLevel
+0x00=Lv. 1
+0x01=Lv. 2
+0x02=Lv. 3
+0x03=Lv. 4
+
 Display:
-?0xhffea=2? @Team(0xh163e) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640)
-Playing International Superstar Soccer Deluxe ⚽
+?0xh1b=1?Round: @Round(0xh14f0+1) @Team(0xh163e) @Penalty(0xh1526)@Penalty(0xh1528)@Penalty(0xh152a)@Penalty(0xh152c)@Penalty(0xh152e) x @Penalty(0xh1530)@Penalty(0xh1532)@Penalty(0xh1534)@Penalty(0xh1536)@Penalty(0xh1538) @Team(0xh1640)
+?0xhffea=2_0xh125e=8?@Period(0xh1632) ⏰ @Minutes(0xh17cd):@SecLeft(0xh17cc)@SecRight(0xh17cf) @Team(0xh1640) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640) 🐕 is whistling the match
+?0x163e!=h2f_0xh1640=h2f?Training with @Team(0xh163e)
+?0xhffea=2_0xh163e=h2f_0xh1640=h2f?On Challenge Mode: @Challenge(0xh13bc) @CLevel(0xh13be)
+?0xhffea=2?@Period(0xh1632) ⏰ @Minutes(0xh17cd):@SecLeft(0xh17cc)@SecRight(0xh17cf) @Team(0xh163e) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640)
+?0xh182a=1_0xh182c=1?Menu @Menu(0xh182c) Select squad
+?0xh182a=1_0xh182c=2?Menu @Menu(0xh182c) Formation change
+?0xh182a=1_0xh182c=3?Menu @Menu(0xh182c) Adjust strategy
+?0xh182a=1_0xh182c=4?Menu @Menu(0xh182c) Man to man marking
+?0xh182a=1_0xh182c=5?Menu @Menu(0xh182c) Key configuration
+?0xh182a=1_0xh182c=6?Menu @Menu(0xh182c) Change control
+?0xh182a=1_0xh182c=7?Menu @Menu(0xh182c) Number of players
+?0xh182a=1_0xh182c=8?Menu @Menu(0xh182c) Edit player skills
+?0xh182a=1_0xh182c=9?Menu @Menu(0xh182c) Team colors
+?0xhffea=1?@Nav(0xh175e)
+?0x1b=00_0xh14=hff?Game demonstration
+Playing Superstar Soccer Deluxe ⚽

@@ -1,0 +1,127 @@
+The Road to Oebalus
+Finish level 1.
+d0xH0f2772=1_0xH0f2772=2
+
+Trouble in Oebalus
+Finish level 2.
+d0xH0f2772=1_0xH0f2772=2
+
+The Pirate King Pactolus
+Finish level 3.
+d0xH0f2772=3_0xH0f2772=4
+
+The Isles of Kronos
+Finish level 4.
+d0xH0f2772=4_0xH0f2772=5
+
+On the Trail of Gabrielle
+Finish level 5.
+d0xH0f2772=5_0xH0f2772=6
+
+Valarian's Castle
+Finish level 6.
+d0xH0f2772=6_0xH0f2772=7
+
+Valarian's Secret
+Finish level 7.
+d0xH0f2772=7_0xH0f2772=8
+
+The Labyrinth
+Finish level 8.
+d0xH0f2772=8_0xH0f2772=10
+
+The Renegade Amazon Village
+Finish level 9.
+d0xH0f2772=10_0xH0f2772=11
+
+Rivers of Blood
+Finish level 10.
+d0xH0f2772=11_0xH0f2772=12
+
+Lost Temple of the Titans
+Finish level 11.
+d0xH0f2772=12_0xH0f2772=15
+
+Dyzan's Lair
+Finish level 12.
+d0xH0f2772=15_0xH0f2772=16
+
+Road to Hades
+Finish level 13.
+d0xH0f2772=16_0xH0f2772=17
+
+Traps of Charon
+Finish level 14.
+d0xH0f2772=17_0xH0f2772=18
+
+Hades' Castle
+Finish level 15.
+d0xH0f2772=18_0xH0f2772=20
+
+The Village of T'ir Na
+Finish level 16.
+d0xH0f2772=20_0xH0f2772=21
+
+Rescue the Seer, Fei
+Finish level 17.
+d0xH0f2772=21_0xH0f2772=22
+
+The Lyre of Orpheus
+Finish level 18.
+d0xH0f2772=22_0xH0f2772=24
+
+The Three Sisters
+Finish level 19.
+d0xH0f2772=24_0xH0f2772=25
+
+The Challenge
+Finish level 20.
+d0xH0f2772=25_0xH0f2772=26
+
+300 enemies
+Kill 300 enemies in one season.
+d0xH0f2775<0xH0f2775.300.
+
+42 Scrolls
+Collect all Scrolls in one season. (It's not necessary finish the level)
+N:0xH0f2772=1_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=2_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=3_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=4_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=5_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=6_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=7_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=8_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=10_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=11_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=12_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=15_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=16_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=17_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=18_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=20_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=21_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=22_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=24_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=25_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=26_N:d0xH0f277a=1_0xH0f277a=2.1.
+
+Max Sword
+Upgrade sword at maximum.
+d0xH0f2786=3_0xH0f2786=4
+
+Max Shield
+Upgrade shield at maximum.
+d0xH0f2785=3_0xH0f2785=4
+
+Save me!
+Save 9 hostages in Trouble in Oebalus.
+0xH0f2772=2_d0xH0f2777=8_0xH0f2777=9
+
+Chrysus
+Activate a Golden Shield in "Trouble in Oebalus" and "The Pirate King Pactolus"
+N:0xH0f2772=2_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=3_d0xH0f2782>0xH0f2782.1.
+
+Chakram
+Have 3x Super Chakram.
+d0xH0f2780=2_0xH0f2780=3
+
+Zeus
+Have 3x Hand of Zeus.
+d0xH0f277f=2_0xH0f277f=3
+
+Despoina
+Activate a Frost Biter in "The Renegade Amazon Village" and "Rivers of Blood".
+N:0xH0f2772=10_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=11_d0xH0f2782>0xH0f2782.1.
+
+Hephaestus
+Activate a Phomethean Blade in "The Village of T'ir Na" and "Rescue the Seer, Fei".
+N:0xH0f2772=20_d0xH0f2783>0xH0f2782.1._N:0xH0f2772=21_d0xH0f2783>0xH0f2782.1.
+
+Training Arena
+Collect at least 10 potions and 1 golden shield in Training Mode.
+0x 0f2772=0_d0xH0f277e<0xH0f277e.10._d0xH0f2782<0xH0f2782.1._R:0x 0d3168=5376
+
+Someone will going to regret this
+Finish "The Road to Oebalus" less than 1:10s.
+0xH0f1242<=1_0xH0f1243<=10_d0xH0f2772=1_0xH0f2772=2

@@ -127,7 +127,7 @@ Collect at least 10 potions and 1 golden shield in Training Mode.
 
 Someone will going to regret this
 Finish "The Road to Oebalus" less than 1:10s.
-0xH0f1242<=1_0xH0f1243<=10_d0xH0f2772=1_0xH0f2772=2
+N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=1_0xH0f2772=2
 
 Where there's smoke there's fire
 Collect: 12x potions, 1x Resurrection Jewel, 1x Golden Shield, 1x Super Chakram in "Trouble in Oebalus".
@@ -139,7 +139,7 @@ d0xH0f277e<0xH0f277e.14._d0xH0f277c<0xH0f277c.1._d0xH0f2782<0xH0f2782.1._R:0xH0f
 
 How about eye drops?
 Finish "The Isles of Kronos" less than 1:10s.
-0xH0f1242<=1_0xH0f1243<=10_d0xH0f2772=4_0xH0f2772=5
+N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=4_0xH0f2772=5
 
 Bloodthirsty
 Defeat 30 enemies in "On the Trail of Gabrielle".
@@ -171,7 +171,7 @@ d0xH0f2772=12_0xH0f2772=15_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=12
 
 The Dragon
 Finish "Dyzan's Lair" less than or equal to 1min.
-d0xH0f2772=15_0xH0f2772=16
+N:0xH0f1242=1_O:0xH0f1243=0_0xH0f1242<1_d0xH0f2772=15_0xH0f2772=16
 
 Tartarus
 Collect: 8x potions, 2x Resurrection Jewel in "Road to Hades".
@@ -183,7 +183,7 @@ N:0xH0f2772=17_0xH0f2775>=65
 
 Underworld
 Finish "Hades' Castle" less than or equal to 2min.
-d0xH0f2772=18_0xH0f2772=20
+N:0xH0f1242=2_O:0xH0f1243=0_0xH0f1242<2_d0xH0f2772=18_0xH0f2772=20
 
 Blizzard
 Collect: 10x potions, 1x Phomethean Blade, 1x Super Chakram in "The Village of T'ir Na".

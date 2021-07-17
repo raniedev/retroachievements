@@ -209,7 +209,7 @@ Kalabrax
 Don't use any items in "The Temple of the Pinnacles".
 0xH0f2772=26_0x 0d3168=17670_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1.
 
-2x Ressurection Jewel
+Demigod
 Have 2x Resurrection Jewel.
 d0xH0f277c=1_0xH0f277c=2
 
@@ -233,7 +233,7 @@ N:d0xH0f0cf2=8_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=2.1.
 [Alt 6]
 N:d0xH0f0cf2=32_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=2.1._R:0xH0f0cf2=0
 
-15x Potions
+Nectar
 Have 15x Potions.
 d0xH0f277e=14_0xH0f277e=15
 

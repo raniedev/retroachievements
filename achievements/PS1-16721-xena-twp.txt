@@ -149,63 +149,63 @@ When cows fly
 Collect: 4x potions, 1x Golden Shield, 3x Hand of Zeus, 1x Resurrection Jewel in "Valarian's Castle".
 d0xH0f277e<0xH0f277e.4._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.3._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=6_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 07
+You can run but you can't hide
 Collect: 17x potions, 2x Super Chakram, 1x Hand of Zeus in "Valarian's Secret".
 d0xH0f277e<0xH0f277e.17._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.2._R:0xH0f2772!=7_N:0xH0f2779=0_R:0xH0f277e=0
 
-Minotaur
+The Minotaur
 Don't use any items in "The Labyrinth".
 d0xH0f2772=8_0xH0f2772=10_N:0xH0f2772=8_O:d0xH0f277c>0xH0f277c_P:d0xH0f277e>0xH0f277e.1.
 
-Lvl 09
+Let's go Xena
 Collect: 5x potions, 2x Phomethean Blade, 1x Hand of Zeus, 1x Frost Biter in " The Renegade Amazon Village".
 d0xH0f277e<0xH0f277e.5._d0xH0f2781<0xH0f2781.2._d0xH0f2783<0xH0f2783.1._d0xH0f277f<0xH0f277f.1._R:0xH0f2772!=10_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 10
+Gabrielle, look out!
 Collect: 9x potions, 1x Phomethean Blade, 2x Super Chakram, 1x Frost Biter, 1x Resurrection Jewel in "Rivers of Blood".
 d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.2._d0xH0f2781<0xH0f2781.1._d0xH0f2783<0xH0f2783.1._R:0xH0f2772!=11_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 11
+Amazon Queen
 Finish "Lost Temple of the Titans" using at most 2 potions.
 d0xH0f2772=12_0xH0f2772=15_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=12
 
-Lvl 12
+The Dragon
 Finish "Dyzan's Lair" less than or equal to 1min.
 d0xH0f2772=15_0xH0f2772=16
 
-Lvl 13
+Tartarus
 Collect: 8x potions, 2x Resurrection Jewel in "Road to Hades".
 d0xH0f277e<0xH0f277e.8._d0xH0f277c<0xH0f277c.2._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 14
+Skull Collector
 Defeat 65 enemies in "Traps of Charon".
 N:0xH0f2772=17_0xH0f2775>=65
 
-Lvl 15
+Underworld
 Finish "Hades' Castle" less than or equal to 2min.
 d0xH0f2772=18_0xH0f2772=20
 
-Lvl 16
+Blizzard
 Collect: 10x potions, 1x Phomethean Blade, 1x Super Chakram in "The Village of T'ir Na".
 d0xH0f277e<0xH0f277e.10._d0xH0f2780<0xH0f2780.1._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 17
+Red Snow
 Collect: 5x potions, 3x Super Chakram, 1x Hand of Zeus, 1x Phomethean Blade in "Rescue the Seer, Fei".
 d0xH0f277e<0xH0f277e.5._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.3._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 18
+Ancient Runes
 Finish "The Lyre of Orpheus" using at most 2 potions.
 d0xH0f2772=22_0xH0f2772=24_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=22
 
-Lvl 19
+Gorgons
 Collect: 9x potions, 2x Resurrection Jewel, 1x Golden Shield in "The Three Sisters".
 d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.2._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
 
-Lvl 20
+The song of Orpheus
 Defeat 30 enemies in "The Challenge".
 N:0xH0f2772=25_0xH0f2775>=30
 
-Lvl 21
+Kalabrax
 Don't use any items in "The Temple of the Pinnacles".
 0xH0f2772=26_0x 0d3168=17670_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1.
 

@@ -242,7 +242,7 @@ Get the true ending.
 d0x 0d3168=17670_0x 0d3168=13832
 
 Dial-Up Connection
-Find the developers' secret room on 'The Labyrinth', then hit the computer.
+Find the developers' secret room in "The Labyrinth", then hit the computer.
 0xH0f2772=8_0xH0f3665=1_0xH0f3671=226
 
 When cows fly

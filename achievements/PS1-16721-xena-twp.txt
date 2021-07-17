@@ -145,7 +145,7 @@ Bloodthirsty
 Defeat 30 enemies in "On the Trail of Gabrielle".
 N:0xH0f2772=5_0xH0f2775>=30
 
-When cows fly
+I hate catapults
 Collect: 4x potions, 1x Golden Shield, 3x Hand of Zeus, 1x Resurrection Jewel in "Valarian's Castle".
 d0xH0f277e<0xH0f277e.4._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.3._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=6_N:0xH0f2779=0_R:0xH0f277e=0
 
@@ -244,3 +244,7 @@ d0x 0d3168=17670_0x 0d3168=13832
 Dial-Up Connection
 Find the developers' secret room on 'The Labyrinth', then hit the computer.
 0xH0f2772=8_0xH0f3665=1_0xH0f3671=226
+
+When cows fly
+Defeate all enemies in "Valarian's Castle", the catapult user will throw a cow on you.
+0xH0f2772=6_0xH0f3665=1_0xH0f3674=215

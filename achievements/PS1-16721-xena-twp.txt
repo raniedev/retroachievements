@@ -135,7 +135,7 @@ d0xH0f277e<0xH0f277e.12._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.1._d0xH0f2
 
 Who send you here?
 Collect: 14x potions, 1x Resurrection Jewel, 1x Golden Shield in "The Pirate King Pactolus".
-d0xH0f277e<0xH0f277e.14._d0xH0f277c<0xH0f277c.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=3_N:0xH0f2779=0_R:0xH0f277e=0
+d0xH0f277e<0xH0f277e.15._d0xH0f277c<0xH0f277c.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=3_N:0xH0f2779=0_R:0xH0f277e=0
 
 How about eye drops?
 Finish "The Isles of Kronos" less than 1:10s.
@@ -158,8 +158,8 @@ Don't use any items in "The Labyrinth".
 d0xH0f2772=8_0xH0f2772=10_N:0xH0f2772=8_O:d0xH0f277c>0xH0f277c_P:d0xH0f277e>0xH0f277e.1.
 
 Let's go Xena
-Collect: 5x potions, 2x Phomethean Blade, 1x Hand of Zeus, 1x Frost Biter in " The Renegade Amazon Village".
-d0xH0f277e<0xH0f277e.5._d0xH0f2781<0xH0f2781.2._d0xH0f2783<0xH0f2783.1._d0xH0f277f<0xH0f277f.1._R:0xH0f2772!=10_N:0xH0f2779=0_R:0xH0f277e=0
+Collect: 7x potions, 2x Phomethean Blade, 1x Hand of Zeus, 1x Frost Biter in " The Renegade Amazon Village".
+d0xH0f277e<0xH0f277e.7._d0xH0f2781<0xH0f2781.2._d0xH0f2783<0xH0f2783.1._d0xH0f277f<0xH0f277f.1._R:0xH0f2772!=10_N:0xH0f2779=0_R:0xH0f277e=0
 
 Gabrielle, look out!
 Collect: 9x potions, 1x Phomethean Blade, 2x Super Chakram, 1x Frost Biter, 1x Resurrection Jewel in "Rivers of Blood".
@@ -243,4 +243,4 @@ d0x 0d3168=17670_0x 0d3168=13832
 
 Dial-Up Connection
 Find the developers' secret room on 'The Labyrinth', then hit the computer.
-0xH0f2772=8_0xH0f3665=1_0xH0f3670=172_0xH0f3674=226
+0xH0f2772=8_0xH0f3665=1_0xH0f3671=226

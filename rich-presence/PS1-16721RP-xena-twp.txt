@@ -137,7 +137,7 @@ Lookup:Control
 0x00=A
 0x01=B
 0x02=C
-0x04=D
+0x03=D
 
 Lookup:Move
 0x00=Walk
@@ -154,6 +154,7 @@ Display:
 ?0x0d3168=18723?Universal Studios Digital Arts Presents
 ?0x0d3168=9488?Intro
 ?0x0d3168=5376?Start Menu (@Menu(0xHed534))
+?0xH0f2788=1?Loading... @Level(0xHf2772)
 ?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
 ?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0?Options, 🎵 [Music: @Music(0xHf1594_-27)% | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
 ?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: @Sfx(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)

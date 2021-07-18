@@ -160,6 +160,7 @@ Display:
 ?0x0d3168!=5376_0xHed534=3?Options, 🎵 [Music: @Music(0xHf1594_-27)% | Sfx: @Sfx(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)]
 ?0xHf2772=hff?Load Level > @Level(0xHee200) @LoadLvl(0xHee200)
 ?0xH0f0e00=1?⏸️ Paused, 🗡️ @SwordUp(0xHf2785)/4 🛡️ @ShieldUp(0xHf2786)/4 📜 @Scrolls(0xHf277b)/42 | ⭕x@SuperChakram(0xHf2780) ✨x@GoldenShield(0xHf2782) ⚡ x@HandofZeus(0xHf277f) 🔥 x@PrometheanBlade(0xHf2781) ❄️x@FrostBiter(0xHf2783)
+?0xH0f2772=3_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🏴‍☠️ @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=4_0xHfc210=1?👁️ Facing the Cyclops in the @Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=4?Isles of Kronos, [❤️ @XenaHp(0xHfc1c4)/109 | 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=8_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐮 @BossHp(0xHfc230)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]

@@ -177,8 +177,7 @@ Display:
 ?0xH0f2772=3_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🏴‍☠️ @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=4_0xHfc210=1?👁️ Facing the Cyclops in the @Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=4?🏝️ Isles of Kronos, [❤️ @XenaHp(0xHfc1c4)/109 | 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
-?0xHf2772=8_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐮 @BossHp(0xHfc230)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
-?0xHf2772=8?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=8_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐮 @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=hc_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🏹 @BossHp(0xHfc230)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=hf_0xHfc210=1?Facing the Dragon in @Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐲 @BossHp(0xHfc230)/109 | 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=hf?Dyzan's Lair, [❤️ @XenaHp(0xHfc1c4)/109 | 📜 x@LvlScrolls(0xHf277a)]
@@ -191,6 +190,6 @@ Display:
 ?0xHf2772=hc?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=h1a?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?O:0xHf2772=1_O:0xHf2772=5_O:0xHf2772=7_O:0xHf2772=ha_O:0xHf2772=h12_O:0xHf2772=h14_0xHf2772=h15?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
-?O:0xHf2772=6_O:0xHf2772=hb_O:0xHf2772=h10_O:0xHf2772=h11_O:0xHf2772=h18_0xHf2772=h19?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xHf2772=6_O:0xHf2772=8_O:0xHf2772=hb_O:0xHf2772=h10_O:0xHf2772=h11_O:0xHf2772=h18_0xHf2772=h19?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?O:0xH0f2772=2_0xH0f2772=3?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 Playing Xena: Warrior Princess 🗡️

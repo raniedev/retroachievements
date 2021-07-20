@@ -1,250 +1,214 @@
-MOLDE
-d0xH0f277e<0xH0f277e.10._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.1._d0xH0f2781<0xH0f2781.1._d0xH0f2782<0xH0f2782.1._d0xH0f2783<0xH0f2783.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
+Format:XenaHp
+FormatType=VALUE
 
-The Road to Oebalus
-Finish level 1.
-d0xH0f2772=1_0xH0f2772=2
+Format:BossHp
+FormatType=VALUE
 
-Trouble in Oebalus
-Finish level 2.
-d0xH0f2772=1_0xH0f2772=2
+Format:Columns
+FormatType=VALUE
 
-The Pirate King Pactolus
-Finish level 3.
-d0xH0f2772=3_0xH0f2772=4
+Format:PartnerHp
+FormatType=VALUE
 
-The Isles of Kronos
-Finish level 4.
-d0xH0f2772=4_0xH0f2772=5
+Format:Enemies
+FormatType=VALUE
 
-On the Trail of Gabrielle
-Finish level 5.
-d0xH0f2772=5_0xH0f2772=6
+Format:LvlScrolls
+FormatType=VALUE
 
-Valarian's Castle
-Finish level 6.
-d0xH0f2772=6_0xH0f2772=7
+Format:Scrolls
+FormatType=VALUE
 
-Valarian's Secret
-Finish level 7.
-d0xH0f2772=7_0xH0f2772=8
+Format:Hostages
+FormatType=VALUE
 
-The Labyrinth
-Finish level 8.
-d0xH0f2772=8_0xH0f2772=10
+Format:SwordUp
+FormatType=VALUE
 
-The Renegade Amazon Village
-Finish level 9.
-d0xH0f2772=10_0xH0f2772=11
+Format:ShieldUp
+FormatType=VALUE
 
-Rivers of Blood
-Finish level 10.
-d0xH0f2772=11_0xH0f2772=12
+Format:Potions
+FormatType=VALUE
 
-Lost Temple of the Titans
-Finish level 11.
-d0xH0f2772=12_0xH0f2772=15
+Format:Jewels
+FormatType=VALUE
 
-Dyzan's Lair
-Finish level 12.
-d0xH0f2772=15_0xH0f2772=16
+Format:SuperChakram
+FormatType=VALUE
 
-Road to Hades
-Finish level 13.
-d0xH0f2772=16_0xH0f2772=17
+Format:HandofZeus
+FormatType=VALUE
 
-Traps of Charon
-Finish level 14.
-d0xH0f2772=17_0xH0f2772=18
+Format:GoldenShield
+FormatType=VALUE
 
-Hades' Castle
-Finish level 15.
-d0xH0f2772=18_0xH0f2772=20
+Format:PrometheanBlade
+FormatType=VALUE
 
-The Village of T'ir Na
-Finish level 16.
-d0xH0f2772=20_0xH0f2772=21
+Format:FrostBiter
+FormatType=VALUE
 
-Rescue the Seer, Fei
-Finish level 17.
-d0xH0f2772=21_0xH0f2772=22
+Format:Music
+FormatType=VALUE
 
-The Lyre of Orpheus
-Finish level 18.
-d0xH0f2772=22_0xH0f2772=24
+Format:Sfx
+FormatType=VALUE
 
-The Three Sisters
-Finish level 19.
-d0xH0f2772=24_0xH0f2772=25
+Format:Hour
+FormatType=VALUE
 
-The Challenge
-Finish level 20.
-d0xH0f2772=25_0xH0f2772=26
+Format:Min
+FormatType=VALUE
 
-Aleleleleleleleleyah!
-Kill 300 enemies in one season.
-d0xH0f2775<0xH0f2775.300.
+Format:Sec
+FormatType=VALUE
 
-Rare Scrolls
-Collect all Scrolls in one season. (It's not necessary finish the level)
-N:0xH0f2772=1_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=2_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=3_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=4_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=5_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=6_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=7_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=8_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=10_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=11_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=12_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=15_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=16_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=17_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=18_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=20_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=21_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=22_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=24_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=25_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=26_N:d0xH0f277a=1_0xH0f277a=2.1.
+Format:ItemsC
+FormatType=VALUE
 
-Xiphos
-Upgrade sword at maximum.
-d0xH0f2786=3_0xH0f2786=4
+Lookup:Level
+0x00=🏺 Training Arena
+0x01=🌈 The Road to Oebalus
+0x02=⛵ Trouble in Oebalus
+0x03=🦈 The Pirate King Pactolus
+0x04=🏝️ Isles of Kronos
+0x05=🐄 On the Trail of Gabrielle
+0x06=🏕️ Valarian's Castle
+0x07=🏰 Valarian's Secret
+0x08=🕯️ The Labyrinth
+0x0a=🦜 The Renegade Amazon Village
+0x0b=🦜 Rivers of Blood
+0x0c=🦜 Lost Temple of the Titans
+0x0f=🔥 Dyzan's Lair
+0x10=🔥 Road to Hades
+0x11=🔥 Traps of Charon
+0x12=👻 Hades' Castle
+0x14=❄️ The Village of T'ir Na
+0x15=❄️ Rescue the Seer, Fei
+0x16=❄️ The Lyre of Orpheus
+0x18=🏺 The Three Sisters
+0x19=🏺 The Challenge
+0x1a=🏛️ The Temple of the Pinnacles 
 
-Aspis
-Upgrade shield at maximum.
-d0xH0f2785=3_0xH0f2785=4
+Lookup:LoadLvl
+0x01=(Level 1)
+0x02=(Level 2)
+0x03=(Level 3)
+0x04=(Level 4)
+0x05=(Level 5)
+0x06=(Level 6)
+0x07=(Level 7)
+0x08=(Level 8)
+0x0a=(Level 9)
+0x0b=(Level 10)
+0x0c=(Level 11)
+0x0f=(Level 12)
+0x10=(Level 13)
+0x11=(Level 14)
+0x12=(Level 15)
+0x14=(Level 16)
+0x15=(Level 17)
+0x16=(Level 18)
+0x18=(Level 19)
+0x19=(Level 20)
+0x1a=(Level 21)
 
-Save me!
-Save 9 hostages in Trouble in Oebalus.
-0xH0f2772=2_d0xH0f2777=8_0xH0f2777=9
+Lookup:EnemyIcon
+0x01=🏴‍☠️
+0x02=🏴‍☠️
+0x03=🏴‍☠️
+0x04=👁️
+0x05=⚔️
+0x06=⚔️
+0x07=⚔️
+0x08=🕷️
+0x0a=🏹
+0x0b=🏹
+0x0c=🏹
+0x0f=🐲
+0x10=💀
+0x11=💀
+0x12=💀
+0x14=⚔️
+0x15=⚔️
+0x16=⚔️
+0x18=🐍☠️
+0x19=👹☠️
+0x1a=🏺
 
-Chrysus
-Activate a Golden Shield in "Trouble in Oebalus" and "The Pirate King Pactolus"
-N:0xH0f2772=2_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=3_d0xH0f2782>0xH0f2782.1.
+Lookup:Audio
+0x00=Mono
+0x01=Stereo
 
-Chakram
-Have 3x Super Chakram.
-d0xH0f2780=2_0xH0f2780=3
+Lookup:Vibration
+0x00=Off
+0x01=On
 
-Zeus
-Have 3x Hand of Zeus.
-d0xH0f277f=2_0xH0f277f=3
+Lookup:Control
+0x00=A
+0x01=B
+0x02=C
+0x03=D
 
-Despoina
-Activate a Frost Biter in "The Renegade Amazon Village" and "Rivers of Blood".
-N:0xH0f2772=10_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=11_d0xH0f2782>0xH0f2782.1.
+Lookup:Move
+0x00=Walk
+0x01=Run
 
-Hephaestus
-Activate a Phomethean Blade in "The Village of T'ir Na" and "Rescue the Seer, Fei".
-N:0xH0f2772=20_d0xH0f2783>0xH0f2782.1._N:0xH0f2772=21_d0xH0f2783>0xH0f2782.1.
+Lookup:Menu
+0x00=New Game
+0x01=Load Game
+0x02=Training Arena
+0x03=Options
 
-Training Arena
-Collect at least 10 potions and 1 golden shield in Training Mode.
-0x 0f2772=0_d0xH0f277e<0xH0f277e.10._d0xH0f2782<0xH0f2782.1._R:0x 0d3168=5376
-
-Someone will going to regret this
-Finish "The Road to Oebalus" less than 1:10s.
-N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=1_0xH0f2772=2
-
-Where there's smoke there's fire
-Collect: 12x potions, 1x Resurrection Jewel, 1x Golden Shield, 1x Super Chakram in "Trouble in Oebalus".
-d0xH0f277e<0xH0f277e.12._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=2_N:0xH0f2779=0_R:0xH0f277e=0
-
-Who send you here?
-Collect: 14x potions, 1x Resurrection Jewel, 1x Golden Shield in "The Pirate King Pactolus".
-d0xH0f277e<0xH0f277e.15._d0xH0f277c<0xH0f277c.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=3_N:0xH0f2779=0_R:0xH0f277e=0
-
-How about eye drops?
-Finish "The Isles of Kronos" less than 1:10s.
-N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=4_0xH0f2772=5
-
-Bloodthirsty
-Defeat 30 enemies in "On the Trail of Gabrielle".
-N:0xH0f2772=5_0xH0f2775>=30
-
-I hate catapults
-Collect: 4x potions, 1x Golden Shield, 3x Hand of Zeus, 1x Resurrection Jewel in "Valarian's Castle".
-d0xH0f277e<0xH0f277e.4._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.3._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=6_N:0xH0f2779=0_R:0xH0f277e=0
-
-You can run but you can't hide
-Collect: 17x potions, 2x Super Chakram, 1x Hand of Zeus in "Valarian's Secret".
-d0xH0f277e<0xH0f277e.17._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.2._R:0xH0f2772!=7_N:0xH0f2779=0_R:0xH0f277e=0
-
-The Minotaur
-Don't use any items in "The Labyrinth".
-d0xH0f2772=8_0xH0f2772=10_N:0xH0f2772=8_O:d0xH0f277c>0xH0f277c_P:d0xH0f277e>0xH0f277e.1.
-
-Let's go Xena
-Collect: 7x potions, 2x Phomethean Blade, 1x Hand of Zeus, 1x Frost Biter in " The Renegade Amazon Village".
-d0xH0f277e<0xH0f277e.7._d0xH0f2781<0xH0f2781.2._d0xH0f2783<0xH0f2783.1._d0xH0f277f<0xH0f277f.1._R:0xH0f2772!=10_N:0xH0f2779=0_R:0xH0f277e=0
-
-Gabrielle, look out!
-Collect: 9x potions, 1x Phomethean Blade, 2x Super Chakram, 1x Frost Biter, 1x Resurrection Jewel in "Rivers of Blood".
-d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.2._d0xH0f2781<0xH0f2781.1._d0xH0f2783<0xH0f2783.1._R:0xH0f2772!=11_N:0xH0f2779=0_R:0xH0f277e=0
-
-Amazon Queen
-Finish "Lost Temple of the Titans" using at most 2 potions.
-d0xH0f2772=12_0xH0f2772=15_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=12
-
-The Dragon
-Finish "Dyzan's Lair" less than or equal to 1min.
-N:0xH0f1242=1_O:0xH0f1243=0_0xH0f1242<1_d0xH0f2772=15_0xH0f2772=16
-
-Tartarus
-Collect: 8x potions, 2x Resurrection Jewel in "Road to Hades".
-d0xH0f277e<0xH0f277e.8._d0xH0f277c<0xH0f277c.2._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Skull Collector
-Defeat 65 enemies in "Traps of Charon".
-N:0xH0f2772=17_0xH0f2775>=65
-
-Underworld
-Finish "Hades' Castle" less than or equal to 2min.
-N:0xH0f1242=2_O:0xH0f1243=0_0xH0f1242<2_d0xH0f2772=18_0xH0f2772=20
-
-Blizzard
-Collect: 10x potions, 1x Phomethean Blade, 1x Super Chakram in "The Village of T'ir Na".
-d0xH0f277e<0xH0f277e.10._d0xH0f2780<0xH0f2780.1._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Red Snow
-Collect: 5x potions, 3x Super Chakram, 1x Hand of Zeus, 1x Phomethean Blade in "Rescue the Seer, Fei".
-d0xH0f277e<0xH0f277e.5._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.3._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Ancient Runes
-Finish "The Lyre of Orpheus" using at most 2 potions.
-d0xH0f2772=22_0xH0f2772=24_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=22
-
-Gorgons
-Collect: 9x potions, 2x Resurrection Jewel, 1x Golden Shield in "The Three Sisters".
-d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.2._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-The song of Orpheus
-Defeat 30 enemies in "The Challenge".
-N:0xH0f2772=25_0xH0f2775>=30
-
-Kalabrax
-Don't use any items in "The Temple of the Pinnacles".
-0xH0f2772=26_0x 0d3168=17670_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1.
-
-Demigod
-Have 2x Resurrection Jewel.
-d0xH0f277c=1_0xH0f277c=2
-
-The Chakram of Light
-Activate the power of Chakram.
-0xH0f0d16=1
-
-Power of Gods
-Use Promethean Blade, Hand of Zeus and Frost Biter in sequence. (Any order)
-0xH0f2772=10
-[Alt 1]
-N:d0xH0f0cf2=2_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=32.1.
-[Alt 2]
-N:d0xH0f0cf2=8_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=32.1.
-[Alt 3]
-N:d0xH0f0cf2=2_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=8.1.
-[Alt 4]
-N:d0xH0f0cf2=32_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=8.1.
-[Alt 5]
-N:d0xH0f0cf2=8_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=2.1.
-[Alt 6]
-N:d0xH0f0cf2=32_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=2.1._R:0xH0f0cf2=0
-
-Nectar
-Have 15x Potions.
-d0xH0f277e=14_0xH0f277e=15
-
-Deity Rank
-Get the true ending.
-d0x 0d3168=17670_0x 0d3168=13832
-
-Dial-Up Connection
-Find the developers' secret room in "The Labyrinth", then hit the computer.
-0xH0f2772=8_0xH0f3665=1_0xH0f3674=226
-
-When cows fly
-Defeate all enemies in "Valarian's Castle", the catapult user will throw a cow on you.
-0xH0f2772=6_0xH0f3665=1_0xH0f3674=215
+Display:
+?0x0d3168=H3506?Electronic Arts
+?0x0d3168=H4923?Universal Studios Digital Arts Presents
+?0x0d3168=H2510?Intro
+?0x0d3168=H4503?Credits
+?0x0d3168=H3303?Game Over
+?0x0d3168=H1313?Xena defeated Pactolus
+?0x0d3168=H5713?Xena defeated King Valerian's army
+?0x0d3168=H5814?Xena defeated the Minotaur and rescued Gabrielle
+?0x0d3168=H5715?Gabrielle was kidnapped by the renegade amazons
+?0x0d3168=H1416?Kallabrax sends Xena to Underworld
+?0x0d3168=H4817?Xena asks Hades for help
+?0x0d3168=H1419?Xena arrives the Village of T'ir Na
+?0x0d3168=H3520?Xena defeated Yat and got the Lyre of Orpheus
+?0x0d3168=H4221?Xena watches Kallabrax preparing Gabrielle for a ritual
+?0x0d3168=H2623?Kallabrax turns into a beast
+?0x0d3168=H3822?The temple collapses killing the beast
+?0x0d3168=H4506?Xena saves Gabrielle
+?0x0d3168=H3608?True ending
+?0x0d3168=H1500?Start Menu (@Menu(0xHed534))
+?0xH0f2788=1?Loading... @Level(0xHf2772)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0?Options, 🎵 [Music: @Music(0xHf1594_-27)% | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: @Sfx(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1?Options, 🎵 [Music: @Music(0xHf1594_-27)% | Sfx: @Sfx(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)]
+?0xHf2772=hff?Load Level > @Level(0xHee200) @LoadLvl(0xHee200)
+?0x0fffa8=h7d7d?Game complete, ⌛ @Hour(0xHf1240):@Min(0xHf1242):0@Sec(0xHf1243) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):0@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👫 x@Hostages(0xHf2777) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👫 x@Hostages(0xHf2777) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):0@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?0xH0f0e00=1?⏸️ Paused, 🗡️ @SwordUp(0xHf2785)/4 🛡️ @ShieldUp(0xHf2786)/4 📜 @Scrolls(0xHf277b)/42 | ⭕x@SuperChakram(0xHf2780) ✨x@GoldenShield(0xHf2782) ⚡ x@HandofZeus(0xHf277f) 🔥 x@PrometheanBlade(0xHf2781) ❄️x@FrostBiter(0xHf2783)
+?0xH0f2772=3_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🏴‍☠️ @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=4_0xHfc210=1?👁️ Facing the Cyclops in the @Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=4?🏝️ Isles of Kronos, [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=8_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐮 @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=hc_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🏹 @BossHp(0xHfc230)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=hf_0xHfc210=1?Facing the Dragon in @Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐲 @BossHp(0xHfc230)/109 | 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=hf?Dyzan's Lair, [❤️ @XenaHp(0xHfc1c4)/109 | 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h10_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 💀 @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h16_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 💀 @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h18_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🐍 @BossHp(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h1a_0xHfc210=1_0xHf2775=3?@Level(0xHf2772) Columns: @Columns(0xHf109c)/10, [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h1a_0xHfc210=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 vs. 🧙🏻‍♀️ @BossHp(0xHfc230)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=0_0xH14ea06=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) ✨x@GoldenShield(0xHf2782)]
+?0xHf2772=hc?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=h1a?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xHf2772=1_O:0xHf2772=5_O:0xHf2772=7_O:0xHf2772=ha_O:0xHf2772=h12_O:0xHf2772=h14_O:0xHf2772=h15_0xHf2772=h16?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xHf2772=6_O:0xHf2772=8_O:0xHf2772=hb_O:0xHf2772=h10_O:0xHf2772=h11_O:0xHf2772=h18_0xHf2772=h19?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xH0f2772=2_0xH0f2772=3?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
+Playing Xena: Warrior Princess 🗡️

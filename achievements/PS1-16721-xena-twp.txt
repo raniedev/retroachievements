@@ -188,6 +188,9 @@ Display:
 ?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1?Options, 🎵 [Music: @Music(0xHf1594_-27)% | Sfx: @Sfx(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)]
 ?0xHf2772=hff?Load Level > @Level(0xHee200) @LoadLvl(0xHee200)
 ?0x0fffa8=h7d7d?Game complete, ⌛ @Hour(0xHf1240):@Min(0xHf1242):0@Sec(0xHf1243) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
+?0xHf2772=h15_0xHfc7b0=0?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xHf2772=ha_0xHf2772=h15?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 💕 @PartnerHp(0xHf1336)/44 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?0xHf2772=hb?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 💕 @PartnerHp(0xHf1336)/44 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):0@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👫 x@Hostages(0xHf2777) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
 ?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👫 x@Hostages(0xHf2777) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
 ?0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Min(0xHf1242):0@Sec(0xHf1243) ⚔️ x@Enemies(0xHf2775) 👜 x@ItemsC(0xHf2779) 📜 (@LvlScrolls(0xHf277a)/2) @Scrolls(0xHf277b)/42
@@ -208,7 +211,7 @@ Display:
 ?0xHf2772=0_0xH14ea06=1?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) ✨x@GoldenShield(0xHf2782)]
 ?0xHf2772=hc?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
 ?0xHf2772=h1a?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
-?O:0xHf2772=1_O:0xHf2772=5_O:0xHf2772=7_O:0xHf2772=ha_O:0xHf2772=h12_O:0xHf2772=h14_O:0xHf2772=h15_0xHf2772=h16?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
+?O:0xHf2772=1_O:0xHf2772=5_O:0xHf2772=7_O:0xHf2772=h12_O:0xHf2772=h14_0xHf2772=h16?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 📜 x@LvlScrolls(0xHf277a)]
 ?O:0xHf2772=6_O:0xHf2772=8_O:0xHf2772=hb_O:0xHf2772=h10_O:0xHf2772=h11_O:0xHf2772=h18_0xHf2772=h19?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 ?O:0xH0f2772=2_0xH0f2772=3?@Level(0xHf2772), [❤️ @XenaHp(0xHfc1c4)/109 | @EnemyIcon(0xHf2772) x@Enemies(0xHf2775) 🧪 x@Potions(0xHf277e) 👫 x@Hostages(0xHf2777) 💎 x@Jewels(0xHf277c) 📜 x@LvlScrolls(0xHf277a)]
 Playing Xena: Warrior Princess 🗡️

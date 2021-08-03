@@ -1,0 +1,47 @@
+Format:Gun
+FormatType=VALUE
+
+Lookup:FlashLight
+0x00=OFF
+0x01=ON
+
+Lookup:Area
+0x1e=Bridge Garden
+0x1f=Bridge Garden
+0x83=East Garden 1
+0x21=East Garden 2
+0x8d=Terrace Garden
+0x8c=Water Tank
+0x1c=Basement
+0x02=Basement
+0x03=Manor: Lobby
+0x0d=Manor: 2F Alan's Bedroom
+0x1b=Manor: 1B Stairs
+0x7e=Manor: 1F Corridors
+0x0f=Manor: 2F West Bedroom
+0x08=Manor: 2F Corridors
+0x0c=Manor: 2F Alan's Officer
+0x18=Manor: West Staircase
+0x16=Manor: 3F West Loft
+0x05=Manor: 1F Museum Corridor
+0x09=Manor: 1F Museum
+0x7d=Manor: 1F Office Corridor
+0x0b=Manor: 1F Howard's Office
+0x0a=Manor: 1F Obed's Office
+0x0e=Manor: 2F Obed's Bedroom
+0x06=Manor: Grand Library
+0x89=Manor: North Rooftop
+0x1d=Manor: Watchtower
+0x11=Manor: 3F West Attic
+0x12=Manor: 3F East Attic
+0x80=Manor: 3F East Attic
+0x81=Manor: 3F East Attic
+0x17=Manor: 3F East Loft
+0x15=Manor: 3F Lucy's Bedroom
+0x19=Manor: East Staircase
+0x7f=Manor: 1F East Staircase Corridor
+0x07=Manor: Secret Chamber
+0x22=Steps Garden
+
+Display:
+@Area(0x146e78), 🔦 @FlashLight(0x1450d0) 🔫x@Gun(0x141570)

@@ -1,250 +1,236 @@
 MOLDE
 d0xH0f277e<0xH0f277e.10._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.1._d0xH0f2781<0xH0f2781.1._d0xH0f2782<0xH0f2782.1._d0xH0f2783<0xH0f2783.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
 
-The Road to Oebalus
+The Road to Oebalus (5)
 Finish level 1.
-d0xH0f2772=1_0xH0f2772=2
+d0xH0f2772=1_0xH0f2772=2_P:0xH0f1258!=0
 
-Trouble in Oebalus
+Trouble in Oebalus (5)
 Finish level 2.
-d0xH0f2772=1_0xH0f2772=2
+d0xH0f2772=2_0xH0f2772=3_P:0xH0f1258!=0
 
-The Pirate King Pactolus
+The Pirate King Pactolus (5)
 Finish level 3.
-d0xH0f2772=3_0xH0f2772=4
+d0xH0f2772=3_0xH0f2772=4_P:0xH0f1258!=0
 
-The Isles of Kronos
+The Isles of Kronos (5)
 Finish level 4.
-d0xH0f2772=4_0xH0f2772=5
+d0xH0f2772=4_0xH0f2772=5_P:0xH0f1258!=0
 
-On the Trail of Gabrielle
+On the Trail of Gabrielle (5)
 Finish level 5.
-d0xH0f2772=5_0xH0f2772=6
+d0xH0f2772=5_0xH0f2772=6_P:0xH0f1258!=0
 
-Valarian's Castle
+Valarian's Castle (5)
 Finish level 6.
-d0xH0f2772=6_0xH0f2772=7
+d0xH0f2772=6_0xH0f2772=7_P:0xH0f1258!=0
 
-Valarian's Secret
+Valarian's Secret (5)
 Finish level 7.
-d0xH0f2772=7_0xH0f2772=8
+d0xH0f2772=7_0xH0f2772=8_P:0xH0f1258!=0
 
 The Labyrinth
 Finish level 8.
-d0xH0f2772=8_0xH0f2772=10
+d0xH0f2772=8_0xH0f2772=10_P:0xH0f1258!=0
 
-The Renegade Amazon Village
+The Renegade Amazon Village (5)
 Finish level 9.
-d0xH0f2772=10_0xH0f2772=11
+d0xH0f2772=10_0xH0f2772=11_P:0xH0f1258!=0
 
-Rivers of Blood
+Rivers of Blood (5)
 Finish level 10.
-d0xH0f2772=11_0xH0f2772=12
+d0xH0f2772=11_0xH0f2772=12_P:0xH0f1258!=0
 
-Lost Temple of the Titans
+Lost Temple of the Titans (5)
 Finish level 11.
-d0xH0f2772=12_0xH0f2772=15
+d0xH0f2772=12_0xH0f2772=15_P:0xH0f1258!=0
 
-Dyzan's Lair
+Dyzan's Lair (5)
 Finish level 12.
-d0xH0f2772=15_0xH0f2772=16
+d0xH0f2772=15_0xH0f2772=16_P:0xH0f1258!=0
 
-Road to Hades
+Road to Hades (5)
 Finish level 13.
-d0xH0f2772=16_0xH0f2772=17
+d0xH0f2772=16_0xH0f2772=17_P:0xH0f1258!=0
 
-Traps of Charon
+Traps of Charon (5)
 Finish level 14.
-d0xH0f2772=17_0xH0f2772=18
+d0xH0f2772=17_0xH0f2772=18_P:0xH0f1258!=0
 
-Hades' Castle
+Hades' Castle (5)
 Finish level 15.
-d0xH0f2772=18_0xH0f2772=20
+d0xH0f2772=18_0xH0f2772=20_P:0xH0f1258!=0
 
-The Village of T'ir Na
+The Village of T'ir Na (5)
 Finish level 16.
-d0xH0f2772=20_0xH0f2772=21
+d0xH0f2772=20_0xH0f2772=21_P:0xH0f1258!=0
 
-Rescue the Seer, Fei
+Rescue the Seer, Fei (5)
 Finish level 17.
-d0xH0f2772=21_0xH0f2772=22
+d0xH0f2772=21_0xH0f2772=22_P:0xH0f1258!=0
 
-The Lyre of Orpheus
+The Lyre of Orpheus (5)
 Finish level 18.
-d0xH0f2772=22_0xH0f2772=24
+d0xH0f2772=22_0xH0f2772=24_P:0xH0f1258!=0
 
-The Three Sisters
+The Three Sisters (5)
 Finish level 19.
-d0xH0f2772=24_0xH0f2772=25
+d0xH0f2772=24_0xH0f2772=25_P:0xH0f1258!=0
 
-The Challenge
+The Challenge (10)
 Finish level 20.
-d0xH0f2772=25_0xH0f2772=26
+d0xH0f2772=25_0xH0f2772=26_P:0xH0f1258!=0
 
-Aleleleleleleleleyah!
-Kill 300 enemies in one season.
-d0xH0f2775<0xH0f2775.300.
+The Temple of the Pinnacles (10)
+Finish level 21.
+0xH0f2772=26_0x 0d3168=17670_P:0xH0f1258!=0
 
-Rare Scrolls
-Collect all Scrolls in one season. (It's not necessary finish the level)
-N:0xH0f2772=1_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=2_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=3_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=4_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=5_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=6_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=7_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=8_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=10_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=11_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=12_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=15_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=16_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=17_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=18_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=20_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=21_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=22_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=24_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=25_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=26_N:d0xH0f277a=1_0xH0f277a=2.1.
+Rest in peace, Siras (5)
+Finish "The Road to Oebalus" less than or equal to 1:10s.
+N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=1_0xH0f2772=2_P:0xH0f1258!=0
 
-Xiphos
-Upgrade sword at maximum.
-d0xH0f2786=3_0xH0f2786=4
+I'm too young to die! (10)
+Save 9 hostages in "Trouble in Oebalus".
+0xH0f2772=2_d0xH0f2777=8_0xH0f2777=9_P:0xH0f1258!=0
 
-Aspis
-Upgrade shield at maximum.
-d0xH0f2785=3_0xH0f2785=4
+Freedom (10)
+Save 6 hostages in "The Pirate King Pactolus".
+0xH0f2772=3_d0xH0f2777=5_0xH0f2777=6_P:0xH0f1258!=0
 
-Save me!
-Save 9 hostages in Trouble in Oebalus.
-0xH0f2772=2_d0xH0f2777=8_0xH0f2777=9
+How about using eye drops? (5)
+Finish "The Isles of Kronos" less than or equal to 1:10s.
+N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=4_0xH0f2772=5_P:0xH0f1258!=0
 
-Chrysus
-Activate a Golden Shield in "Trouble in Oebalus" and "The Pirate King Pactolus"
-N:0xH0f2772=2_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=3_d0xH0f2782>0xH0f2782.1.
-
-Chakram
-Have 3x Super Chakram.
-d0xH0f2780=2_0xH0f2780=3
-
-Zeus
-Have 3x Hand of Zeus.
-d0xH0f277f=2_0xH0f277f=3
-
-Despoina
-Activate a Frost Biter in "The Renegade Amazon Village" and "Rivers of Blood".
-N:0xH0f2772=10_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=11_d0xH0f2782>0xH0f2782.1.
-
-Hephaestus
-Activate a Phomethean Blade in "The Village of T'ir Na" and "Rescue the Seer, Fei".
-N:0xH0f2772=20_d0xH0f2783>0xH0f2782.1._N:0xH0f2772=21_d0xH0f2783>0xH0f2782.1.
-
-Training Arena
-Collect at least 10 potions and 1 golden shield in Training Mode.
-0x 0f2772=0_d0xH0f277e<0xH0f277e.10._d0xH0f2782<0xH0f2782.1._R:0x 0d3168=5376
-
-Someone will going to regret this
-Finish "The Road to Oebalus" less than 1:10s.
-N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=1_0xH0f2772=2
-
-Where there's smoke there's fire
-Collect: 12x potions, 1x Resurrection Jewel, 1x Golden Shield, 1x Super Chakram in "Trouble in Oebalus".
-d0xH0f277e<0xH0f277e.12._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=2_N:0xH0f2779=0_R:0xH0f277e=0
-
-Who send you here?
-Collect: 14x potions, 1x Resurrection Jewel, 1x Golden Shield in "The Pirate King Pactolus".
-d0xH0f277e<0xH0f277e.15._d0xH0f277c<0xH0f277c.1._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=3_N:0xH0f2779=0_R:0xH0f277e=0
-
-How about eye drops?
-Finish "The Isles of Kronos" less than 1:10s.
-N:0xH0f1242=1_O:0xH0f1243<=10_0xH0f1242<1_d0xH0f2772=4_0xH0f2772=5
-
-Bloodthirsty
+Bloodthirsty (10)
 Defeat 30 enemies in "On the Trail of Gabrielle".
-N:0xH0f2772=5_0xH0f2775>=30
+0xH0f2772=5_d0xH0f2775=29_0xH0f2775=30_P:0xH0f1258!=0
 
-I hate catapults
-Collect: 4x potions, 1x Golden Shield, 3x Hand of Zeus, 1x Resurrection Jewel in "Valarian's Castle".
-d0xH0f277e<0xH0f277e.4._d0xH0f277c<0xH0f277c.1._d0xH0f277f<0xH0f277f.3._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=6_N:0xH0f2779=0_R:0xH0f277e=0
+When cows fly (5)
+Destroy the camp and the fort in "Valarian's Castle", the catapult user will throw a cow on you.
+0xH0f2772=6_0xH0f3665=1_0xH0f3674=215_P:0xH0f1258!=0
 
-You can run but you can't hide
-Collect: 17x potions, 2x Super Chakram, 1x Hand of Zeus in "Valarian's Secret".
-d0xH0f277e<0xH0f277e.17._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.2._R:0xH0f2772!=7_N:0xH0f2779=0_R:0xH0f277e=0
+Now I like catapults (5)
+Use the catapult and destroy the fort in "Valarian's Secret".
+0xH0f2772=7_0xH0f3674=12_P:0xH0f1258!=0
 
-The Minotaur
-Don't use any items in "The Labyrinth".
-d0xH0f2772=8_0xH0f2772=10_N:0xH0f2772=8_O:d0xH0f277c>0xH0f277c_P:d0xH0f277e>0xH0f277e.1.
+The Minotaur (10)
+Don't use any item in "The Labyrinth".
+d0xH0f2772=8_0xH0f2772=10_Z:0xH0f2779=0_P:d0xH0f277c>0xH0f277c.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1._P:0xH0f1258!=0
 
-Let's go Xena
-Collect: 7x potions, 2x Phomethean Blade, 1x Hand of Zeus, 1x Frost Biter in " The Renegade Amazon Village".
-d0xH0f277e<0xH0f277e.7._d0xH0f2781<0xH0f2781.2._d0xH0f2783<0xH0f2783.1._d0xH0f277f<0xH0f277f.1._R:0xH0f2772!=10_N:0xH0f2779=0_R:0xH0f277e=0
-
-Gabrielle, look out!
-Collect: 9x potions, 1x Phomethean Blade, 2x Super Chakram, 1x Frost Biter, 1x Resurrection Jewel in "Rivers of Blood".
-d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.1._d0xH0f2780<0xH0f2780.2._d0xH0f2781<0xH0f2781.1._d0xH0f2783<0xH0f2783.1._R:0xH0f2772!=11_N:0xH0f2779=0_R:0xH0f277e=0
-
-Amazon Queen
-Finish "Lost Temple of the Titans" using at most 2 potions.
-d0xH0f2772=12_0xH0f2772=15_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=12
-
-The Dragon
-Finish "Dyzan's Lair" less than or equal to 1min.
-N:0xH0f1242=1_O:0xH0f1243=0_0xH0f1242<1_d0xH0f2772=15_0xH0f2772=16
-
-Tartarus
-Collect: 8x potions, 2x Resurrection Jewel in "Road to Hades".
-d0xH0f277e<0xH0f277e.8._d0xH0f277c<0xH0f277c.2._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Skull Collector
-Defeat 65 enemies in "Traps of Charon".
-N:0xH0f2772=17_0xH0f2775>=65
-
-Underworld
-Finish "Hades' Castle" less than or equal to 2min.
-N:0xH0f1242=2_O:0xH0f1243=0_0xH0f1242<2_d0xH0f2772=18_0xH0f2772=20
-
-Blizzard
-Collect: 10x potions, 1x Phomethean Blade, 1x Super Chakram in "The Village of T'ir Na".
-d0xH0f277e<0xH0f277e.10._d0xH0f2780<0xH0f2780.1._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Red Snow
-Collect: 5x potions, 3x Super Chakram, 1x Hand of Zeus, 1x Phomethean Blade in "Rescue the Seer, Fei".
-d0xH0f277e<0xH0f277e.5._d0xH0f277f<0xH0f277f.1._d0xH0f2780<0xH0f2780.3._d0xH0f2781<0xH0f2781.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-Ancient Runes
-Finish "The Lyre of Orpheus" using at most 2 potions.
-d0xH0f2772=22_0xH0f2772=24_P:d0xH0f277e>0xH0f277e.3._R:d0xH0f2772!=22
-
-Gorgons
-Collect: 9x potions, 2x Resurrection Jewel, 1x Golden Shield in "The Three Sisters".
-d0xH0f277e<0xH0f277e.9._d0xH0f277c<0xH0f277c.2._d0xH0f2782<0xH0f2782.1._R:0xH0f2772!=1_N:0xH0f2779=0_R:0xH0f277e=0
-
-The song of Orpheus
-Defeat 30 enemies in "The Challenge".
-N:0xH0f2772=25_0xH0f2775>=30
-
-Kalabrax
-Don't use any items in "The Temple of the Pinnacles".
-0xH0f2772=26_0x 0d3168=17670_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1.
-
-Demigod
-Have 2x Resurrection Jewel.
-d0xH0f277c=1_0xH0f277c=2
-
-The Chakram of Light
-Activate the power of Chakram.
-0xH0f0d16=1
-
-Power of Gods
+Power of Gods (5)
 Use Promethean Blade, Hand of Zeus and Frost Biter in sequence. (Any order)
-0xH0f2772=10
-[Alt 1]
-N:d0xH0f0cf2=2_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=32.1.
-[Alt 2]
-N:d0xH0f0cf2=8_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=32.1.
-[Alt 3]
-N:d0xH0f0cf2=2_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=8.1.
-[Alt 4]
-N:d0xH0f0cf2=32_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=8.1.
-[Alt 5]
-N:d0xH0f0cf2=8_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=2.1.
-[Alt 6]
-N:d0xH0f0cf2=32_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=2.1._R:0xH0f0cf2=0
+0xH0f2772=10_P:0xH0f1258!=0
+(alt 1) N:d0xH0f0cf2=2_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=32.1.
+(alt 2) N:d0xH0f0cf2=8_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=32.1.
+(alt 3) N:d0xH0f0cf2=8_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=32.1.
+(alt 4) N:d0xH0f0cf2=32_0xH0f0cf2=2.1._N:d0xH0f0cf2=2_0xH0f0cf2=8.1.
+(alt 5) N:d0xH0f0cf2=8_0xH0f0cf2=32.1._N:d0xH0f0cf2=32_0xH0f0cf2=2.1.
+(alt 6) N:d0xH0f0cf2=32_0xH0f0cf2=8.1._N:d0xH0f0cf2=8_0xH0f0cf2=2.1._R:0xH0f0cf2=0
 
-Nectar
+Red River (10)
+Defeat 35 enemies in "Rivers of Blood". [Warning: Kills using Frost Biter will not count]
+0xH0f2772=11_d0xH0f2775=34_0xH0f2775=35_P:0xH0f1258!=0
+
+The Amazon Queen (25)
+Don't use any item in "Lost Temple of the Titans".
+d0xH0f2772=12_0xH0f2772=15_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1._P:0xH0f1258!=0
+
+The Dragon (5)
+Finish "Dyzan's Lair" less than or equal to 1min.
+N:0xH0f1242=1_O:0xH0f1243=0_0xH0f1242<1_d0xH0f2772=15_0xH0f2772=16_P:0xH0f1258!=0
+
+Tartarus (25)
+Don't use any item in "Road to Hades".
+d0xH0f2772=16_0xH0f2772=17_Z:0xH0f2779=0_P:d0xH0f277c>0xH0f277c.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1._P:0xH0f1258!=0_P:0xH0f1258!=0
+
+Skull Collector (25)
+Defeat 65 enemies in "Traps of Charon" without using Resurrection Jewel.
+0xH0f2772=17_d0xH0f2775=64_0xH0f2775=65_Z:0xH0f2779=0_P:d0xH0f277c>0xH0f277c.1._P:0xH0f1258!=0
+
+Underworld (10)
+Finish "Hades' Castle" less than or equal to 1:40s.
+N:0xH0f1242=1_O:0xH0f1243<=40_0xH0f1242<1_d0xH0f2772=18_0xH0f2772=20_P:0xH0f1258!=0
+
+Red Snow (10)
+Defeat 20 enemies in "The Village of T'ir Na".
+d0xH0f2772=20_0xH0f2772=21_0xH0f2775=20_P:0xH0f1258!=0
+
+The Seer (25)
+Save Fei with 100% of his health bar.
+d0xH0f2772=21_0xH0f2772=22_0xH0f1336>=44_P:0xH0f1258!=0
+
+Yat, The Druid Sorcerer (25)
+Don't use any item in "The Lyre of Orpheus".
+d0xH0f2772=22_0xH0f2772=24_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1._P:0xH0f1258!=0
+
+Gorgons (10)
+Don't use Resurrection Jewel or Golden Shield in "The Three Sisters".
+d0xH0f2772=24_0xH0f2772=25_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._Z:0xH0f2779=0_P:d0xH0f277c>0xH0f277c.1._P:0xH0f1258!=0
+
+The song of Orpheus (10)
+Defeat 15 enemies in "The Challenge".
+0xH0f2772=25_d0xH0f2775=14_0xH0f2775=15_P:0xH0f1258!=0
+
+Kalabrax (25)
+Don't use any item in "The Temple of the Pinnacles".
+0xH0f2772=26_0x 0d3168=17670_Z:0xH0f2779=0_P:d0xH0f2782>0xH0f2782.1._N:0xH0f2779=0_Z:0xH0f1330=109_P:d0xH0f1330<0xH0f1330.1._P:0xH0f1258!=0
+
+Nectar (5)
 Have 15x Potions.
-d0xH0f277e=14_0xH0f277e=15
+d0xH0f277e=14_0xH0f277e=15_P:0xH0f2772=0_P:0xH0f1258!=0
 
-Deity Rank
+Demigod (5)
+Have 2x Resurrection Jewel.
+d0xH0f277c=1_0xH0f277c=2_P:0xH0f1258!=0
+
+Xiphos (10)
+Upgrade sword at maximum.
+d0xH0f2786=3_0xH0f2786=4_P:0xH0f1258!=0
+
+Aspis (10)
+Upgrade shield at maximum.
+d0xH0f2785=3_0xH0f2785=4_P:0xH0f1258!=0
+
+The Chakram of Light (5)
+Activate the power of Chakram.
+0xH0f0d16=1_P:0xH0f1258!=0
+
+Chrysus (5)
+Activate a Golden Shield in "The Pirate King Pactolus" and "The Challenge".
+N:0xH0f2772=3_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=25_d0xH0f2782>0xH0f2782.1._P:0xH0f1258!=0
+
+Seek and Destroy (5)
+Have 3x Super Chakram.
+d0xH0f2780=2_0xH0f2780=3_P:0xH0f1258!=0
+
+Zeus (5)
+Have 3x Hand of Zeus.
+d0xH0f277f=2_0xH0f277f=3_P:0xH0f1258!=0
+
+Hephaestus (5)
+Have 3x Promethean Blade.
+d0xH0f2781=2_0xH0f2781=3_P:0xH0f1258!=0
+
+Despoina (5)
+Activate a Frost Biter in "The Renegade Amazon Village" and "Rivers of Blood".
+N:0xH0f2772=10_d0xH0f2782>0xH0f2782.1._N:0xH0f2772=11_d0xH0f2782>0xH0f2782.1._P:0xH0f1258!=0
+
+Rare Scrolls (50)
+Collect all Scrolls in one season. (It's not necessary finish the level, Collect both per level)
+N:0xH0f2772=1_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=2_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=3_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=4_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=5_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=6_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=7_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=8_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=10_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=11_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=12_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=15_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=16_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=17_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=18_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=20_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=21_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=22_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=24_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=25_N:d0xH0f277a=1_0xH0f277a=2.1._N:0xH0f2772=26_N:d0xH0f277a=1_0xH0f277a=2.1._P:0xH0f1258!=0
+
+Deity Rank (5)
 Get the true ending.
-d0x 0d3168=17670_0x 0d3168=13832
+d0x 0d3168=17670_0x 0d3168=13832_P:0xH0f1258!=0
 
-Dial-Up Connection
+Aleleleleleleleleyah! (50)
+Kill 500 enemies in one season.
+d0xH0f2775<0xH0f2775.500._P:0xH0f1258!=0
+
+Training Mode (5)
+Collect at least 10 potions (RNG) and 3 golden shields in "Training Arena".
+0x 0f2772=0_d0xH0f277e<0xH0f277e.10._d0xH0f2782<0xH0f2782.3._R:0x 0d3168=5376_R:0xH0f34c8=0_P:0xH0f1258!=0
+
+Dial-Up Connection (5)
 Find the developers' secret room in "The Labyrinth", then hit the computer.
-0xH0f2772=8_0xH0f3665=1_0xH0f3674=226
-
-When cows fly
-Defeate all enemies in "Valarian's Castle", the catapult user will throw a cow on you.
-0xH0f2772=6_0xH0f3665=1_0xH0f3674=215
+0xH0f2772=8_0xH0f3665=1_0xH0f3674=226_P:0xH0f1258!=0

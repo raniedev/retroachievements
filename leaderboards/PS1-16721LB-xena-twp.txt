@@ -1,0 +1,160 @@
+Title: The Road to Oebalus [Time (frames)] [x] Lower is better
+Description: Complete level 1 in fastest time.
+STA: 0xH0f2772=1_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=1
+SUB: 0xH0f2772=1_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Trouble in Oebalus [Time (frames)] [x] Lower is better
+Description: Complete level 2 in fastest time.
+STA: 0xH0f2772=2_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=2
+SUB: 0xH0f2772=2_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Pirate King Pactolus [Time (frames)] [x] Lower is better
+Description: Complete level 3 in fastest time.
+STA: 0xH0f2772=3_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=3
+SUB: 0xH0f2772=3_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Isles of Kronos [Time (frames)] [x] Lower is better
+Description: Complete level 4 in fastest time.
+STA: 0xH0f2772=4_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=4
+SUB: 0xH0f2772=4_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: On the Trail of Gabrielle [Time (frames)] [x] Lower is better
+Description: Complete level 5 in fastest time.
+STA: 0xH0f2772=5_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=5
+SUB: 0xH0f2772=5_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Valarian.s Castle [Time (frames)] [x] Lower is better
+Description: Complete level 6 in fastest time.
+STA: 0xH0f2772=6_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=6
+SUB: 0xH0f2772=6_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Valarian.s Secret [Time (frames)] [x] Lower is better
+Description: Complete level 7 in fastest time.
+STA: 0xH0f2772=7_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=7
+SUB: 0xH0f2772=7_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Labyrinth [Time (frames)] [x] Lower is better
+Description: Complete level 8 in fastest time.
+STA: 0xH0f2772=8_d0xH0f2788=1_0xH0f2788=0
+CAN: 0xH0f2772!=8
+SUB: 0xH0f2772=8_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Renegade Amazon Village [Time (frames)] [x] Lower is better
+Description: Complete level 9 in fastest time.
+STA: 0xH0f2772=Ha_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=Ha
+SUB: 0xH0f2772=Ha_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Rivers of Blood [Time (frames)] [x] Lower is better
+Description: Complete level 10 in fastest time.
+STA: 0xH0f2772=Hb_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=Hb
+SUB: 0xH0f2772=Hb_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Lost Temple of the Titans [Time (frames)] [x] Lower is better
+Description: Complete level 11 in fastest time.
+STA: 0xH0f2772=Hc_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=Hc
+SUB: 0xH0f2772=Hc_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Dyzan.s Lair [Time (frames)] [x] Lower is better
+Description: Complete level 12 in fastest time.
+STA: 0xH0f2772=Hf_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=Hf
+SUB: 0xH0f2772=Hf_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Road to Hades [Time (frames)] [x] Lower is better
+Description: Complete level 13 in fastest time.
+STA: 0xH0f2772=H10_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H10
+SUB: 0xH0f2772=H10_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Traps of Charon [Time (frames)] [x] Lower is better
+Description: Complete level 14 in fastest time.
+STA: 0xH0f2772=H11_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H11
+SUB: 0xH0f2772=H11_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Hades. Castle [Time (frames)] [x] Lower is better
+Description: Complete level 15 in fastest time.
+STA: 0xH0f2772=H12_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H12
+SUB: 0xH0f2772=H12_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Village of T.ir Na [Time (frames)] [x] Lower is better
+Description: Complete level 16 in fastest time.
+STA: 0xH0f2772=H14_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H14
+SUB: 0xH0f2772=H14_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: Rescue the Seer, Fei [Time (frames)] [x] Lower is better
+Description: Complete level 17 in fastest time.
+STA: 0xH0f2772=H15_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H15
+SUB: 0xH0f2772=H15_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Lyre of Orpheus [Time (frames)] [x] Lower is better
+Description: Complete level 18 in fastest time.
+STA: 0xH0f2772=H16_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H16
+SUB: 0xH0f2772=H16_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Three Sisters [Time (frames)] [x] Lower is better
+Description: Complete level 19 in fastest time.
+STA: 0xH0f2772=H18_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H18
+SUB: 0xH0f2772=H18_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Challenge [Time (frames)] [x] Lower is better
+Description: Complete level 20 in fastest time.
+STA: 0xH0f2772=H19_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H19
+SUB: 0xH0f2772=H19_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600
+
+Title: The Temple of the Pinnacles [Time (frames)] [x] Lower is better
+Description: Game complete in fastest time.
+STA: 0xH0f2772=H1a_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H1a
+SUB: 0xH0f2772=H1a_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xH0f1243*60_0xH0f1242*3600_0xH0f1240*216000
+
+Title: The Summoner [Value]
+Description: Highest amount of enemies defetead in The Lyre of Orpheus.
+STA: 0xH0f2772=H16_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H16
+SUB: 0xH0f2772=H16_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xHf2775
+
+Title: Eurydice [Value]
+Description: Highest amount of enemies defetead in The Challenge.
+STA: 0xH0f2772=H19_d0xH0f34c8=0_0xH0f34c8=1
+CAN: 0xH0f2772!=H19
+SUB: 0xH0f2772=H19_d0xH0f31c8=255_0xH0f31c8=56
+VAL: 0xHf2775

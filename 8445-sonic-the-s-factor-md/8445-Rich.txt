@@ -1,0 +1,151 @@
+//Created by: raniejogos
+
+Format:Value
+FormatType=Value
+
+Lookup:Char
+0x00=Sonia
+0x01=Silver
+0x02=Scourge
+0x03=Blaze
+
+Lookup:Lives
+0x00=💗
+0x01=🤍
+0x02=💚
+0x03=💜
+
+Lookup:Super
+0x00=
+0x01=Super 
+
+Lookup:Stage
+0x0000=🌻 Spectra Valley (Act 1)
+0x0001=🌻 Spectra Valley (Act 2)
+0x0002=🌻 Spectra Valley (Act 3)
+0x0200=🔥 Arid Temple (Act 1)
+0x0201=🔥 Arid Temple (Act 2)
+0x0202=🔥 Arid Temple (Act 3)
+0x0400=💰 Ring Land (Act 1)
+0x0401=💰 Ring Land (Act 2)
+0x0402=💰 Ring Land (Act 3)
+0x0100=💧 Placid Saphire (Act 1)
+0x0101=💧 Placid Saphire (Act 2)
+0x0102=💧 Placid Saphire (Act 3)
+0x0300=☁️ Chaotic Street (Act 1)
+0x0301=☁️ Chaotic Street (Act 2)
+0x0302=☁️ Chaotic Street (Act 3)
+0x0900=🤖 White Blaster (Act 1)
+0x0901=🤖 White Blaster (Act 2)
+0x0902=🤖 White Blaster (Act 3)
+0x0500=⚙️ Destron City (Act 1)
+0x0501=⚙️ Destron City (Act 2)
+0x0700=🌴 Destron City (Act 3)
+0x0701=🌴 Destron City (Act 3)
+0x0702=🌴 Destron City (Act 3)
+0x0503=⚙️ Negative Outlook
+0x0a00=✨ Emerald Chase
+
+Lookup:MainMenu
+0x00=Start Game
+0x01=Options
+
+Lookup:OptionsMenu
+0x00=Menu Theme
+0x01=Spike Behavior
+0x02=Super Music
+0x03=Sound Test
+0x04=Password
+0x05=Level Select
+
+Lookup:MenuTheme
+0x00=Sfactor
+0x01=Singer
+0x02=Future
+0x03=Double
+0x04=Feline
+0x05=Speedy
+0x06=Flying
+0x07=Hunter
+0x08=Weapon
+
+Lookup:Behavior
+0x00=Sonic 1
+0x01=Sonic 2
+
+Lookup:SuperMusic
+0x00=On
+0x01=Off
+
+Lookup:Password
+0x00=*
+0x2a=*
+0x41=A
+0x42=B
+0x43=C
+0x44=D
+0x45=E
+0x46=F
+0x47=G
+0x48=H
+0x49=I
+0x4a=J
+0x4b=K
+0x4c=L
+0x4d=M
+0x4e=N
+0x4f=O
+0x50=P
+0x51=Q
+0x52=R
+0x53=S
+0x54=T
+0x55=U
+0x56=V
+0x57=W
+0x58=X
+0x59=Y
+0x5a=Z
+
+Lookup:OptionsLvlSelect
+0x00=🌻 Spectra Valley (Act 1)
+0x01=🌻 Spectra Valley (Act 2)
+0x02=🌻 Spectra Valley (Act 3)
+0x03=🔥 Arid Temple (Act 1)
+0x04=🔥 Arid Temple (Act 2)
+0x05=🔥 Arid Temple (Act 3)
+0x06=💰 Ring Land (Act 1)
+0x07=💰 Ring Land (Act 2)
+0x08=💰 Ring Land (Act 3)
+0x09=💧 Placid Saphire (Act 1)
+0x0a=💧 Placid Saphire (Act 2)
+0x0b=💧 Placid Saphire (Act 3)
+0x0c=☁️ Chaotic Street (Act 1)
+0x0d=☁️ Chaotic Street (Act 2)
+0x0e=☁️ Chaotic Street (Act 3)
+0x0f=🤖 White Blaster (Act 1)
+0x10=🤖 White Blaster (Act 2)
+0x11=🤖 White Blaster (Act 3)
+0x12=⚙️ Destron City (Act 1)
+0x13=⚙️ Destron City (Act 2)
+0x14=🌴 Destron City (Act 3)
+0x15=⚙️ Negative Outlook
+0x16=Ocean Trench Zone???
+
+Display:
+?0x00fe10=H600_0xH00fdfb!=6?🏆 Congratulations, you've finished the game as @Char(0xH00ffba) and collected all chaos emeralds.
+?0x00fe10=H601_0xH00fdfb!=6?👎 You've finished the game as @Char(0xH00ffba) but unfortunately don't collected all chaos emeralds. Try again! 💎@Value(0xH00fe56)/7
+?0x00fdfb=H80?Sega
+?O:0x00fdfb=Hdc_0x00fdfb=Hdd?Sonic Retro
+?O:0xH00fdfa=H32_O:0x00fdfa=Hffae_O:0x00fdfa=Hffda_O:0x00fdfa=Hc_O:0x00fdfa=H42_0x00fdfa=Hca?The S Factor: Sonic and Silver
+?0xH00fdfb=1?Main Menu [@MainMenu(0x00feb1)]
+?0xH00fff0=1?Demo or Credits
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=0?Options > @OptionsMenu(0xH00ff83): @MenuTheme(0xH00ff39)
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=1?Options > @OptionsMenu(0xH00ff83): @Behavior(0xH00ff38)
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=2?Options > @OptionsMenu(0xH00ff83): @SuperMusic(0xH00ff3b)
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=3?Options > @OptionsMenu(0xH00ff83) ~🎵
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=4?Options > @OptionsMenu(0xH00ff83) [ @Password(0xH00ff51)@Password(0xH00ff50)@Password(0xH00ff53)@Password(0xH00ff52)@Password(0xH00ff55)@Password(0xH00ff54)@Password(0xH00ff57) ]
+?0xH00fdfb=6_0xH00ff3a=H80_0xH00ff83=5?Options > @OptionsMenu(0xH00ff83): @OptionsLvlSelect(0xH00fe11) 
+?0xH00fff0=0_0xH00fe25<=9?@Super(0xH00fe18)@Char(0xH00ffba) @Stage(0x00fe10) ⏰@Value(0xH00fe22):0@Value(0xH00fe25) @Lives(0xH00ffba)x@Value(0xH00fe13) ⭕x@Value(0x00fe20) 💎@Value(0xH00fe56)/7
+?0xH00fff0=0?@Super(0xH00fe18)@Char(0xH00ffba) @Stage(0x00fe10) ⏰@Value(0xH00fe22):@Value(0xH00fe25) @Lives(0xH00ffba)x@Value(0xH00fe13) ⭕x@Value(0x00fe20) 💎@Value(0xH00fe56)/7
+The S Factor: Sonic and Silver

@@ -1,0 +1,118 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Char
+0x00=Cyclops
+0x02=Wolverine
+0x04=Gambit
+0x06=Storm
+0x08=Beast
+0x0a=Phoenix
+0x0c=Toad
+0x0e=Mystique
+0x10=Sabretooth
+0x12=Magneto
+
+Lookup:CharSelect
+0x00=Cyclops
+0x01=Wolverine
+0x02=Gambit
+0x03=Storm
+0x04=Beast
+0x05=Phoenix
+0x06=Toad
+0x07=Mystique
+0x08=Sabretooth
+0x09=Magneto
+
+Lookup:Difficulty
+0x00=Easy
+0x01=Medium
+0x02=Expert
+
+Lookup:1Round
+0x00=▢
+0x01=🗷
+
+Lookup:3Rounds
+0x00=▢▢
+0x01=▢🗷
+0x02=🗷🗷
+
+Lookup:5Rounds
+0x00=▢▢▢
+0x01=▢▢🗷
+0x02=▢🗷🗷
+0x03=🗷🗷🗷
+
+Lookup:7Rounds
+0x00=▢▢▢▢
+0x01=▢▢▢🗷
+0x02=▢▢🗷🗷
+0x03=▢🗷🗷🗷
+0x04=🗷🗷🗷🗷
+
+Lookup:9Rounds
+0x00=▢▢▢▢▢
+0x01=▢▢▢▢🗷
+0x02=▢▢▢🗷🗷
+0x03=▢▢🗷🗷🗷
+0x04=▢🗷🗷🗷🗷
+0x05=🗷🗷🗷🗷🗷
+
+Lookup:3RoundsP2
+0x00=▢▢
+0x01=🗷▢
+0x02=🗷🗷
+
+Lookup:5RoundsP2
+0x00=▢▢▢
+0x01=🗷▢▢
+0x02=🗷🗷▢
+0x03=🗷🗷🗷
+
+Lookup:7RoundsP2
+0x00=▢▢▢▢
+0x01=🗷▢▢▢
+0x02=🗷🗷▢▢
+0x03=🗷🗷🗷▢
+0x04=🗷🗷🗷🗷
+
+Lookup:9RoundsP2
+0x00=▢▢▢▢▢
+0x01=🗷▢▢▢▢
+0x02=🗷🗷▢▢▢
+0x03=🗷🗷🗷▢▢
+0x04=🗷🗷🗷🗷▢
+0x05=🗷🗷🗷🗷🗷
+
+Lookup:MainMenu
+0x00=Arcade Mode
+0x01=Versus Mode
+0x02=Survival Mode
+0x03=Academy Mode
+0x04=Cerebro Mode
+0x05=Options
+0x06=Memory Card
+0x07=Credits
+
+Lookup:Mode
+0x01=Arcade Mode
+0x02=Versus Mode
+0x03=Survival Mode
+0x04=Academy Mode
+
+Display:
+?0xH0ebbb9=1_0xH0be3e4=1?@Mode(0xH0be3e4) - @Char(0x0be3b0) @3Rounds(0xH0a1f28) vs @3Rounds(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0ebbb9=1_0xH0be3e4=2_0x0be3e8=1?@Mode(0xH0be3e4) - @Char(0x0be3b0) @1Round(0xH0a1f28) vs @1RoundP2(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0ebbb9=1_0xH0be3e4=2_0x0be3e8=3?@Mode(0xH0be3e4) - @Char(0x0be3b0) @3Rounds(0xH0a1f28) vs @3Rounds(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0ebbb9=1_0xH0be3e4=2_0x0be3e8=5?@Mode(0xH0be3e4) - @Char(0x0be3b0) @5Rounds(0xH0a1f28) vs @5RoundsP2(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0ebbb9=1_0xH0be3e4=2_0x0be3e8=7?@Mode(0xH0be3e4) - @Char(0x0be3b0) @7Rounds(0xH0a1f28) vs @7RoundsP2(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0ebbb9=1_0xH0be3e4=2_0x0be3e8=9?@Mode(0xH0be3e4) - @Char(0x0be3b0) @9Rounds(0xH0a1f28) vs @9RoundsP2(0xH0a24fc) @Char(0x0be3c8) ⚖️@Difficulty(0xH0be564)
+?0xH0be3e4=3?@Mode(0xH0be3e4) - @Char(0x0be3b0), Wins: @Value(0x09f0ac) ⚖️@Difficulty(0xH0be564)
+?0xH0be3e4=4?@Mode(0xH0be3e4) - @Char(0x0be3b0)
+?0xH0ebbb9=0_0xH00e31d=H71?Main Menu - @MainMenu(0xH1e7244)
+?0xH0ebbb9=0_O:0xH00e31d=H72_O:0xH00e31d=H75_0xH00e31d=H76?Char Select - @CharSelect(0xH1fa680)
+?0xH0ebbb9=0_0xH00e31d=H79?Char Select - @CharSelect(0xH1fa680) vs @CharSelect(0xH1fa684)
+?0xH0be3e4=6?Demo
+Playing X-men: Mutant Academy

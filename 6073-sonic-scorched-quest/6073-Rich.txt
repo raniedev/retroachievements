@@ -1,0 +1,78 @@
+Format:Value
+FormatType=Value
+
+Lookup:Zone
+0x0000=🌴 Green Hill Zone (Act 1)
+0x0001=🔥 Burning Hill Zone (Act 2)
+0x0002=🔥 Burning Hill Zone (Act 3)
+0x0003=🔥 Burning Hill Zone (Boss)
+0x0200=🔥 Roasting Marble Zone (Act 1)
+0x0201=🔥 Roasting Marble Zone (Act 2)
+0x0202=🔥 Roasting Marble Zone (Act 3)
+0x0203=🔥 Roasting Marble Zone (Boss)
+0x0400=🔥 Flame Yard Zone (Act 1)
+0x0401=🔥 Flame Yard Zone (Act 2)
+0x0100=🔥 Boiling Labyrinth Zone (Act 1)
+0x0101=🔥 Boiling Labyrinth Zone (Act 2)
+0x0102=🔥 Boiling Labyrinth Zone (Act 3)
+0x0103=🔥 Boiling Labyrinth Zone (Boss)
+0x0300=🔥 Fire Light Zone (Act 1)
+0x0301=🔥 Fire Light Zone (Act 2)
+0x0500=🔥 Molten Brain Zone (Act 1)
+0x0501=🔥 Molten Brain Zone (Act 2)
+0x0700=✨ Special Stage 1
+0x0701=✨ Special Stage 2
+0x0702=✨ Special Stage 3
+0x0703=✨ Special Stage 4
+0x0800=✨ Special Stage 5
+0x0801=✨ Special Stage 6
+
+Lookup:SelectStage
+0x00=Burning Hill 1
+0x01=Burning Hill 2
+0x02=Burning Hill 3
+0x03=Burning Hill Boss
+0x04=Roasting Marble 1
+0x05=Roasting Marble 2
+0x06=Roasting Marble 3
+0x07=Roasting Marble Boss
+0x08=Flame Yard 1
+0x09=Flame Yard 2
+0x0a=Flame Yard 3 [❌]
+0x0b=Flame Yard Boss [❌]
+0x0c=Boiling Labyrinth 1
+0x0d=Boiling Labyrinth 2
+0x0e=Boiling Labyrinth 3
+0x0f=Boiling Labyrinth Boss
+0x10=Fire Light 1
+0x11=Fire Light 2
+0x12=Fire Light 3 [❌]
+0x13=Fire Light Boss [❌]
+0x14=Molten Brain 1
+0x15=Molten Brain 2
+0x16=Molten Brain 3 [❌]
+0x17=Cosmic Chase [❌]
+0x18=Special Stage
+0x19=Intro Sequence
+0x1a=Sound Test
+
+Lookup:Act
+0x00=Act 1
+0x01=Act 2
+0x02=Act 3
+0x03=Boss
+
+Lookup:Lives
+0x00=💙
+0x01=❤️
+
+Lookup:Super
+0x00=
+0x01=Burning 
+
+Display:
+?0xH00f633=Hff_0xH00ff82=H1a?Select Stage > @SelectStage(0xH00ff82) (@Value(0xH00ff84)) ~🎵
+?0xH00f633=Hff_0x00f614=H0707?Select Stage > @SelectStage(0xH00ff82)
+?0xH00fe25<=9_0xH00f7f5=1?@Super(0xHfe18)Sonic @Zone(0x00fe10) ⏰@Value(0xH00fe22):0@Value(0xH00fe25) @Lives(0xHfe18)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?0xH00fe25>=Ha_0xH00f7f5=1?@Super(0xHfe18)Sonic @Zone(0x00fe10) ⏰@Value(0xH00fe22):@Value(0xH00fe25) @Lives(0xHfe18)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+Playing Sonic Scorched Quest 🔥

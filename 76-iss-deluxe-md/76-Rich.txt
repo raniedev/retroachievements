@@ -1,0 +1,173 @@
+Format:Goals
+FormatType=VALUE
+
+Format:Minutes
+FormatType=VALUE
+
+Format:SecLeft
+FormatType=VALUE
+
+Format:SecRight
+FormatType=VALUE
+
+Format:InjuryTime
+FormatType=VALUE
+
+Format:Round
+FormatType=VALUE
+
+Format:Test
+FormatType=VALUE
+
+Lookup:GameMode
+0x00=Open Game
+0x01=International
+0x02=World Series
+0x03=Password
+0x04=Scenario
+0x05=Penalty Kick
+0x06=Training
+0x07=Options
+
+Lookup:Period
+0x00=1st HT
+0x01=2nd HT
+0x02=1st OT
+0x03=2nd OT
+
+Lookup:Team
+0x00=England 
+0x01=Germany
+0x02=Italy
+0x03=Wales
+0x04=Scotland
+0x05=N.Ireland
+0x06=France
+0x07=Holland
+0x08=Norway
+0x09=Spain
+0x0a=Ireland
+0x0b=Portugal
+0x0c=Sweden
+0x0d=Czech Rep.
+0x0e=Denmark
+0x0f=Austria
+0x10=Belgium
+0x11=Poland
+0x12=Romania
+0x13=Russia
+0x14=Bulgaria
+0x15=Swiss
+0x16=Croatia
+0x17=Greece
+0x18=Japan
+0x19=Turkey
+0x1a=S.Korea
+0x1b=Nigeria
+0x1c=Cameroon
+0x1d=Morocco
+0x1e=Brazil
+0x1f=Argentina
+0x20=Colombia
+0x21=Mexico
+0x22=USA
+0x23=Uruguay
+0x24=All Star
+0x25=Euro Star A
+0x26=Euro Star B
+0x27=Asian Star
+0x28=African Star
+0x29=All American Star
+
+Lookup:Menu
+0x08=🔃
+0x09=🧍🧍🧍
+0x0a=📝
+0x0b=🏃‍♂️🏃‍♂️
+0x0c=🅰️
+0x0d=🎮
+0x02=1️⃣
+0x0e=💯
+0x0f=👕
+
+Lookup:Penalty
+0x00=❌
+0x01=✅
+0xff=⚽
+
+Lookup:ChallengeMode
+0x00=Dribble
+0x01=Pass
+0x02=Shoot
+0x03=Defence
+0x04=Corner Kick
+0x05=Free Kick
+
+Lookup:ChallengeModeLevel
+0x00=Lv. 1
+0x01=Lv. 2
+0x02=Lv. 3
+0x03=Lv. 4
+
+Lookup:Nav
+0x00=On Main Menu
+0x01=Open Game, Short League, Short Tournament
+0x02=Player Select
+0x03=Team Select
+0x04=Stadium Select
+0x05=Handicap
+0x06=Options
+0x10=Today's Game
+0x11=Changing Options
+0x12=Changing Fules
+0x13=Training Mode or Challenge Mode
+0x14=Input Name
+0x15=Choosing Challenge Mode
+0x16=Challenge Mode Menu
+0x17=Challenge Mode Record
+0x18=Free, Defence, Free Kick or Keeper
+0x19=Training Mode Menu
+0x1a=Order Select
+0x1b=Number of Human Teams
+0x1c=Teams Confirmation
+0x1d=Short League Table
+0x1e=Rankings
+0x20=Number of Human Teams
+0x21=Teams Confirmation
+0x22=Short Tournament Cup
+0x24=Choosing
+0x25=Result 
+0x29=League Standings
+0x2a=League Points
+0x2f=Today's Game
+0x30=Today's Game Result
+0x31=Season Table
+0x34=Short League
+0x35=Short Tournament
+0x36=Loading...
+0x37=Worlds Series 1st Season
+0x39=Match Stats
+0x3a=Inserting Password
+0x3b=Password
+0xd8=Press Start
+
+Display:
+?0xh14=hff_0xffea=2?Game Demonstration
+?0xhffea=2_0xh163e=h2a_0xh1640=h2a?Challenge Mode > @ChallengeMode(0xh13bc) @ChallengeModeLevel(0x13be)
+?0xhffea=2_0xh163e!=h2a_0xh1640=h2a?Training with @Team(0xh163e)
+?0xh1b=1?Round @Round(0xh14f0_1): @Team(0xh163e) @Penalty(0xh1526)@Penalty(0xh1528)@Penalty(0xh152a)@Penalty(0xh152c)@Penalty(0xh152e) x @Penalty(0xh1530)@Penalty(0xh1532)@Penalty(0xh1534)@Penalty(0xh1536)@Penalty(0xh1538) @Team(0xh1640)
+?0xhffea=2_0xh125e=8?@GameMode(0xh1766), @Period(0xh1632) ⏰ @Minutes(0xh17cd):@SecLeft(0xh17cc)@SecRight(0xh17cf)(+@InjuryTime(0xh17d1)) @Team(0xh163e) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640) 🐕 is whistling the match
+?0xhffea=2?@GameMode(0xh1766), @Period(0xh1632) ⏰ @Minutes(0xh17cd):@SecLeft(0xh17cc)@SecRight(0xh17cf)(+@InjuryTime(0xh17d1)) @Team(0xh163e) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640)
+?0xh175e=08?Options @Menu(0xh175e) Select squad
+?0xh175e=09?Options @Menu(0xh175e) Formation change
+?0xh175e=h0a?Options @Menu(0xh175e) Adjust strategy
+?0xh175e=h0b?Options @Menu(0xh175e) Man to man marking
+?0xh175e=h0c?Options @Menu(0xh175e) Key configuration
+?0xh175e=h0d?Options @Menu(0xh175e) Change control
+?0xh182a=1_0xh175e=02?Options @Menu(0xh175e) Number of players
+?0xh175e=h0e?Options @Menu(0xh175e) Edit player skills
+?0xh175e=h0f?Options @Menu(0xh175e) Team colors
+?0xhffea=1_0xh175c=0_0xh175e=0?@Nav(0xh175e)
+?0xhffea=1_0xh175e=h39?@GameMode(0xh1766) > @Nav(0xh175e) [@Team(0xh163e) @Goals(0xh165c) x @Goals(0xh166c) @Team(0xh1640)]
+?0xhffea=1?@GameMode(0xh1766) > @Nav(0xh175e)
+Playing International Superstar Soccer Deluxe ⚽

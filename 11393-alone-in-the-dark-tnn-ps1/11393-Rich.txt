@@ -1,0 +1,316 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Char
+0x00=Aline Cedrac
+0x01=Edward Carnby
+
+Lookup:FlashLight
+0x00=OFF
+0x01=ON
+
+Lookup:Area
+0x1e=Bridge Garden
+0x1f=Bridge Garden
+0x83=East Garden 1
+0x21=East Garden 2
+0x8d=Terrace Garden
+0x8c=Water Tank
+0x1c=Basement
+0x02=Basement
+0x03=Manor: Lobby
+0x0d=Manor: 2F Alan's Bedroom
+0x1b=Manor: Southeast Staircase
+0x7e=Manor: 1F Corridors
+0x0f=Manor: 2F West Bedroom
+0x08=Manor: 2F Corridors
+0x0c=Manor: 2F Alan's Officer
+0x18=Manor: West Staircase
+0x05=Manor: 1F Museum Corridor
+0x09=Manor: 1F Museum
+0x7d=Manor: 1F Office Corridor
+0x0b=Manor: 1F Howard's Office
+0x0a=Manor: 1F Obed's Office
+0x0e=Manor: 2F Obed's Bedroom
+0x06=Manor: Grand Library
+0x89=Manor: North Rooftop
+0x1d=Manor: Watchtower
+0x11=Manor: 3F West Attic(1)
+0x12=Manor: 3F West Attic(2)
+0x13=Manor: 3F East Attic(1)
+0x16=Manor: 3F West Attic(3)
+0x80=Manor: 3F East Attic(2)
+0x81=Manor: 3F East Attic(3)
+0x17=Manor: 3F East Attic(4)
+0x15=Manor: 3F Lucy's Bedroom
+0x19=Manor: East Staircase
+0x1a=Manor: Mirror Secret Passage
+0x7f=Manor: 1F East Staircase Corridor
+0x07=Manor: Secret Chamber
+0x22=Steps Garden
+0x91=Moor
+0x29=Shore
+0x2a=Marsh
+0x90=Airplane
+0x2c=Valley
+0x2d=Forest
+0x2f=Chapel
+0x43=Chapel's Underground Passage
+0x3f=Underground Laboratory
+0x44=Laboratory's Underground Passage
+0x14=Radio Room
+0x01=Green House
+0x49=Abkanis Underground Passage
+0x4b=Abkanis Bridge
+0x4c=Abkanis Antechamber
+0x4e=World of Darkness (E1)
+0x4f=World of Darkness (E2)
+0x50=World of Darkness (E3)
+0x51=World of Darkness (E4)
+0x53=World of Darkness (E5)
+0x55=World of Darkness (E6)
+0x92=World of Darkness (E7)
+0x57=World of Darkness (E8)
+0x58=World of Darkness (E9)
+0x5a=World of Darkness (E10,A15)
+0x5b=World of Darkness (E11,A12)
+0x5c=World of Darkness (E12,A13)
+0x5d=World of Darkness (E13,A11)
+0x60=World of Darkness (E14,A10)
+0x63=World of Darkness (E15,A4)
+0x65=World of Darkness (E16,A3)
+0x66=World of Darkness (E17,A2)
+0x67=World of Darkness (E18,A18)
+0x68=World of Darkness (E19)
+0x84=Manor Rooftops
+0x8f=Rocky Terrain
+0x31=Cemetery
+0x45=Crypt
+0x46=Crypt
+0x4a=Crypt
+0x2e=Fort Outskirts
+0x33=South Rampart
+0x35=Inner Courtyard
+0x34=Fort Interior
+0x38=Fort Interior
+0x3b=Oubliettes
+0x36=Workshop
+0x7c=North Rampart
+0x3a=Underground Reservoir
+0x8b=Service Well
+0x37=Fort Interior
+0x39=Fort Interior
+0x3c=Lighting Conductor Room 1F
+0x3d=Tower Terrace
+0x47=Underground River
+0x42=Collapsed Well
+0x4d=Gate Room
+0x6a=World of Darkness (A1)
+0x72=World of Darkness (A5)
+0x73=World of Darkness (A6)
+0x74=World of Darkness (A7)
+0x75=World of Darkness (A8)
+0x76=World of Darkness (A9)
+0x61=World of Darkness (A14)
+0x6c=World of Darkness (A16)
+0x52=World of Darkness (A17)
+
+Lookup:InventoryMenu
+0x00=Weapons
+0x01=Objects
+0x02=Notebook
+0x04=Documents
+
+Lookup:Weapon
+0x27=Revolver
+0x59=Photoelectric Pulsar
+0x5e=Customized Revolver
+0x66=Triple-Barreled Shotgun
+0x69=Rocket Launcher
+0x6a=Grenade Launcher
+0x6d=Plasma Cannon
+0x6b=Lightning Gun
+
+Lookup:Object
+0x01=Small Bronze Key
+0x03=Small Rusty Key
+0x04=Archibald Morton's Flask
+0x05=Crowbar
+0x06=Reassembled Photograph
+0x08=Wolf Mask
+0x09=Steel Key
+0x0b=Small Gilded Key
+0x0c=Archibald Morton's Lighter
+0x0d=Small Key
+0x0e=Small Gilded Key
+0x10=Large Ornate Key
+0x11=Half of a Photograph
+0x13=Mould
+0x14=Photoelectric-Pulsar without Barrel, with Orange Accelerator
+0x15=Telescope
+0x18=Acrobat Statuette
+0x1a=Indian Skin Flask
+0x1c=Ornate Bronze Key
+0x1f=Small Padlock Key
+0x20=Metallic Piece
+0x21=Tripod support with Perforator Barrel
+0x23=Blue Lens
+0x25=Small Gilded Key
+0x26=Glass Prism
+0x28=Metallic Ring with Abkanis Energy Stone
+0x2b=Mirror
+0x2c=Abkanis Statue of Anticoalt
+0x2e=Engraved Cube
+0x2f=Abkanis Tablets
+0x30=Half Medallion
+0x31=Half Medallion
+0x32=Allen Wrench
+0x33=Metal Cover
+0x34=Golden Metallic Card
+0x35=Wire Cutters
+0x36=Metallic Half-Ring
+0x38=Large Ornate Rusty Key
+0x39=Metallic Half-Ring
+0x3a=Glass Lens
+0x3b=Red Metallic Card
+0x3c=Silver Metallic Card
+0x3d=Black Metallic Card
+0x3e=Alan Morton's Seal
+0x3f=Large Bronze Key
+0x41=Indian Statue of Gilamesh
+0x42=Abkanis Energy Stone
+0x43=Butt
+0x44=Barrel
+0x47=Orange Accelerator
+0x48=Tripod Support
+0x49=Bronze Medalion
+0x4a=Indian Statue of Heliopaner
+0x4e=Indian Statue of Hecatonchires
+0x4f=Flashlight
+0x50=Metallic Ring
+0x51=Steel Lingot
+0x53=Photoelectric Pulsar with Orange Accelerator
+0x54=Perforator Barrel
+0x55=Flashlight with Blue Lens
+0x57=Perforator without Abkanis Energy Stone
+0x58=Perforator with Energy Stone
+0x5b=Stone Pyramid
+0x5c=Stone Abkanis Seal
+0x5d=Stone Abkanis Seal
+0x5f=Stone Abkanis Seal
+0x60=Stone Abkanis Seal
+0x61=Stone Abkanis Seal
+0x62=Stone Abkanis Seal
+0x63=Small Gilded Key
+0x64=Engraved Metallic Plate
+0x6e=Walkie-Talkie
+0x71=Gilded Key
+0x72=First Aid Kit
+0x7e=Charm of Saving
+0x7f=Flashlight with Cover
+0x97=Metal Flask
+0x99=Head of Statue
+0x9a=Head of Statue
+
+Lookup:Document
+0x02=Fiske's Notebook
+0x16=Jeremy's Riddle
+0x1b=Dictaphone
+0x29=Abkanis Tablets Translation
+0x2a=Book on the Abkanis Indians
+0x37=Diagram
+0x56=Map of Shadow Island
+0x78=Hand-Written Letter
+0x79=Richard Morton's Will and Testament
+0x7b=Photograph
+0x7d=Jeremy Morton's Diary
+0x81=Obed Morton's Diary
+0x80=Frederick Johnson's Letter
+0x82=Letter from Christopher Lamb to Obed Morton
+0x83=Text Engraved on the Tomb by Gibson
+0x84=Morton Family's Biography
+0x85=Alan Morton's Diary
+0x86=Letter from Jeremy Morton to Alan Morton
+0x87=Obed Morton's Notes
+0x89=Jeremy Morton's Diary
+0x8a=Text on the Hemicles Stele
+0x8b=Text on the Heliopaner Stele
+0x8c=Text on the Anticoalt Stele
+0x8d=Text on the Gilamesh Stele
+0x8e=Text on the Melacanthe Stele
+0x8f=Text from the Magazine Science
+0x90=Alan Morton's Journal
+0x91=Archibald Morton's Diary
+0x95=Text on the Warrior Stele
+0x96=Text on the Ouphenos Stele
+0x9c=Polaroid
+0x9d=Black & White Photograph
+
+Lookup:MainMenu
+0xf1=✨ [New Game]
+0xe2=💾 [Load Saved Game]
+0xd3=⚙️ [Options]
+0xc4=📃 [Credits]
+
+Lookup:Options
+0xe2=🔊 [Effects Volume]
+0xd3=🎵 [Music Volume]
+0xc4=💬 [Dialogue Volume]
+0xb5=🖥️ [Screen Adjustment]
+0xa6=💡 [Adjust Brightness]
+0x97=🔊 [Sound Mode 
+0x79=🎮 [Controller Configuration]
+
+Lookup:SoundMode
+0x00=Mono
+0x01=Stereo L/R
+0x02=Stereo R/L
+
+Lookup:Controller
+0x00=A
+0x01=B
+0x02=C
+
+Display:
+?0x1ffb9c=H10f2_O:0xH11ba7c=0_0xH11ba7c=2?Choose a character: [Edward Carnby] 🔫
+?0x1ffb9c=H10f2_0xH11ba7c=1?Choose a character: [Aline Cedrac] 🔎
+?0xH0e9794=1_0xH0e97c4=0?Alone in the Dark, [Press Start]
+?O:0xX0d8714=H4c364c2c_0xX0d8714=H6245452d_0xH0cd54d=1?🏆 Congratulations! You've finished the game as @Char(0xH1450c8) and defeated 💀x@Value(0x145104) creatures.
+?S0xH0e97c4=Hc4_0xH0e97b4=1S0xX0d8714=H32dbc021_0xH0cd54d=1?[Credits] 🎵 Alone in the Dark - Stewart Copeland & Jimmie Wood 🤘
+?0xH0e97c4=H97_0xH0e97c8=2?Main Menu, @Options(0xH0e97c4) @SoundMode(0xH0b9448)]
+?0xH0e9794=H12?💾 [Load Saved Game] Acessing Memory Card...
+?0xH0e9794=7?Main Menu, @MainMenu(0xH0e97c4)
+?0xH0e97c8=2?Main Menu, @Options(0xH0e97c4)
+?0xH0e97c8=4?Main Menu, @Options(0xH0e97c4) @Value(0xH0cc904)
+?0xH0e97c8=5?Main Menu, @Options(0xH0e97c4) @Value(0xH0cc906)
+?0xH0e97c8=6?Main Menu, @Options(0xH0e97c4) @Value(0xH0cc908)
+?0xH0e97c8=3?Main Menu, @Options(0xH0e97c4) (x: @Value(0xH0cc910), y: @Value(0xH0cc914))
+?0xH0e97c8=Hd?Main Menu, @Options(0xH0e97c4) Adjusting...
+?0xH0e97c8=7?Main Menu, @Options(0xH0e97c4) 🎮 [Controller Configuration] @Controller(0xH0cc90c)
+?N:0xH1ffb8b=Hff_0xH1ffb9b=Hff?[Intro] Gloucester Massachusetts. October 20th, 2001, 21:00
+?O:0xH0eb854=1_O:0xH0eb854=2_0xH0eb854=3?@Char(0xH1450c8)'s reading the Notebook, page: @Value(0xH0eb858_1)
+?O:0xH0e7c48=Hb_0xH0e7c48=Hc?@Char(0xH1450c8)'s examining 🔎 [@Weapon(0xH0e7c7c)]
+?0xH0e7c48=H9?@Char(0xH1450c8)'s examining 🔎 [@Object(0xH0e7c78)]
+?0xH0e7c48=Ha?@Char(0xH1450c8)'s examining 🔎 [@Document(0xH0e7c84)]
+?N:0xH0e7c48=3_0xH0e7c44=0?@Char(0xH1450c8)'s consulting the [@Document(0xH0e7c84)] (@Value(0xH0e9564_1))
+?0xH0e7c44=2_O:0xH0e7c48=0_O:0xH0e7c48=8_O:0xH0e7c48=5_0xH0e7c48=7?@Char(0xH1450c8)'s on inventory > [@InventoryMenu(0xH0e7ca0)]
+?0xH0e7c44=2_0xH0e7ca0=0_0xH0e7928=1?@Char(0xH1450c8)'s on inventory > @InventoryMenu(0xH0e7ca0) [@Weapon(0xH0e7c7c)]
+?0xH0e7c44=2_0xH0e7ca0=1_0xH0e7928=1?@Char(0xH1450c8)'s on inventory > @InventoryMenu(0xH0e7ca0) [@Object(0xH0e7c78)]
+?0xH0e7c44=2_0xH0e7ca0=4_0xH0e7928=1?@Char(0xH1450c8)'s on inventory > @InventoryMenu(0xH0e7ca0) [@Document(0xH0e7c84)]
+?0xH16e1b7=1_0xH1450d8=100_N:0xH1452c4=0_N:0xH1452cc=0_N:0xH1452d4=0_N:0xH1452e4=0_N:0xH1452f4=0_N:0xH1452fc=0_0x145304=0?@Char(0xH1450c8) 💙@Value(0xH1450d8)/100 🔫 [No Weapon] 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?0xH16e1b7=1_N:0xH1450d8>=71_0xH1450d8<=99_N:0xH1452c4=0_N:0xH1452cc=0_N:0xH1452d4=0_N:0xH1452e4=0_N:0xH1452f4=0_N:0xH1452fc=0_0x145304=0?@Char(0xH1450c8) 💚@Value(0xH1450d8)/100 🔫 [No Weapon] 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?0xH16e1b7=1_N:0xH1450d8>=30_0xH1450d8<=70_N:0xH1452c4=0_N:0xH1452cc=0_N:0xH1452d4=0_N:0xH1452e4=0_N:0xH1452f4=0_N:0xH1452fc=0_0x145304=0?@Char(0xH1450c8) 🧡@Value(0xH1450d8)/100 🔫 [No Weapon] 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?0xH16e1b7=1_N:0xH1450d8>=0_0xH1450d8<=29_N:0xH1452c4=0_N:0xH1452cc=0_N:0xH1452d4=0_N:0xH1452e4=0_N:0xH1452f4=0_N:0xH1452fc=0_0x145304=0?@Char(0xH1450c8) ❤️@Value(0xH1450d8)/100 🔫 [No Weapon] 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?0xH16e1b7=1_0xH1452c4=1_0xH1450c8=1_0xH0e7c7c=0?@Char(0xH1450c8) 💙@Value(0xH1450d8)/100 🔫[Customized Revolver]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?0xH16e1b7=1_0xH1452c4=1_0xH1450c8=1_0xH0e7c7c=0?@Char(0xH1450c8) 💚@Value(0xH1450d8)/100 🔫[Customized Revolver]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?0xH16e1b7=1_0xH1452c4=1_0xH1450c8=1_0xH0e7c7c=0?@Char(0xH1450c8) 🧡@Value(0xH1450d8)/100 🔫[Customized Revolver]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?0xH16e1b7=1_0xH1452c4=1_0xH1450c8=1_0xH0e7c7c=0?@Char(0xH1450c8) ❤️@Value(0xH1450d8)/100 🔫[Customized Revolver]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?0xH1450d8=100_O:0xH0e7c7c=H6d_O:0xH0e7c7c=H6b_0xH0e7c7c=H59?@Char(0xH1450c8) 💙@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)] @Value(0xH141570)% 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?N:0xH1450d8>=71_0xH1450d8<=99_O:0xH0e7c7c=H6d_O:0xH0e7c7c=H6b_0xH0e7c7c=H59?@Char(0xH1450c8) 💚@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)] @Value(0xH141570)% 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?N:0xH1450d8>=30_0xH1450d8<=70_O:0xH0e7c7c=H6d_O:0xH0e7c7c=H6b_0xH0e7c7c=H59?@Char(0xH1450c8) 🧡@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)] @Value(0xH141570)% 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?N:0xH1450d8>=0_0xH1450d8<=29_O:0xH0e7c7c=H6d_O:0xH0e7c7c=H6b_0xH0e7c7c=H59?@Char(0xH1450c8) ❤️@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)] @Value(0xH141570)% 💀x@Value(0x145104) 🔦 @FlashLight(0x1450d0), 🗺️ @Area(0xH146e78)
+?0xH1450d8=100_O:0xH0e7c7c=H27_O:0xH0e7c7c=H5e_O:0xH0e7c7c=H66_O:0xH0e7c7c=H69_0xH0e7c7c=H6a?@Char(0xH1450c8) 💙@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?N:0xH1450d8>=71_0xH1450d8<=99_O:0xH0e7c7c=H27_O:0xH0e7c7c=H5e_O:0xH0e7c7c=H66_O:0xH0e7c7c=H69_0xH0e7c7c=H6a?@Char(0xH1450c8) 💚@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?N:0xH1450d8>=30_0xH1450d8<=70_O:0xH0e7c7c=H27_O:0xH0e7c7c=H5e_O:0xH0e7c7c=H66_O:0xH0e7c7c=H69_0xH0e7c7c=H6a?@Char(0xH1450c8) 🧡@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+?N:0xH1450d8>=0_0xH1450d8<=29_O:0xH0e7c7c=H27_O:0xH0e7c7c=H5e_O:0xH0e7c7c=H66_O:0xH0e7c7c=H69_0xH0e7c7c=H6a?@Char(0xH1450c8) ❤️@Value(0xH1450d8)/100 🔫[@Weapon(0xH0e7c7c)]x@Value(0x141570) 💀x@Value(0x145104) 🔦 @FlashLight(0xH1450d0), 🗺️ @Area(0x146e78)
+🔦 Alone in the Dark: The New Nightmare

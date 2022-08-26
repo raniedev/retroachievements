@@ -1,0 +1,67 @@
+Format:Value
+FormatType=Value
+
+Lookup:Stage
+0x00=🌻 Green Hill Zone
+0x02=🔥 Marble Zone
+0x04=🌳 Spring Yard Zone
+0x01=💧 Labyrinth Zone
+0x03=🌟 Star Light Zone
+0x05=⚙️ Scrap Brain Zone
+
+Lookup:Max
+0x0000=4
+0x001=7
+0x002=13
+0x200=8
+0x201=10
+0x202=6
+0x400=7
+0x401=8
+0x402=8
+0x100=6
+0x101=7
+0x102=6
+0x300=8
+0x301=10
+0x302=12
+0x500=9
+0x501=11
+0x103=16
+
+Lookup:Pause
+0x00=
+0x01=⏸️ Paused, 
+
+Lookup:SelectStage
+0xff=Delete Progress
+0x00=Green Hill Zone (Act 1)
+0x01=Green Hill Zone (Act 2)
+0x02=Green Hill Zone (Act 3)
+0x03=Marble Zone (Act 1)
+0x04=Marble Zone (Act 2)
+0x05=Marble Zone (Act 3)
+0x06=Spring Yard Zone (Act 1)
+0x07=Spring Yard Zone (Act 2)
+0x08=Spring Yard Zone (Act 3)
+0x09=Labyrinth Zone (Act 1)
+0x0a=Labyrinth Zone (Act 2)
+0x0b=Labyrinth Zone (Act 3)
+0x0c=Star Light Zone (Act 1)
+0x0d=Star Light Zone (Act 2)
+0x0e=Star Light Zone (Act 3)
+0x0f=Scrap Brain Zone (Act 1)
+0x10=Scrap Brain Zone (Act 2)
+0x11=Scrap Brain Zone (Act 3)
+0x12=??? Locked ???
+0x13=??? Locked ???
+0x14=??? Locked ???
+0x15=??? Locked ???
+0x16=??? Locked ???
+0x17=??? Locked ???
+
+Display:
+?0xH00fe10=Hff?Selecting Stage > @SelectStage(0xH008010)
+?0xH00f7f3=1_0xH00ca93<=9?@Pause(0xH00f63a)@Stage(0xH00fe11) 🕤 @Value(0xH00ca90):0@Value(0xH00ca93) 🐇 @Value(0xH00c308)/@Max(0x00fe10)
+?0xH00f7f3=1?@Pause(0xH00f63a)@Stage(0xH00fe11) 🕤 @Value(0xH00ca90):@Value(0xH00ca93) 🐇 @Value(0xH00c308)/@Max(0x00fe10)
+Playing Dr. Robotnik's Creature Capture

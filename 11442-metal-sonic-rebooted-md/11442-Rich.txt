@@ -1,0 +1,89 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Stage
+0x0000=🌃Lethal Harbor 1
+0x0001=🌃Lethal Harbor 2
+0x0a00=🔥Magma Factory 1
+0x0a01=🔥Magma Factory 2
+0x0f00=🌳Forbidden Ruins 1
+0x0f01=🌳Forbidden Ruins 2
+0x0800=💧Neo Utopia 1
+0x0801=💧Neo Utopia 2
+0x0b00=🏜️Cryptic Desert 1
+0x0b01=🏜️Cryptic Desert 2
+0x0c00=🎰Twinkle Slider 1
+0x0c01=🎰Twinkle Slider 2
+0x0700=🌲Dark Jungle 1
+0x0701=🌲Dark Jungle 2
+0x0400=⚙️Iron Abyss 1
+0x0401=⚙️Iron Abyss 2
+0x0500=⚙️Iron Abyss 3
+0x0d00=🌌Orbital Colony
+0x0e00=🤖Final Act
+
+Lookup:StageSelect
+0x00=🌃Lethal Harbor 1
+0x01=🌃Lethal Harbor 2
+0x02=🔥Magma Factory 1
+0x03=🔥Magma Factory 2
+0x04=🌳Forbidden Ruins 1
+0x05=🌳Forbidden Ruins 2
+0x06=🎰Twinkle Slider 1
+0x07=🎰Twinkle Slider 2
+0x08=💧Neo Utopia 1
+0x09=💧Neo Utopia 2
+0x0a=🏜️Cryptic Desert 1
+0x0b=🏜️Cryptic Desert 2
+0x0c=🌲Dark Jungle 1
+0x0d=🌲Dark Jungle 2
+0x0e=⚙️Iron Abyss 1
+0x0f=⚙️Iron Abyss 2
+0x10=⚙️Iron Abyss 3
+0x11=🌌Orbital Colony
+0x12=🤖Final Act
+0x13=✨Special Stage
+0x14=🎵Sound Test
+
+Lookup:Difficulty
+0x00=Normal
+0x01=Hard
+
+Lookup:MainMenu
+0x00=Start
+0x01=Options
+
+Lookup:Options
+0x00=Difficulty
+0x01=Random Items
+0x02=Sound test
+
+Lookup:RandomItems
+0x00=Off
+0x01=On
+
+Lookup:Char
+0x00=Metal Sonic
+0x01=Knuckles
+
+Lookup:Super
+0x00=
+0x01=Super 
+
+Display:
+?0xH00ffd3=1?The debug mode is on, reset the game to continue earning achievements.
+?0xH00f601=0?SEGA
+?O:0x00f601=H8c_0x00f601=Hc?Demo
+?0xH00f601=8?Lone Devil presents
+?0xH00f601=4?Metal Sonic Rebooted ・ @MainMenu(0xH00ff87)
+?0xH00f601=H2c_0xH00ff82=H14?Select Stage ・ @StageSelect(0xH00ff82): @Value(0xH00ff84)
+?0xH00f601=H2c?Select Stage ・ @StageSelect(0xH00ff82)
+?0xH00f601=H28_0xH00ff8d=0?⚙️Options ・ @Options(0xH00ff8d): @Difficulty(0xH00ff72)
+?0xH00f601=H28_0xH00ff8d=1?⚙️Options ・ @Options(0xH00ff8d): @RandomItems(0xH00ff74)
+?0xH00f601=H28_0xH00ff8d=2?⚙️Options ・ @Options(0xH00ff8d): @Value(0xH00ff84)
+?0xb006=H4afc?✨Special Stage ◎@Value(A:0xH00b07d*100_A:0xH00b07c*10_A:0xH00b07f*1_A:0xH00b03d*100_A:0xH00b03c*10_M:0xH00b03f*1)/@Value(0x00db8c)💎@Value(0xH00fe17)/7
+?0xH00fe25<Ha_0xH00ffaa=0?@Super(0xH00fe18)@Char(0xH00ffaa) @Stage(0x00fe10) ⏰@Value(0xH00fe22):0@Value(0xH00fe25) 💙@Value(0xH00fe13) ◎@Value(0x00fe20) 💎@Value(0xH00fe17)/7 ⚖️@Difficulty(0xH00ff72)
+?0xH00fe25>=Ha_0xH00ffaa=0?@Super(0xH00fe18)@Char(0xH00ffaa) @Stage(0x00fe10) ⏰@Value(0xH00fe22):@Value(0xH00fe25) 💙@Value(0xH00fe13) ◎@Value(0x00fe20) 💎@Value(0xH00fe17)/7 ⚖️@Difficulty(0xH00ff72)
+?0xH00fe25<Ha_0xH00ffaa=1?@Super(0xH00fe18)@Char(0xH00ffaa) @Stage(0x00fe10) ⏰@Value(0xH00fe22):0@Value(0xH00fe25) ❤️@Value(0xH00fe13) ◎@Value(0x00fe20) ⚖️@Difficulty(0xH00ff72)
+?0xH00fe25>=Ha_0xH00ffaa=1?@Super(0xH00fe18)@Char(0xH00ffaa) @Stage(0x00fe10) ⏰@Value(0xH00fe22):@Value(0xH00fe25) ❤️@Value(0xH00fe13) ◎@Value(0x00fe20) ⚖️@Difficulty(0xH00ff72)
+Metal Sonic Rebooted

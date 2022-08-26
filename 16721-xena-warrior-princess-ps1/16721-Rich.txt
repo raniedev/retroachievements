@@ -1,0 +1,151 @@
+Format:Memory
+FormatType=VALUE
+
+Lookup:Level
+0x00=🏺 Training Arena
+0x01=🌈 The Road to Oebalus
+0x02=⛵ Trouble in Oebalus
+0x03=🦈 The Pirate King Pactolus
+0x04=🏝️ Isles of Kronos
+0x05=🐄 On the Trail of Gabrielle
+0x06=🏕️ Valarian's Castle
+0x07=🏰 Valarian's Secret
+0x08=🕯️ The Labyrinth
+0x0a=🦜 The Renegade Amazon Village
+0x0b=🦜 Rivers of Blood
+0x0c=🦜 Lost Temple of the Titans
+0x0f=🔥 Dyzan's Lair
+0x10=🔥 Road to Hades
+0x11=🔥 Traps of Charon
+0x12=👻 Hades' Castle
+0x14=❄️ The Village of T'ir Na
+0x15=❄️ Rescue the Seer, Fei
+0x16=❄️ The Lyre of Orpheus
+0x18=🏺 The Three Sisters
+0x19=🏺 The Challenge
+0x1a=🏛️ The Temple of the Pinnacles 
+
+Lookup:LoadLvl
+0x01=(Level 1)
+0x02=(Level 2)
+0x03=(Level 3)
+0x04=(Level 4)
+0x05=(Level 5)
+0x06=(Level 6)
+0x07=(Level 7)
+0x08=(Level 8)
+0x0a=(Level 9)
+0x0b=(Level 10)
+0x0c=(Level 11)
+0x0f=(Level 12)
+0x10=(Level 13)
+0x11=(Level 14)
+0x12=(Level 15)
+0x14=(Level 16)
+0x15=(Level 17)
+0x16=(Level 18)
+0x18=(Level 19)
+0x19=(Level 20)
+0x1a=(Level 21)
+
+Lookup:EnemyIcon
+0x01=🏴‍☠️
+0x02=🏴‍☠️
+0x03=🏴‍☠️
+0x04=👁️
+0x05=⚔️
+0x06=⚔️
+0x07=⚔️
+0x08=🕷️
+0x0a=🏹
+0x0b=🏹
+0x0c=🏹
+0x0f=🐲
+0x10=💀
+0x11=💀
+0x12=💀
+0x14=⚔️
+0x15=⚔️
+0x16=⚔️
+0x18=🐍
+0x19=☠️
+0x1a=🏺
+
+Lookup:Audio
+0x00=Mono
+0x01=Stereo
+
+Lookup:Vibration
+0x00=Off
+0x01=On
+
+Lookup:Control
+0x00=A
+0x01=B
+0x02=C
+0x03=D
+
+Lookup:Move
+0x00=Walk
+0x01=Run
+
+Lookup:Menu
+0x00=New Game
+0x01=Load Game
+0x02=Training Arena
+0x03=Options
+
+Display:
+?0x0d3168=H3506?Electronic Arts
+?0x0d3168=H4923?Universal Studios Digital Arts Presents
+?0x0d3168=H2510?(Intro) In a time of ancient gods...
+?0x0d3168=H4503?Credits
+?0x0d3168=H3303?Game Over
+?0x0d3168=H1313?Xena defeated the Pirate King Pactolus
+?0x0d3168=H5713?Xena defeated the King Valerian's army
+?0x0d3168=H5814?Xena defeated the Minotaur and rescued Gabrielle
+?0x0d3168=H5715?Gabrielle was kidnapped by the renegade amazons
+?0x0d3168=H1416?Kallabrax sends Xena to Underworld
+?0x0d3168=H4817?Xena asks Hades for help
+?0x0d3168=H1419?Xena arrives the Village of T'ir Na
+?0x0d3168=H3520?Xena defeated Yat and got the Lyre of Orpheus
+?0x0d3168=H4221?Xena watches Kallabrax preparing Gabrielle for a ritual
+?0x0d3168=H2623?Kallabrax turns into a beast
+?0x0d3168=H3822?The temple collapses killing the beast
+?0x0d3168=H4506?Xena saves Gabrielle
+?0x0d3168=H3608?True ending
+?0x0d3168=H1500?Start Menu (@Menu(0xHed534))
+?0xH0f2788=1?Loading... @Level(0xHf2772)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1596=0?Options, 🎵 [Music: @Memory(0xHf1594_-27)% | Sfx: Off | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1_0xHf1594=0?Options, 🎵 [Music: Off | Sfx: @Memory(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)
+?N:0x 0d3168!=5376_O:0xH0ed534=3_0xH0ecea4=1?Options, 🎵 [Music: @Memory(0xHf1594_-27)% | Sfx: @Memory(0xHf1596_-27)% | @Audio(0xHf1598)] 🎮 [Vibration: @Vibration(0xHf2771) | Control: @Control(0xHf1234) | Move: @Move(0xHf278c)]
+?0xHf2772=hff?Load Level > @Level(0xHee200) @LoadLvl(0xHee200)
+?0x0d3168=h2600_0x0fffa8=h7d7d?Game complete, ⌛ @Memory(0xHf1240):@Memory(0xHf1242):0@Memory(0xHf1243) 📜 @Memory(0xHf277b)/42
+?0xHf2772=h15_0xHfc7b0=0?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?O:0xHf2772=ha_0xHf2772=h15?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 💕 @Memory(0xHf1336)/44 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?0xHf2772=hb?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 💕 @Memory(0xHf1336)/44 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Memory(0xHf1242):0@Memory(0xHf1243) ⚔️x@Memory(0xHf2775) 👫x@Memory(0xHf2777) 👜x@Memory(0xHf2779) 📜(@Memory(0xHf277a)/2) @Memory(0xHf277b)/42
+?O:0xH0f2772=2_0xH0f2772=3_0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1?@Level(0xHf2772), Result ⌛ @Memory(0xHf1242):@Memory(0xHf1243) ⚔️x@Memory(0xHf2775) 👫x@Memory(0xHf2777) 👜x@Memory(0xHf2779) 📜(@Memory(0xHf277a)/2) @Memory(0xHf277b)/42
+?0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1_0xH0f1243<=9?@Level(0xHf2772), Result ⌛ @Memory(0xHf1242):0@Memory(0xHf1243) ⚔️x@Memory(0xHf2775) 👜x@Memory(0xHf2779) 📜(@Memory(0xHf277a)/2) @Memory(0xHf277b)/42
+?0x0fffa8=h6464_O:0xHf078e=1_0xHf0789=1?@Level(0xHf2772), Result ⌛ @Memory(0xHf1242):@Memory(0xHf1243) ⚔️x@Memory(0xHf2775) 👜x@Memory(0xHf2779) 📜(@Memory(0xHf277a)/2) @Memory(0xHf277b)/42
+?0xH0f0e00=1?⏸️ Paused, 🗡️ @Memory(0xHf2785)/4 🛡️ @Memory(0xHf2786)/4 📜 @Memory(0xHf277b)/42 | ⭕x@Memory(0xHf2780) ✨x@Memory(0xHf2782) ⚡x@Memory(0xHf277f) 🔥x@Memory(0xHf2781) ❄️x@Memory(0xHf2783)
+?0xH0f2772=3_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🏴‍☠️ @Memory(0xHfc230)/109 | @EnemyIcon(0xHf2772) x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 👫x@Memory(0xHf2777) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=4_0xHfc210=1?👁️ Facing the Cyclops in the @Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=4?🏝️ Isles of Kronos, [❤️ @Memory(0xHfc1c4)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=8_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🐮 @Memory(0xHfc230)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=hc_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🏹 @Memory(0xHfc230)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=hf_0xHfc210=1?Facing the Dragon in @Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🐲 @Memory(0xHfc230)/109 | 📜x@Memory(0xHf277a)]
+?0xHf2772=hf?🔥 Dyzan's Lair, [❤️ @Memory(0xHfc1c4)/109 | 📜x@Memory(0xHf277a)]
+?0xHf2772=h10_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 💀 @Memory(0xHfc230)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=h16_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 💀 @Memory(0xHfc230)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?0xHf2772=h18_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🐍 @Memory(0xHfc230)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?0xHf2772=h1a_0xHfc210=1_0xHf2775=3?@Level(0xHf2772) Columns: @Memory(0xHf109c)/10, [❤️ @Memory(0xHfc1c4)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=h1a_0xHfc210=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 vs. 🧙🏻‍♀️ @Memory(0xHfc230)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?0xHf2772=0_0xH14ea06=1?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | 🧪x@Memory(0xHf277e) ✨x@Memory(0xHf2782)]
+?0xHf2772=hc?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?0xHf2772=h1a?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?O:0xHf2772=1_O:0xHf2772=5_O:0xHf2772=7_O:0xHf2772=h12_O:0xHf2772=h14_0xHf2772=h16?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 📜x@Memory(0xHf277a)]
+?O:0xHf2772=6_O:0xHf2772=8_O:0xHf2772=hb_O:0xHf2772=h10_O:0xHf2772=h11_O:0xHf2772=h18_0xHf2772=h19?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+?O:0xH0f2772=2_0xH0f2772=3?@Level(0xHf2772), [❤️ @Memory(0xHfc1c4)/109 | @EnemyIcon(0xHf2772)x@Memory(0xHf2775) 🧪x@Memory(0xHf277e) 👫x@Memory(0xHf2777) 💎x@Memory(0xHf277c) 📜x@Memory(0xHf277a)]
+Playing Xena: Warrior Princess 🗡️

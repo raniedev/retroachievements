@@ -1,0 +1,937 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Location
+0x00=Story Mode
+0x01=Shaman Fight
+0x02=Single Versus
+0x03=Sudden Death Mode
+0x04=Team Versus
+0x05=Training Mode
+0x06=Anna's Training Mode
+0x07=Manta's Room
+
+Lookup:QuizGroup
+0x00=A
+0x01=B
+0x02=C
+0x03=D
+0x04=E
+
+Lookup:QuizQuestion
+0x3800=What is Manta's book name?
+0x3700=Where did you meet Manta for the first time?
+0x2f00=Who has a guardian ghost called Konchi?
+0x0f00=What kind of bird is Silver-wing?
+0x2b00=What kind of feline is Mic?
+0x2500=What is Lyserg's guardian ghost name?
+0x2300=Who has a guardian ghost called Eliza?
+0x2e00=What kind of animal is Konchi?
+0x3200=Who has a guardian ghost called Ponchi?
+0x2200=What kind of clothes did Eliza wear?
+0x2601=What is Ryu looking for?
+0x3101=What dream does Horohoro want to create?
+0x2d01=Who Tokagerou wants to get revenge on?
+0x3901=Who is Yoh's grandpa?
+0x1e01=Where the Harusame sword was collected?
+0x1201=What body part the Oracle Bell can be equipped with?
+0x3001=What clan does Horohoro belong to?
+0x3301=What does Kororo carry with her?
+0x2a02=What does Tamao is becoming an apprentice for?
+0x2a00=What is the Chocolove's guardian ghost name?
+0x2902=What Tamao doesn't use?
+0x1002=What is the Kenpo name used by Lee Pai-Long?
+0x2502=What is the level of Shamon in the Gofukuseitai group?
+0x1b01=Who fixed the Harusame sword?
+0x2501=What did Yoh cut from Ryu in a fight?
+0x2100=What is Faust's guardian ghost name?
+0x1600=Who has the silver-shield?
+0x0e00=What is Silva's eagle name?
+0x1200=What kind of animal is Silver-rod?
+0x0a00=Who has a guardian ghost called Tokagerou?
+0x0700=What does Bason carry with him?
+0x2000=What is connected to guardian ghost Kororo?
+0x1c00=Who has a guardian ghost called Silver-tail?
+0x0301=What is Yoh's hometown?
+0x0200=Who has a guardian ghost called Amidamaru?
+0x1900=Who has a guardian ghost called Silver-horn?
+0x1700=What is Silva's buffalo name?
+0x1500=What kind of animal is Silver-shield?
+0x0500=What kind of military class is Bason?
+0x1d00=What is Horohoro's guardian ghost name?
+0x0e01=What is Amidamaru's home?
+0x2901=Who is connected to Ryu?
+0x3500=What is Hao's Guardian name? Spirit of ...
+0x2800=What is Marco's guardian ghost name?
+0x0600=Who has a guardian ghost called Bason?
+0x0300=What is connected to the guardian ghost Amidamaru?
+0x1b00=What kind of animal is Silver-tail?
+0x1f00=Who has a guardian ghost called Kororo?
+0x3900=What is the town's name where Yoh lives?
+0x1a00=What is Silva's coyote name?
+0x1100=What is Silva's snake name?
+0x1800=What kind of animal is Silver-horn?
+0x3600=Who has the Spirit of Fire?
+0x2d00=What is Tamao's fox name?
+0x0900=What Tokagerou used to be?
+0x3000=What is Tamao's raccon dog name?
+0x2400=What causes Eliza's oversoul?
+0x2c00=Who has a guardian spirit called Mick?
+0x0800=What is Ryu's guardian ghost name?
+0x2900=Who has a guardian ghost called Mikhail?
+0x1000=Who has a guardian ghost called Silver-wing?
+0x2600=What causes Morphine's oversoul?
+0x1400=What is Silva's turtle name?
+0x3300=What is Jeanne's guardian ghost name?
+0x0b00=What is Tao Jun's guardian ghost name?
+0x2700=Who has a guardian ghost called Morphine?
+0x0c00=Who is Lee Pai Long?
+0x3100=What kind of animal is Ponchi?
+0x0d00=Who has a guardian ghost called Lee-Pailong?
+0x2b01=What was Tokagerou 600 years ago?
+0x3801=What is Lyserg's special skill?
+0x3401=What weapon does Tao Ren use?
+0x1d01=What Mosuke used to forge the Harusame sword?
+0x0000=What is Yoh's guardian ghost name?
+0x1701=Who was caught by Faust and imprisoned in a cross?
+0x3b01=What is Tao Ren's obsession?
+0x1301=Who did Yoh meet for the first time in Shaman Fight?
+0x1c01=What is the katana name forged by Mosuke?
+0x3402=What causes Michail's oversoul?
+0x0402=What is Yoh's father name?
+0x1302=Who is Lee Pailong's master?
+0x3302=What did Lyserg's father use as a pendulum?
+0x2602=Who is the Gofukuseitai leader?
+0x1e00=Who is Kororo?
+0x0801=What did Manta think Yoh was when meet him for the first time?
+0x2401=What is Ryu's hairstyle name?
+0x1101=Who did give the Oracle bell to Yoh?
+0x3701=What kind of weapon does Lee Pailong use?
+0x2c01=Who was kidnapped by Tokagerou?
+0x2801=Where Much Punch found the best place?
+0x0400=What is Tao Ren's guardian ghost name?
+0x0001=What invitation did Yoh receive to become?
+0x0c02=What is Manta's last name?
+0x1d02=Who did Silva become responsible for?
+0x1802=What is Tao Ren's oracle bell color?
+0x1702=What is Yoh's oracle bell color?
+0x1300=Who has a guardian ghost called Silver-rod?
+0x0100=What does Amidamaru use to be?
+0x3400=Who has a guardian ghost called Shamash?
+0x2f01=What does Eliza represent to Faust?
+0x1f01=What does Mosuke represent to Amidamaru?
+0x0201=What kind of sandals does Yoh always use?
+0x1f02=What kind of art does Faust control?
+0x3b00=Who has a regent hairstyle?
+0x0101=what does Yoh is always wearing?
+0x0002=How many magatamas does Yoh have on the necklace?
+0x3902=What is Lyserg's hometown?
+
+Lookup:AnswerFinal0
+0x0000=Amidamaru
+0x0001=Mosuke
+0x0002=Tokagerou
+0x0100=Samurai
+0x0101=Ninja
+0x0102=Nobleman
+0x0200=Yoh
+0x0201=Tao Ren
+0x0202=Mosuke
+0x0300=Harusame
+0x0301=Banto
+0x0302=Landry Pole
+0x0400=Bason
+0x0401=Bafun
+0x0402=Baasan
+0x0500=Bushou
+0x0501=Shougun
+0x0502=Samurai
+0x0600=Tao Ren
+0x0601=Tao Shun
+0x0602=Tao En
+0x0700=Basontou
+0x0701=Nunchaku
+0x0702=Cloak
+0x0800=Tokagerou
+0x0801=Yamorirou
+0x0802=Hebirou
+0x0900=Thief
+0x0901=Deserter
+0x0902=Nobleman
+0x0a00=Ryu
+0x0a01=Bōrubōi
+0x0a02=Apache
+0x0b00=Lee-Pailong
+0x0b01=Leen-Paison
+0x0b02=Lee-Paipai
+0x0c00=Jiangshi
+0x0c01=Fancy
+0x0c02=Dracula
+0x0d00=Tao Jun
+0x0d01=Manta
+0x0d02=Shamon
+0x0e00=Silver-wing
+0x0e01=Silver-hawk
+0x0e02=Silver-rod
+0x0f00=Eagle
+0x0f01=Sparrow
+0x0f02=Crow
+0x1000=Silva
+0x1001=Tao Ren
+0x1002=Ryu
+0x1100=Silver-rod
+0x1101=Silver-roku
+0x1102=Silver-shield
+0x1200=Snake
+0x1201=Worm
+0x1202=Eel
+0x1300=Silva
+0x1301=Rizerugu
+0x1302=Tamao
+0x1400=Silver-shield
+0x1401=Silver-seal
+0x1402=Silver-horn
+0x1500=Turtle
+0x1501=Lizard
+0x1502=Rabbit
+0x1600=Silva
+0x1601=Jeanne
+0x1602=Tao Jun
+0x1700=Silver-horn
+0x1701=Silver-kon
+0x1702=Silver-tail
+0x1800=Buffalo
+0x1801=Hippo
+0x1802=Rhino
+0x1900=Silva
+0x1901=Chocolove
+0x1902=Aruko
+0x1a00=Silver-tail
+0x1a01=Silver-take
+0x1a02=Silver-wing
+0x1b00=Coyote
+0x1b01=Lion
+0x1b02=Tiger
+0x1c00=Silva
+0x1c01=Horohoro
+0x1c02=Anna
+0x1d00=Kororo
+0x1d01=Hororo
+0x1d02=Korokoro
+0x1e00=Koropokkuru
+0x1e01=Koropikkuru
+0x1e02=Horopokkuru
+0x1f00=Correct
+0x2000=Snowboard
+0x2001=Ski
+0x2002=Bandana
+0x2100=Eliza
+0x2101=Emiri
+0x2102=Emiko
+0x2200=Nurse
+0x2201=Sailor Suit
+0x2202=Kimono
+0x2300=Fausto
+0x2301=Shotainī
+0x2302=Lili Lala
+0x2400=Eliza's skeleton
+0x2401=Dog's skeleton
+0x2402=Faust
+0x2500=Morphine
+0x2501=Morpon
+0x2502=Morphīyu
+0x2600=Pendulum
+0x2601=Trumpet
+0x2602=Poppy flower
+0x2700=Lyserg
+0x2701=Faust
+0x2702=Horohoro
+0x2800=Mikhail
+0x2801=Miguel
+0x2802=Amagareo
+0x2900=Marco
+0x2901=Miine
+0x2902=Busosuta
+0x2a00=Mick
+0x2a01=Mock
+0x2a02=Jaguar
+0x2b00=Jaguar
+0x2b01=Tiger
+0x2b02=Cat
+0x2c00=Chocolove
+0x2c01=Pikurusu
+0x2c02=Borusu
+0x2d00=Konchi
+0x2d01=Konta
+0x2d02=Ponchi
+0x2e00=Fox
+0x2e01=Raccoon Dog
+0x2e02=Monkey
+0x2f00=Tamao
+0x2f01=Youmei
+0x2f02=Anna
+0x3000=Ponchi
+0x3001=Ponta
+0x3002=Konchi
+0x3100=Raccon dog
+0x3101=Fox
+0x3102=Deer
+0x3200=Tamao
+0x3201=Anna
+0x3202=Konchi
+0x3300=Shamash
+0x3301=Jamashu
+0x3302=Jamako
+0x3400=Jeanne
+0x3401=Youmei
+0x3402=Mikihisa
+0x3500=Fire
+0x3501=Fight
+0x3502=Fair
+0x3600=Hao
+0x3601=Opochu
+0x3602=Silva
+0x3700=Seiganji Temple
+0x3701=Cemetery
+0x3702=School
+0x3800=Manjien
+0x3801=Kōjien
+0x3802=Kokugojiten
+0x3900=Funbari Gaoka
+0x3901=Achihi Gaoka
+0x3902=Nandokanaru Gaoka
+0x3a00=Correct
+0x3b00="Wooden Sword" Ryu
+0x3b01=Bobu
+0x3b02="Wooden Sword" Tiger
+0x3c00=Correct
+0x3d00=Correct
+0x3e00=Correct
+0x3f00=Correct
+
+Lookup:AnswerFinal1
+0x0001=Shaman
+0x0002=German
+0x0003=Superman
+0x0101=Headphones
+0x0102=Head gear
+0x0103=Head band
+0x0201=Bathroom Sandals
+0x0202=Grandma Sandals
+0x0203=Beach Sandals
+0x0301=Izumo
+0x0302=Nara
+0x0303=Kyoto
+0x0401=Correct
+0x0501=Correct
+0x0601=Correct
+0x0701=Correct
+0x0801=Ghost
+0x0802=Star
+0x0803=Teacher
+0x0901=Correct
+0x0a01=Correct
+0x0b01=Correct
+0x0c01=Correct
+0x0d01=Correct
+0x0e01=Spirit Tablet
+0x0e02=Portrait
+0x0e03=Grave
+0x0f01=Correct
+0x1001=Correct
+0x1101=Silva
+0x1102=Karima
+0x1103=Rajima
+0x1201=Left Arm
+0x1202=Right Arm
+0x1203=Waist
+0x1301=Horohoro
+0x1302=Faust
+0x1303=Tao Ren
+0x1401=Correct
+0x1501=Correct
+0x1601=Correct
+0x1701=Manta
+0x1702=Anna
+0x1703=Silva
+0x1801=Correct
+0x1901=Correct
+0x1a01=Correct
+0x1b01=Mosuke
+0x1b02=Manta
+0x1b03=Tokagerou
+0x1c01=Harusame
+0x1c02=Harumaki
+0x1c03=Kotetsu
+0x1d01=Father's Knife
+0x1d02=Hoe
+0x1d03=Stock pot
+0x1e01=Local Museum
+0x1e02=Seiganji Temple
+0x1e03=Sunshine Tower
+0x1f01=Friends
+0x1f02=Rivals
+0x1f03=Brothers
+0x2001=Correct
+0x2101=Correct
+0x2201=Correct
+0x2301=Correct
+0x2401=Regent
+0x2402=Afro
+0x2403=Ponytail
+0x2501=Hair
+0x2502=Nail
+0x2503=Finger
+0x2601=Best Place
+0x2602=Best Player
+0x2603=Best Friend
+0x2701=Correct
+0x2801=Funbari Bowl
+0x2802=Matta Bowl
+0x2803=Funbari Park
+0x2901=Tokagerou
+0x2902=Amidamaru
+0x2903=Bason
+0x2a01=Correct
+0x2b01=Bandit
+0x2b02=Pirate
+0x2b03=Samurai
+0x2c01=Manta
+0x2c02=Anna
+0x2c03=Horohoro
+0x2d01=Amidamaru
+0x2d02=Mosuke
+0x2d03=Manta
+0x2e01=Correct
+0x2f01=Beloved Wife
+0x2f02=Friend
+0x2f03=Rival
+0x3001=Ainu
+0x3002=Patte
+0x3003=Oyamada
+0x3101=Butterbur Field
+0x3102=Potato Field
+0x3103=Chestnut Field
+0x3201=Correct
+0x3301=Butterbur Leaf
+0x3302=Guitar
+0x3303=Umbrella
+0x3401=Basontou
+0x3402=Bafunto
+0x3403=Nunchaku
+0x3501=Correct
+0x3601=Correct
+0x3701=Nunchaku
+0x3702=Tonfa
+0x3703=Sansetsukon
+0x3801=Dowsing
+0x3802=Sewing
+0x3803=Knitting
+0x3901=Youmei
+0x3902=Manta
+0x3903=Ryu
+0x3a01=Correct
+0x3b01=Milk
+0x3b02=Soy milk
+0x3b03=Condensed milk
+0x3c01=Correct
+0x3d01=Correct
+0x3e01=Correct
+0x3f01=Correct
+
+Lookup:AnswerFinal2
+0x0002=3
+0x0003=2
+0x0004=5
+0x0102=Correct
+0x0202=Correct
+0x0302=Correct
+0x0402=Mikihisa
+0x0403=Mikisuke
+0x0404=Mikizou
+0x0502=Correct
+0x0602=Correct
+0x0702=Correct
+0x0802=Correct
+0x0902=Correct
+0x0a02=Correct
+0x0b02=Correct
+0x0c02=Oyamada
+0x0c03=Koyamada
+0x0c04=Asakura
+0x0d02=Correct
+0x0e02=Correct
+0x0f02=Correct
+0x1002=Daodandou
+0x1003=Pai-Long Dou
+0x1004=Zenmondou
+0x1102=Correct
+0x1202=Correct
+0x1302=Shamon
+0x1303=Taimon
+0x1304=Shairon
+0x1402=Correct
+0x1502=Correct
+0x1602=Correct
+0x1702=Black
+0x1703=Orange
+0x1704=Green
+0x1802=Yellow
+0x1803=Orange
+0x1804=Red
+0x1902=Correct
+0x1a02=Correct
+0x1b02=Correct
+0x1c02=Correct
+0x1d02=Yoh
+0x1d03=Manta
+0x1d04=Horohoro
+0x1e02=Correct
+0x1f02=Necromancy
+0x1f03=Onmyouji
+0x1f04=Lucha Libre
+0x2002=Correct
+0x2102=Correct
+0x2202=Correct
+0x2302=Correct
+0x2402=Correct
+0x2502=Leader
+0x2503=First-class 2
+0x2504=First-class 3
+0x2602=Shamon
+0x2603=Tao En
+0x2604=Lee Pailong
+0x2702=Correct
+0x2802=Correct
+0x2902=Table-turning
+0x2903=Tarot Card
+0x2904=Fortune Slip
+0x2a02=Ascetic Monk
+0x2a03=Shaman
+0x2a04=Necromancer
+0x2b02=Correct
+0x2c02=Correct
+0x2d02=Correct
+0x2e02=Correct
+0x2f02=100% Hyoi
+0x2f03=Possessed
+0x2f04=500% Hyoi
+0x3002=Correct
+0x3102=Correct
+0x3202=Correct
+0x3302=Crystal
+0x3303=Silver
+0x3304=Platinum
+0x3402=Bullet
+0x3403=Necklace
+0x3404=Glasses
+0x3502=Correct
+0x3602=Correct
+0x3702=Correct
+0x3802=Correct
+0x3902=England
+0x3903=United States
+0x3904=France
+0x3a02=Correct
+0x3b02=Correct
+0x3c02=Correct
+0x3d02=Correct
+0x3e02=Correct
+0x3f02=Correct
+
+Lookup:AnswerFinal3
+0x0003=Correct
+0x0103=Correct
+0x0203=Correct
+0x0303=Correct
+0x0403=Correct
+0x0503=Correct
+0x0603=Correct
+0x0703=Correct
+0x0803=Correct
+0x0903=Correct
+0x0a03=Correct
+0x0b03=Correct
+0x0c03=Correct
+0x0d03=Correct
+0x0e03=Correct
+0x0f03=Correct
+0x1003=Correct
+0x1103=Correct
+0x1203=Correct
+0x1303=Correct
+0x1403=Correct
+0x1503=Correct
+0x1603=Correct
+0x1703=Correct
+0x1803=Correct
+0x1903=Correct
+0x1a03=Correct
+0x1b03=Correct
+0x1c03=Correct
+0x1d03=Correct
+0x1e03=Correct
+0x1f03=Correct
+0x2003=Correct
+0x2103=Correct
+0x2203=Correct
+0x2303=Correct
+0x2403=Correct
+0x2503=Correct
+0x2603=Correct
+0x2703=Correct
+0x2803=Correct
+0x2903=Correct
+0x2a03=Correct
+0x2b03=Correct
+0x2c03=Correct
+0x2d03=Correct
+0x2e03=Correct
+0x2f03=Correct
+0x3003=Correct
+0x3103=Correct
+0x3203=Correct
+0x3303=Correct
+0x3403=Correct
+0x3503=Correct
+0x3603=Correct
+0x3703=Correct
+0x3803=Correct
+0x3903=Correct
+0x3a03=Correct
+0x3b03=Correct
+0x3c03=Correct
+0x3d03=Correct
+0x3e03=Correct
+0x3f03=Correct
+
+Lookup:AnswerFinal4
+0x0004=Correct
+0x0104=Correct
+0x0204=Correct
+0x0304=Correct
+0x0404=Correct
+0x0504=Correct
+0x0604=Correct
+0x0704=Correct
+0x0804=Correct
+0x0904=Correct
+0x0a04=Correct
+0x0b04=Correct
+0x0c04=Correct
+0x0d04=Correct
+0x0e04=Correct
+0x0f04=Correct
+0x1004=Correct
+0x1104=Correct
+0x1204=Correct
+0x1304=Correct
+0x1404=Correct
+0x1504=Correct
+0x1604=Correct
+0x1704=Correct
+0x1804=Correct
+0x1904=Correct
+0x1a04=Correct
+0x1b04=Correct
+0x1c04=Correct
+0x1d04=Correct
+0x1e04=Correct
+0x1f04=Correct
+0x2004=Correct
+0x2104=Correct
+0x2204=Correct
+0x2304=Correct
+0x2404=Correct
+0x2504=Correct
+0x2604=Correct
+0x2704=Correct
+0x2804=Correct
+0x2904=Correct
+0x2a04=Correct
+0x2b04=Correct
+0x2c04=Correct
+0x2d04=Correct
+0x2e04=Correct
+0x2f04=Correct
+0x3004=Correct
+0x3104=Correct
+0x3204=Correct
+0x3304=Correct
+0x3404=Correct
+0x3504=Correct
+0x3604=Correct
+0x3704=Correct
+0x3804=Correct
+0x3904=Correct
+0x3a04=Correct
+0x3b04=Correct
+0x3c04=Correct
+0x3d04=Correct
+0x3e04=Correct
+0x3f04=Correct
+
+Lookup:Button
+0x00=⊙
+0x01=⨯
+0x02=◬
+0x03=⊡
+
+Lookup:ATM
+0x00=Running
+0x01=Physical Resistance
+0x02=Sword Training
+0x03=Yomi Cave
+0x04=Oversoul
+0x05=Exit
+
+Lookup:StoryMode
+0x00=New Game
+0x01=Load Game
+
+Lookup:Vs
+0x00=vs. COM
+0x01=vs. MAN
+
+Lookup:TrainingMode
+0x00=Free
+0x01=Combos
+0x02=Defensive
+0x03=Tutorial
+
+Lookup:Character
+0x00=Asakura Yoh
+0x01=Ryūnosuke
+0x02=Oyamada Manta
+0x03=Tao Jun
+0x04=Tao Ren
+0x05=2nd Yoh Oversoul
+0x06=Horohoro
+0x07=Kyōyama Anna
+0x08=Johann Faust VIII
+0x09=Silva
+0x0a=3rd Yoh Oversoul
+0x0b=Marco Lasso
+0x0c=Asakura Youmei
+0x0d=Chocolove McDonell
+0x0e=Lyserg Diethel
+0x0f=Load 1P
+0x10=Tamamura Tamao
+0x11=Random
+0x12=Iron Maiden Jeanne
+0x13=Load 2P
+
+Lookup:Char
+0x00=Ren
+0x01=1st Yoh
+0x02=2nd Yoh
+0x03=3rd Yoh
+0x04=Ryū
+0x05=Jun
+0x06=Silva
+0x07=Horohoro
+0x08=Faust
+0x09=Lyserg
+0x0a=Marco
+0x0b=Chocolove
+0x0c=Anna
+0x0d=Manta
+0x0e=Youmei
+0x0f=Tamao
+0x10=Hao
+0x11=Jeanne
+
+Lookup:Tries
+0x00=▢▢▢
+0x01=🗷▢▢
+0x02=🗷🗷▢
+0x03=🗷🗷🗷
+0x04=🗷🗷🗷
+0x05=🗷🗷🗷
+0x06=🗷🗷🗷
+0x07=🗷🗷🗷
+0x08=🗷🗷🗷
+
+Lookup:Ghosts
+0x00=▢▢▢
+0x01=👻▢▢
+0x02=👻👻▢
+0x03=👻👻👻
+
+Lookup:Options
+0x00=Difficulty
+0x01=Round Time
+0x02=Nº of Rounds
+0x03=Sound
+0x04=Joystick Vibration
+0x05=Memory Card
+0x06=Screen Adjust
+0x07=Button Config
+0x08=Reset All
+0x09=Exit
+0x0a=None
+
+Lookup:Difficulty
+0x00=Easiest
+0x01=Easy
+0x02=Normal
+0x03=Hard
+0x04=Hardest
+
+Lookup:RoundTime
+0x00=30s
+0x01=60s
+0x02=90s
+0x03=∞Infinity
+
+Lookup:NofRounds
+0x00=1
+0x01=3
+0x02=5
+
+Lookup:Sound
+0x00=Mono
+0x01=Stereo
+
+Lookup:Vibration
+0x00=ON
+0x01=OFF
+
+Lookup:LoadSave
+0x00=Load Game
+0x01=Save Game
+
+Lookup:MemoryCard
+0x00=Memory Card 1
+0x01=Memory Card 2
+
+Lookup:Data
+0x00=Data1
+0x01=Data2
+0x02=Data3
+0x03=Data4
+
+Lookup:ScreenAdjustX
+0xf9=-7
+0xfa=-6
+0xfb=-5
+0xfc=-4
+0xfd=-3
+0xfe=-2
+0xff=-1
+0x00=0
+0x01=+1
+0x02=+2
+0x03=+3
+0x04=+4
+0x05=+5
+0x06=+6
+0x07=+7
+
+Lookup:ScreenAdjustY
+0x00=-4
+0x01=-3
+0x02=-2
+0x03=-1
+0x04=0
+0x05=+1
+0x06=+2
+0x07=+3
+0x08=+4
+
+Lookup:ButtonConfig
+0x00=
+0x01=
+0x02=
+0x03=
+0x04=
+0x05=
+0x06=Reset
+0x07=Confirm
+0x08=Back
+
+Lookup:YesNo
+0x00=Yes
+0x01=No
+
+Lookup:1Round
+0x00=▢
+0x01=🗷
+
+Lookup:3Rounds
+0x00=▢▢
+0x01=🗷▢
+0x02=🗷🗷
+
+Lookup:5Rounds
+0x00=▢▢▢
+0x01=🗷▢▢
+0x02=🗷🗷▢
+0x03=🗷🗷🗷
+
+Lookup:Continue
+0x00=Sure
+0x01=Refuse
+
+Lookup:Unity
+0x00=m
+0x02=
+0x03=m
+0x04=%
+
+Display:
+?0x09f084=Hfde0_0x0d2f28=H12?Exit without saving? ⊙Yes ⨯No
+?O:0x09f084=Hfde0_0x09f084=Hff8c?Manta's Diary ・ @MemoryCard(0xH0d2f29): @Data(0xH0d2f2a)
+?0x09f084=Hc2f8_0x09f014=He683?Continue? [@Continue(0xH0a9606)]
+?0x09f084=Hd3a8_O:0xH0a3dbc=0_O:0xHbf600=0_0xHbf600=3?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) ▢ vs ▢ @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=Hd3a8_0xH0a3dbc=1?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) ▢▢ vs ▢▢ @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=Hd3a8_0xH0a3dbc=2?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) ▢▢▢ vs ▢▢▢ @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=H1298_O:0xH0a3dbc=0_O:0xHbf600=0_0xHbf600=3?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) @1Round(0xH0a3e99) vs @1Round(0xH0a3eed) @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=H1298_0xH0a3dbc=1?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) @3Rounds(0xH0a3e99) vs @3Rounds(0xH0a3eed) @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=H1298_0xH0a3dbc=2?@Location(0xH0bf600) ・ @Char(0xH0a3e9c) @5Rounds(0xH0a3e99) vs @5Rounds(0xH0a3eed) @Char(0xH0a3ef0) ・ ⚖️ @Difficulty(0xH0a3dba)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=9?@Location(0xH0bf600) ・ @Options(0xH0d13f4)? @YesNo(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=8?@Location(0xH0bf600) ・ @Options(0xH0d13f4)? @YesNo(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=7?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @ButtonConfig(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=2_0x0d13f4=6?@Location(0xH0bf600) ・ @Options(0xH0d13f4) ・ Horizontal: @ScreenAdjustX(0xH0c66e8) Vertical: @ScreenAdjustY(0xH0c66ea)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=5_0xH0d13f8=0_0xH0d13fa=1?@Location(0xH0bf600) ・ Load Game: @MemoryCard(0xH0d13f9)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=5_0xH0d13f8=1_0xH0d13fa=1?@Location(0xH0bf600) ・ Save Game: @MemoryCard(0xH0d13f9)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=5_0xH0d13fa=0?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @LoadSave(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=4?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @Vibration(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=3?@Location(0xH0bf600) ・ @Options(0xH0d13f4) ・ BGM:@Value(0xH0d13f9)/10 SE:@Value(0xH0d13fa)/10 @Sound(0xH0d13fb)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=2?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @NofRounds(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=1?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @RoundTime(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=1_0x0d13f4=0?@Location(0xH0bf600) ・ @Options(0xH0d13f4): @Difficulty(0xH0d13f8)
+?0x09f084=Hb3b8_0xH0d13fd=0?@Location(0xH0bf600) ・ @Options(0xH0d13f4)
+?0x09f084=Hcab0_0xH0bf600=0_0x09eff0=Hcf3c?@Location(0xH0bf600) ・ Physical Resistance 💪
+?0x09f084=Hcab0_0xH0bf600=0_0x09eff0=H93c0?@Location(0xH0bf600) ・ Oversoul Training 👻@Value(0xH09f01e)%
+?0x09f084=Hcab0_0xH0bf600=0_0x09eff0=H0b38?@Location(0xH0bf600) ・ Sword Training x@Value(0xH1bca5c)
+?0x09f084=H0530_0xH0bf600=0?@Location(0xH0bf600) ・ Running Training @Value(0xX09f034/1280)m
+?0x09f084=H0530_0xH0bf600=6_0xH0e6d30=0?@Location(0xH0bf600) ・ @Tries(0xH09f042) Running @Value(0xX09f034/1280)m
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_0x1bcaac=H96?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪□□□□□
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_N:0x1bcaac>H78_0x1bcaac<=H95?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪■□□□□
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_N:0x1bcaac>H5a_0x1bcaac<=H78?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪■■□□□
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_N:0x1bcaac>H3c_0x1bcaac<=H5a?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪■■■□□
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_N:0x1bcaac>H1e_0x1bcaac<=H3c?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪■■■■□
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=1_0x1bcaac<=H1e?@Location(0xH0bf600) ・ @Ghosts(0xH1bcaa4) Physical Resistance 💪■■■■■
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=2?@Location(0xH0bf600) ・ @Tries(0xH1bca5e) Sword Training x@Value(0x1bca5c)
+?0x09f084=Hcab0_0xH0bf600=6_0xH0e6d30=4?@Location(0xH0bf600) ・ @Tries(0xH09f028) Oversoul 👻@Value(0xH09f01e)%
+?0x09f084=H4104_O:0x0bf600=5_O:0x0bf600=H105_0x0bf600=H205?@Location(0xH0bf600) ・ @Character(0xH0bf770)
+?0x09f084=H6514_O:0xH0bf600=1_O:0xH0bf600=3_0x0bf600<=H205?@Location(0xH0bf600) ・ Character Select ・ @Character(0xH0bf770)
+?0x09f084=H6514_O:0xH0bf600=2_0xH0bf600=4?@Location(0xH0bf600) ・ Character Select ・ @Character(0xH09fe78)
+?0x09f084=H8024_0xH0c23ab=3_0xH0bf600=0?@Location(0xH0bf600) ・ @StoryMode(0xH0c23a9)
+?0x09f084=H8024_0xH0c23ab=4_O:0xH0bf600=2_0xH0bf600=4?@Location(0xH0bf600) ・ @Vs(0xH0c23aa)
+?0x09f084=H8024_0xH0c23ab=5_0xH0bf600=5?@Location(0xH0bf600) ・ @TrainingMode(0xH0bf601)
+?0x09eff0=Hc71c_O:0xH0bf600=1_0xH0bf600=3?🏆 @Location(0xH0bf600) finished as @Char(0xH0a3e9c)
+?0x09f084=H8024?Main Menu ・ @Location(0xH0bf600)
+?0x09f084=H6e54?Anna's Training Mode ・ @ATM(0xH0e6d30)
+?0xH09f021=0_0xH09f022=0_0xH09f023=0_0x09f028=0_0x09f084=H30e0?@Location(0xH0bf600) ・ Loading...
+?0x09f084=H30e0_0xH09f028=0?@QuizGroup(0xH09f028)@Value(0xH09f029)) @QuizQuestion(0x09f028) @Button(0xH09f021)@AnswerFinal0(0x09f028_0xH09f01e) @Button(0xH09f022)@AnswerFinal0(0x09f028_0xH09f01f) @Button(0xH09f023)@AnswerFinal0(0x09f028_0xH09f020)
+?0x09f084=H30e0_0xH09f028=1?@QuizGroup(0xH09f028)@Value(0xH09f029)) @QuizQuestion(0x09f028) @Button(0xH09f021)@AnswerFinal1(0x09f028_0xH09f01e) @Button(0xH09f022)@AnswerFinal1(0x09f028_0xH09f01f) @Button(0xH09f023)@AnswerFinal1(0x09f028_0xH09f020)
+?0x09f084=H30e0_0xH09f028=2?@QuizGroup(0xH09f028)@Value(0xH09f029)) @QuizQuestion(0x09f028) @Button(0xH09f021)@AnswerFinal2(0x09f028_0xH09f01e) @Button(0xH09f022)@AnswerFinal2(0x09f028_0xH09f01f) @Button(0xH09f023)@AnswerFinal2(0x09f028_0xH09f020)
+?0x09f084=H30e0_0xH09f028=3?@QuizGroup(0xH09f028)@Value(0xH09f029)) @QuizQuestion(0x09f028) @Button(0xH09f021)@AnswerFinal3(0x09f028_0xH09f01e) @Button(0xH09f022)@AnswerFinal3(0x09f028_0xH09f01f) @Button(0xH09f023)@AnswerFinal3(0x09f028_0xH09f020)
+?0x09f084=H30e0_0xH09f028=4?@QuizGroup(0xH09f028)@Value(0xH09f029)) @QuizQuestion(0x09f028) @Button(0xH09f021)@AnswerFinal4(0x09f028_0xH09f01e) @Button(0xH09f022)@AnswerFinal4(0x09f028_0xH09f01f) @Button(0xH09f023)@AnswerFinal4(0x09f028_0xH09f020)
+?O:0xX09efec=2148137108_0xX09efec=2148279576_0xH0bec79=1?Opening ・ Northern Lights - Megumi Hayashibara~🎵
+?0x09eff0=H428c_0xH0e6d30!=1?@Location(0xH0bf600) ・ @ATM(0xH0e6d30) result: @Value(0x09fb56)m
+?0x09eff0=H428c_0xH0e6d30=1?@Location(0xH0bf600) ・ @ATM(0xH0e6d30) result: @Value(0xX1bca90/1362)min
+?0xX09efec=0_0xX09f084=0?Sony ・ Playstation ・ Bandai presents
+@Location(0xH0bf600) ・ Loading...

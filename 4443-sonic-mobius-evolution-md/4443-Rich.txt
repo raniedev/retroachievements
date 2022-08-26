@@ -1,0 +1,54 @@
+Format:Value
+FormatType=Value
+
+Lookup:Zone
+0x00=🌷 Golden Nature
+0x01=💧 Uncharted Tide
+0x02=👻 Creepy Crypt
+0x03=🌟 Neon Star
+0x04=🌙 Mad Parkland
+0x05=🔥 Egg Hell
+0x06=🔥 Final Zone
+0x07=🎵 Sound Test
+
+Lookup:Act
+0x00=Act 1
+0x01=Act 2
+0x02=Act 3
+0x03=Act 3
+
+Lookup:Char
+0x00=Sonic
+0x01=Blaze
+
+Lookup:Title
+0x00=the Hedgehog
+0x01=the Cat
+
+Lookup:Lives
+0x00=💙
+0x01=💜
+
+Lookup:Menu
+0x00=Start Game
+0x01=Sound Test
+
+Lookup:Super
+0x00=
+0x01=Super 
+
+Display:
+?N:0x00fdfb>=H66_O:0x00fdfb<=H6b_0x00fdfb=H7d_0xH00fe56<6?👎 You've finished the game as @Char(0xH00ffe9) but unfortunately don't collected all chaos emeralds. Try again! 💎@Value(0xH00fe56)/6
+?N:0x00fdfb>=H66_O:0x00fdfb<=H6b_0x00fdfb=H7d_0xH00fe56=6?🏆 Congratulations, you've finished the game as @Char(0xH00ffe9) and collected all chaos emeralds.
+?0x00fdfb=H65?@Char(0xH00ffe9): Take this!
+?0x00fdfb=H64?@Char(0xH00ffe9): You'll not escape Robotnik!
+?0x00fdfb=H5a?Chaos Emeralds 💎@Value(0xH00fe56)/6 🔁x@Value(0xH00fe19)
+?0x00fdfb=H59?@Char(0xH00ffe9) ✨ Special Stage @Lives(0xH00ffe9)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?0xH00fe10=3_0xH00fe25<=9_N:0xH00fdfb>=H47_0xH00fdfb<=H4c?@Super(0xH00fe18)@Char(0xH00ffe9) @Zone(0xH00fe11) (@Act(0xH00fe10)) @Lives(0xH00ffe9)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?0xH00fe10=3_N:0xH00fdfb>=H47_0xH00fdfb<=H4c?@Super(0xH00fe18)@Char(0xH00ffe9) @Zone(0xH00fe11) (@Act(0xH00fe10)) @Lives(0xH00ffe9)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?0xH00fe25<=9_N:0xH00fdfb>=H47_0xH00fdfb<=H4c?@Super(0xH00fe18)@Char(0xH00ffe9) @Zone(0xH00fe11) (@Act(0xH00fe10)) ⏰@Value(0xH00fe22):0@Value(0xH00fe25) @Lives(0xH00ffe9)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?N:0xH00fdfb>=H47_0xH00fdfb<=H4c?@Super(0xH00fe18)@Char(0xH00ffe9) @Zone(0xH00fe11) (@Act(0xH00fe10)) ⏰@Value(0xH00fe22):@Value(0xH00fe25) @Lives(0xH00ffe9)x@Value(0xH00fe13) ⭕x@Value(0x00fe20)‍ 💎@Value(0xH00fe56)/6
+?0xH00fdfb=Hd4?Selecting Character [@Char(0xH00ffe9) @Title(0xH00ffe9)]
+?0x00fe11=7_0xH00d759=1_0xH00ff84<=9?[Sound Test] 🎵 - Listening song Id: 0@Value(0xH00ff84)
+?0x00fe11=7_0xH00d759=1?[Sound Test] 🎵 - Listening song Id: @Value(0xH00ff84)
+Playing Sonic Mobius Evolution

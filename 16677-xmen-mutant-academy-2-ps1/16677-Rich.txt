@@ -1,0 +1,146 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:MainMenu
+0x00=Arcade Mode
+0x01=Versus Mode
+0x02=Survival Mode
+0x03=Academy Mode
+0x04=Cerebro
+0x05=Credits
+0x06=Memory Card
+0x07=Options
+
+Lookup:Options
+0x00=Controls
+0x01=Game Options
+0x02=Volume Adjust
+0x03=Screen Adjust
+0x04=Records
+
+Lookup:MemoryCard
+0x00=Load Game Data
+0x01=Save Game Data
+
+Lookup:Character
+0x00=Cyclops
+0x01=Wolverine
+0x02=Gambit
+0x03=Storm
+0x04=Phoenix
+0x05=Beast
+0x06=Toad
+0x07=Mystique
+0x08=Sabretooth
+0x09=Magneto
+0x0a=Havok
+0x0b=Nightcrawler
+0x0c=Forge
+0x0d=Rogue
+0x0e=Psylocke
+0x0f=Juggernaut
+0x10=Xavier
+0x11=Spider-man
+
+Lookup:Char
+0x00=Cyclops
+0x02=Wolverine
+0x04=Gambit
+0x06=Storm
+0x08=Beast
+0x0a=Phoenix
+0x0c=Toad
+0x0e=Mystique
+0x10=Sabretooth
+0x12=Magneto
+0x14=Juggernaut
+0x16=Nightcrawler
+0x18=Forge
+0x1a=Rogue
+0x1c=Havok
+0x1e=Psylocke
+0x20=Xavier
+0x22=Spider-man
+
+Lookup:1Round
+0x00=▢
+0x01=🗷
+
+Lookup:3Rounds
+0x00=▢▢
+0x01=▢🗷
+0x02=🗷🗷
+
+Lookup:5Rounds
+0x00=▢▢▢
+0x01=▢▢🗷
+0x02=▢🗷🗷
+0x03=🗷🗷🗷
+
+Lookup:7Rounds
+0x00=▢▢▢▢
+0x01=▢▢▢🗷
+0x02=▢▢🗷🗷
+0x03=▢🗷🗷🗷
+0x04=🗷🗷🗷🗷
+
+Lookup:9Rounds
+0x00=▢▢▢▢▢
+0x01=▢▢▢▢🗷
+0x02=▢▢▢🗷🗷
+0x03=▢▢🗷🗷🗷
+0x04=▢🗷🗷🗷🗷
+0x05=🗷🗷🗷🗷🗷
+
+Lookup:3RoundsP2
+0x00=▢▢
+0x01=🗷▢
+0x02=🗷🗷
+
+Lookup:5RoundsP2
+0x00=▢▢▢
+0x01=🗷▢▢
+0x02=🗷🗷▢
+0x03=🗷🗷🗷
+
+Lookup:7RoundsP2
+0x00=▢▢▢▢
+0x01=🗷▢▢▢
+0x02=🗷🗷▢▢
+0x03=🗷🗷🗷▢
+0x04=🗷🗷🗷🗷
+
+Lookup:9RoundsP2
+0x00=▢▢▢▢▢
+0x01=🗷▢▢▢▢
+0x02=🗷🗷▢▢▢
+0x03=🗷🗷🗷▢▢
+0x04=🗷🗷🗷🗷▢
+0x05=🗷🗷🗷🗷🗷
+
+Lookup:Difficulty
+0x00=Easy
+0x01=Medium
+0x02=Expert
+
+Display:
+?0xH11bc03=1_0xH0a2028=1_0xH0a2058=1?Arcade Mode - @Char(0xH0add8a) @1Round(0xH0adf60) vs @1Round(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=1_0xH0a2058=3?Arcade Mode - @Char(0xH0add8a) @3Rounds(0xH0adf60) vs @3RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=1_0xH0a2058=5?Arcade Mode - @Char(0xH0add8a) @5Rounds(0xH0adf60) vs @5RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=1_0xH0a2058=7?Arcade Mode - @Char(0xH0add8a) @7Rounds(0xH0adf60) vs @7RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=1_0xH0a2058=9?Arcade Mode - @Char(0xH0add8a) @9Rounds(0xH0adf60) vs @9RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=2_0xH0a2058=1?Versus Mode - @Char(0xH0add8a) @1Round(0xH0adf60) vs @1Round(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=2_0xH0a2058=3?Versus Mode - @Char(0xH0add8a) @3Rounds(0xH0adf60) vs @3RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=2_0xH0a2058=5?Versus Mode - @Char(0xH0add8a) @5Rounds(0xH0adf60) vs @5RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=2_0xH0a2058=7?Versus Mode - @Char(0xH0add8a) @7Rounds(0xH0adf60) vs @7RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=2_0xH0a2058=9?Versus Mode - @Char(0xH0add8a) @9Rounds(0xH0adf60) vs @9RoundsP2(0xH0ae5b4) @Char(0xH0ae3de) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=3?Survival Mode - @Character(0xH0defe4), Wins:@Value(0xX0defe8) Perfects:@Value(0xX0defec) ⚖️@Difficulty(0xH0a2078)
+?0xH11bc03=1_0xH0a2028=4?Academy Mode - Training as @Char(0xH0add8a)
+?0xH1e092d=4_0x1de66c=Ha370?Cerebro - @Character(0xH0aaa44)
+?0xH0e1c60=1_0xH1e092d=5_0x0e2c34=H39c0?Credits - X-men: Mutant Academy 2
+?0xH1e092d=6_0x1de66c=Ha370?Memory Card - @MemoryCard(0xH1e0b4d)
+?0xH1e092d=7?Options - @Options(0xH1e0dd1)
+?0x1de66c=Ha3ac?Main Menu - @MainMenu(0xH1e092d)
+?0x1de66c=Ha38c_0x11bc03!=1?Selecting Character - @Character(0xH0aaa44)
+?O:0x1de66c=Ha290_0x1de66c=Ha2b4?Survival Mode - @Character(0xH0defe4), Wins:@Value(0xX0defe8) Perfects:@Value(0xX0defec) ⚖️@Difficulty(0xH0a2078)
+Playing X-men: Mutant Academy 2

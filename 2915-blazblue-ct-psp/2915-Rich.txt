@@ -1,0 +1,136 @@
+Format:Value
+FormatType=VALUE
+
+Format:Score
+FormatType=SCORE
+
+Lookup:MainMenu
+0x00=Arcade
+0x01=Network
+0x02=Versus
+0x03=Training
+0x04=Exit
+0x05=Option
+0x06=Shop
+0x07=Gallery
+0x08=Legion
+0x09=Score Attack
+0x0a=Story Mode
+
+Lookup:Mode
+0x00=Arcade
+0x02=Versus
+0x03=Training
+0x08=Legion
+0x09=Score Attack
+0x0a=Story Mode
+
+Lookup:Difficulty
+0x00=Beginner
+0x01=Easy
+0x02=Normal
+0x03=Hard
+0x04=Very Hard
+0x05=Hell
+
+Lookup:Char
+0x00=Ragna
+0x01=Jin
+0x02=Noel
+0x03=Rachel
+0x04=Taokaka
+0x05=Tager
+0x06=Litchi
+0x07=Arakuke
+0x08=Bang
+0x09=Carl
+0x0a=Hakumen
+0x0b=Nu-13
+
+Lookup:Character
+0x00=Ragna the Bloodedge
+0x01=Jin Kisaragi
+0x02=Noel Vermillion
+0x03=Rachel Alucard
+0x04=Taokaka
+0x05=Iron Tager
+0x06=Litchi Faye Ling
+0x07=Arakuke
+0x08=Bang Shishigami
+0x09=Carl Clover
+0x0a=Hakumen
+0x0b=Nu-13
+
+Lookup:1Round
+0x00=▢
+0x01=🗷
+
+Lookup:3Rounds
+0x00=▢▢
+0x01=▢🗷
+0x02=🗷🗷
+
+Lookup:5Rounds
+0x00=▢▢▢
+0x01=▢▢🗷
+0x02=▢🗷🗷
+0x03=🗷🗷🗷
+
+Lookup:7Rounds
+0x00=▢▢▢▢
+0x01=▢▢▢🗷
+0x02=▢▢🗷🗷
+0x03=▢🗷🗷🗷
+0x04=🗷🗷🗷🗷
+
+Lookup:9Rounds
+0x00=▢▢▢▢▢
+0x01=▢▢▢▢🗷
+0x02=▢▢▢🗷🗷
+0x03=▢▢🗷🗷🗷
+0x04=▢🗷🗷🗷🗷
+0x05=🗷🗷🗷🗷🗷
+
+Lookup:3RoundsP2
+0x00=▢▢
+0x01=🗷▢
+0x02=🗷🗷
+
+Lookup:5RoundsP2
+0x00=▢▢▢
+0x01=🗷▢▢
+0x02=🗷🗷▢
+0x03=🗷🗷🗷
+
+Lookup:7RoundsP2
+0x00=▢▢▢▢
+0x01=🗷▢▢▢
+0x02=🗷🗷▢▢
+0x03=🗷🗷🗷▢
+0x04=🗷🗷🗷🗷
+
+Lookup:9RoundsP2
+0x00=▢▢▢▢▢
+0x01=🗷▢▢▢▢
+0x02=🗷🗷▢▢▢
+0x03=🗷🗷🗷▢▢
+0x04=🗷🗷🗷🗷▢
+0x05=🗷🗷🗷🗷🗷
+
+Display:
+?0xHc0570c=Ha?@Mode(0xHaeee94) ・ @Char(0xHc058d0) vs @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=9?@Mode(0xHaeee94) ・ @Char(0xHc058d0) vs @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=8?@Mode(0xHaeee94) ・ @Character(0xHc04f10)
+?0xHc0570c=7?@Mode(0xHaeee94) ・ Selecting character: @Char(0xHc04f10)
+?0xHaeee94=3?@Mode(0xHaeee94) ・ @Char(0xHc058d0) vs @Char(0xHc058ec)
+?0xHc0570c=Hb_0xaeee94=9?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @3Rounds(I:0xXaebb98_M:0xHf8017bec) vs @3RoundsP2(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec)
+?0xHc0570c=Hb_O:0xaeee94=8_0xaeee94=Ha?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @1Round(I:0xXaebb98_M:0xHf8017bec) vs @1Round(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=Hb_0xHbd1520=0?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @1Round(I:0xXaebb98_M:0xHf8017bec) vs @1Round(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=Hb_0xHbd1520=1?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @3Rounds(I:0xXaebb98_M:0xHf8017bec) vs @3RoundsP2(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=Hb_0xHbd1520=2?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @5Rounds(I:0xXaebb98_M:0xHf8017bec) vs @5RoundsP2(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=Hb_0xHbd1520=3?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @7Rounds(I:0xXaebb98_M:0xHf8017bec) vs @7RoundsP2(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xHc0570c=Hb_0xHbd1520=4?@Mode(0xHaeee94) ・ @Char(0xHc058d0) @9Rounds(I:0xXaebb98_M:0xHf8017bec) vs @9RoundsP2(I:0xXaebb98_M:0xHf8017bf0) @Char(0xHc058ec) ・ ⚖️@Difficulty(0xHbd151c)
+?0xH1fff54d=1_0xaeeec2=H8c2?Blazblue: Calamity Trigger - Intro 🎵
+?0xH1fbb68b=0?Main Menu ・ @MainMenu(0xHaeee94)
+?0xaeee94=Ha?@Mode(0xHaeee94) ・ @Character(0xHb8a75c)
+Playing Blazblue: Calamity Trigger

@@ -1,0 +1,173 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Mode
+0x00=Team Play
+0x01=Team Play (2P vs)
+0x02=Team Play (CPU vs)
+0x03=Single Play
+0x04=Single Play (2P vs)
+0x05=Single Play (CPU vs)
+0x06=Endless
+0x07=Challenge
+0x08=Practice
+0x09=Gallery
+0x0a=Game Option
+0x0b=Neogeo Mode
+
+Lookup:Char
+0x00=Kyo
+0x01=Benimaru
+0x02=Daimon
+0x03=Terry
+0x04=Andy
+0x05=Joe
+0x06=Kim
+0x07=Chang
+0x08=Choi
+0x09=Athena
+0x0a=Kensou
+0x0b=Chin
+0x0c=Leona
+0x0d=Ralf
+0x0e=Clark
+0x0f=Ryo
+0x10=Robert
+0x11=Takuma
+0x12=Mai
+0x13=Yuri
+0x14=May Lee
+0x15=Iori
+0x16=Mature
+0x17=Vice
+0x18=Yamazaki
+0x19=Blue Mary
+0x1a=Billy
+0x1b=Yashiro
+0x1c=Shermie
+0x1d=Chris
+0x1e=K'
+0x1f=Maxima
+0x20=Whip
+0x21=Vanessa
+0x22=Seth
+0x23=Ramon
+0x24=Kula
+0x25=Nameless
+0x26=Angel
+0x27=Omega Rugal
+0x28=Kusanagi
+0x29=Shingo
+0x2a=King
+0x2b=Xiangfei
+0x2c=Hinako
+0x2d=Heidern
+0x2e=Lin
+0x2f=EX Takuma
+0x30=Bao
+0x31=Jhun
+0x32=Kyo-1
+0x33=Foxy
+0x34=Kasumi
+0x35=Geese
+0x36=Nightmare Geese
+0x37=EX Robert
+0x38=EX Kensou
+0x39=Kyo-2
+0x3a=Goenitz
+0x3b=Krizalid
+0x3c=C-Zero
+0x3d=Zero
+0x3e=Igniz
+0x3f=Orochi Iori
+0x40=Orochi Yashiro
+0x41=Orochi Shermie
+0x42=Orochi Chris
+
+Lookup:Stg
+0x00=St-01
+0x01=St-02
+0x02=St-03
+0x03=St-04
+0x04=St-??
+0x05=St-05
+0x06=St-Boss
+0x07=St-SP
+
+Lookup:Challenge
+0x00=Execute Throw Escape (→ + HP/HK while being thrown) 5 times.
+0x01=Execute Recovery Roll (LP+LK when knocked down) 5 times.
+0x02=Crush the opponent's guard and defeat them.
+0x03=Execute Guard Cancel Evasion (LP+LK while blocking) 5 times.
+0x04=Execute Guard Cancel Blow Back (HP+HK while blocking) 5 times.
+0x05=Beat an opponent who uses Guard Cancel Blow Back on all attacks.
+0x06=Beat an opponent who uses Roll repeatedly.
+0x07=Execute a combo that ends with a DM (Desperation Move/Super).
+0x08=Combo: Normal > Command Normal > Special
+0x09=Combo: Include MAX Mode Activation (i.e. LP > MAX Mode).
+0x0a=Combo: Small jump normal > Normal > Special
+0x0b=Combo: Include 4 MAX cancels (doable in MAX Mode).
+0x0c=Use Crow Bites (→, ↓, → + LP/HP) to counter hit 5 times. 
+0x0d=Combo: Do 50% damage.
+0x0e=Beat Kyo-1, Kyo-2, Kusanagi, and Kyo Kusanagi.
+0x0f=Beat Orochi Team (O. Yashiro, O. Shermie, O. Chris) and Goenitz.
+0x10=Use ↓, ↓ + P to survive Clone Zero's DM.
+0x11=Hit opponent w/ Overkill (↙, ↓, ↘, →, ↗, ↑, ↓ + P in air, close)
+0x12=Combo: Include MAX Mode Activation and a MAX2 move.
+0x13=Beat Krizalid.
+0x14=Combo: Do 70% damage.
+0x15=Using Kensou, whose health is gradually draining, beat 3 opponents.
+0x16=Beat Clone Zero and Zero.
+0x17=Combo: 20 hits without DMs (Supers), MAX, or MAX2.
+0x18=Beat the opponent by finishing them with a DM. Invisible life bar.
+0x19=Beat the opponent with 10 hits or less.
+0x1a=Survive for 30 seconds. You can't block or attack.
+0x1b=Beat the opponent while controls are inverted (up is down, etc).
+0x1c=Avoid being hit by Choi's MAX2 3 times. You have 0 health.
+0x1d=Beat Igniz and Omega Rugal.
+0x1e=Use Vanessa's →, ↓, → + HP to reflect 5 fireballs.
+0x1f=Use Seth's HP+HK Blow Back to interrupt Foxy's MAX2 3 times.
+0x20=Mirror match: Beat the opponent.
+0x21=Combo: Include a normal, command normal, special, DM, MAX, and MAX2
+0x22=Combo: Include Kyo's ↓, ↘, → + LP 5 times.
+0x23=K.O. opponent using the follow up on Ralf's MAX2.
+0x24=Combo: Include EX Robert's ↓, ↘, → x 2 + K DM 3 times.
+0x25=Combo: Include Andy's ↘ + LP 4 times.
+0x26=Beat Krizalid and Igniz while controls are inverted.
+0x27=Beat 6 opponents in 99 seconds.
+0x28=Combo: K.O. opponent. Jump and Roll are disabled.
+0x29=Use Jhun's ↓ + LK in air to stay in the air for 30 seconds by bouncing on the opponent.
+0x2a=Combo: Normal > Command Normal > Special > DM > MAX
+0x2b=Hit opponent w/ Overkill (↙, ↓, ↘, →, ↗, ↑, ↓ + P in air, close)
+0x2c=Combo: K.O. opponent. 
+0x2d=Beat Goenitz and Geese; only damaged when timer is multiple of 3.
+0x2e=Survive attacks by blocking right as they hit.
+0x2f=Parry opponent's attacks with Ryo's → + LK &/or ↘ + LK and counterattack to do damage until opponent is defeated.
+0x30=Beat Krizalid, Clone Zero, Zero, Igniz, and Omega Rugal.
+0x31=Beat Nightmare Geese. 
+
+Display:
+?0xa68800=HFFFF_O:0xX5cd510=H18aa10_O:0xX5cd510=H18b6d0_O:0xX5cd510=H4d8830_0xX5cd510=H4d8850?The King of Fighters 2002: Unlimited Match
+?0xH5bce6b=1_0xH5f4c70=0_N:0xH5be244>=H24_O:0xH5be244<=H28_N:0xH5be244>=H39_O:0xH5be244<=H3e_O:0xH5be244=H32_0xH5be244=H33?@Mode(0xH5f4c70) (@Stg(A:0xK5be3a0_A:0xK5be3a1_A:0xK5be3a2_M:0xK5be3a3)) ▹ @Char(0xH5be274) | @Char(0xH5be275) | @Char(0xH5be276) vs @Char(0xH5be244) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5bce6b=1_0xH5f4c70=0?@Mode(0xH5f4c70) (@Stg(A:0xK5be3a0_A:0xK5be3a1_A:0xK5be3a2_M:0xK5be3a3)) ▹ @Char(0xH5be274) | @Char(0xH5be275) | @Char(0xH5be276) vs @Char(0xH5be244) | @Char(0xH5be245) | @Char(0xH5be246) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5bce6b=1_0xH5f4c70=1?@Mode(0xH5f4c70) ▹ @Char(0xH5be274) | @Char(0xH5be275) | @Char(0xH5be276) vs @Char(0xH5be244) | @Char(0xH5be245) | @Char(0xH5be246)
+?0xH5bce6b=1_0xH5f4c70=2?@Mode(0xH5f4c70) ▹ @Char(0xH5be274) | @Char(0xH5be275) | @Char(0xH5be276) vs @Char(0xH5be244) | @Char(0xH5be245) | @Char(0xH5be246) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5bce6b=1_0xH5f4c70=3?@Mode(0xH5f4c70) (@Stg(A:0xK5be3a0_A:0xK5be3a1_A:0xK5be3a2_M:0xK5be3a3)) ▹ @Char(0xH5be274) vs @Char(0xH5be244) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5bce6b=1_0xH5f4c70=4?@Mode(0xH5f4c70) ▹ @Char(0xH5be274) vs @Char(0xH5be244)
+?0xH5bce6b=1_0xH5f4c70=5?@Mode(0xH5f4c70) ▹ @Char(0xH5be274) vs @Char(0xH5be244) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5bce6b=1_0xH5f4c70=6?@Mode(0xH5f4c70) (Wins: @Value(0x5be280)) ▹ @Char(0xH5be274) vs @Char(0xH5be244) ▹ Level-@Value(0xH5e07b2_1)
+?0xH5f4c70=7_0xX11289c8=H179b1c_0xH1f3de82=HFF?@Mode(0xH5f4c70)
+?0xH5f4c70=7_0xX11289c8=H179b1c_0xH1f3de82>=H1e_0xH1f3de82!=HFF?@Mode(0xH5f4c70) E@Value(0xH1f3de82_-29) ▹ @Challenge(0xH1f3de82)
+?0xH5f4c70=7_0xX11289c8=H179b1c_0xH1f3de82<H1e?@Mode(0xH5f4c70) N@Value(0xH1f3de82_1) ▹ @Challenge(0xH1f3de82)
+?0xH5bce6b=1_0xH5f4c70=7_N:0xH1f3de82>=H1e_0xH1f3de82!=HFF?@Mode(0xH5f4c70) E@Value(0xH1f3de82_-29) ▹ @Challenge(0xH1f3de82)
+?0xH5bce6b=1_0xH5f4c70=7_0xH1f3de82<H1e?@Mode(0xH5f4c70) N@Value(0xH1f3de82_1) ▹ @Challenge(0xH1f3de82)
+?0xHa68800=HFF_0xX11289c8=H568b38?@Mode(0xH5f4c70) ▹ Character Select
+?0xX11289c8!=H18c15c_0xH5f4c70=7?@Mode(0xH5f4c70)
+?0xH5bce6b=1_0xH5f4c70=8?@Mode(0xH5f4c70) ▹ @Char(0xH5cd140) vs @Char(0xH5cd360)
+?0xX11289c8!=H18c15c_0xH5f4c70=9?@Mode(0xH5f4c70)
+?0xX11289c8!=H18c15c_0xH5f4c70=Ha?@Mode(0xH5f4c70)
+?0xX11289c8!=H18c15c_0xH5f4c70=Hb?@Mode(0xH5f4c70) ▹ Playing KOF 2002
+?0xH5f4c70=8_0xH5bce6b=0_0xX11289c8=Ha0c0?@Mode(0xH5f4c70) ▹ Configuration
+?O:0xH5f4c70=0_O:0xH5f4c70=1_0xH5f4c70=2_0xH5bce6b=0_O:0xX11289c8=H28b144_0xX11289c8=Ha0c0?@Mode(0xH5f4c70) ▹ Order Select
+?0xH5bce6b=0_0xX11289c8=H18c15c?Main Menu ▹ @Mode(0xH5cd5e4)
+The King of Fighters 2002: Unlimited Match

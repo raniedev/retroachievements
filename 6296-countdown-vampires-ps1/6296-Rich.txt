@@ -1,0 +1,14 @@
+Format:Value
+FormatType=VALUE
+
+Format:Frames
+FormatType=FRAMES
+
+Lookup:Difficulty
+0x00=Easy
+0x01=Normal
+
+Display:
+?0xH0e388c=H64?Keith ❤️@Value(0xH0b3f2e)/100 💀@Value(0x0b3f36) 🕙@Value(0xH0ceb9a):@Value(0xH0ceb72) - Prince of Darkness Mode
+?0xH0b3f2e>0?Keith ❤️@Value(0xH0b3f2e)/100 💧@Value(0x0b3f34) 💧💀@Value(0x0b3f36) 🕙@Frames(A:0xX0b3efc_M:0xX0b3efc) - @Difficulty(0xH0b3f30)
+Countdown Vampires

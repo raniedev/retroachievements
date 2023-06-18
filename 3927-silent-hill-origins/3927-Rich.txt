@@ -1,0 +1,27 @@
+Format:Seconds
+FormatType=SECS
+
+Format:Float2
+FormatType=FLOAT2
+
+Format:Float0
+FormatType=FLOAT0
+
+Lookup:Area
+0x72746e49=Intro
+0x6c686144=Dahlia's House
+0x6e776f54=Town
+0x70736f48=Alchemilla Hospital
+0x696e6153=Cedar Groove Sanitarium
+0x6e616c42=Greenfield Apartments
+0x61656854=Artaud Theater
+0x65746f4d=Riverside Motel
+0x6b726144=Otherworld
+
+Display:
+?0xX00f9c1e8=1065353216_0xX00f9c178=1036568778_0xX009fda18=0?Travis ❤️@Float0(I:0xX00d8bf54_M:pfFf8000b6c)/100 💀@Float0(A:fF00d8ad18_A:fF00d8ad1c_M:fF00d8ad20) (🔫@Float0(fF00d8ad1c) 🔨@Float0(fF00d8ad18) 👊@Float0(fF00d8ad20)) 🕑@Seconds(fF00d8ad34) 🔦@Seconds(fF00d8ad38) 📦@Float0(fF00d8ad24) 🗺️Cult Anteroom (@Float0(fF00d8ad28)) @Float2(fF00d8ad30*0.001)Km
+?0xX00f9c1e8=1058313365_0xX00f9c178=1049135241_fF00e48f50>=f-9.0_fF00e48f50<=f9.0_fF00e48f54>=f0.0_fF00e48f54<f2.0_fF00e48f58>=f-8.0_fF00e48f58<=f17.0?Travis ❤️@Float0(I:0xX00d8bf54_M:pfFf8000b6c)/100 💀@Float0(A:fF00d8ad18_A:fF00d8ad1c_M:fF00d8ad20) (🔫@Float0(fF00d8ad1c) 🔨@Float0(fF00d8ad18) 👊@Float0(fF00d8ad20)) 🕑@Seconds(fF00d8ad34) 🔦@Seconds(fF00d8ad38) 📦@Float0(fF00d8ad24) 🗺️Cult (@Float0(fF00d8ad28)) @Float2(fF00d8ad30*0.001)Km
+?0xX009fda18=0?Welcome to Silent Hill: Origins
+?O:0xX009fda18=H6c686144_0xX009fda18=H72746e49?Travis 🕑@Seconds(fF00d8ad34) 🔦@Seconds(fF00d8ad38) 🔥@Seconds(fF00d8ad58) 🗺️@Area(0xX009fda18) @Float2(fF00d8ad30*0.001)Km
+?I:0xX00d8bf54_M:fFf8000b68=0?Travis ❤️@Float0(I:0xX00d8bf54_M:pfFf8000b6c)/@Float0(I:0xX00d8bf54_M:pfFf8000b68) 💀@Float0(A:fF00d8ad18_A:fF00d8ad1c_M:fF00d8ad20) (🔫@Float0(fF00d8ad1c) 🔨@Float0(fF00d8ad18) 👊@Float0(fF00d8ad20)) 🕑@Seconds(fF00d8ad34) 🔦@Seconds(fF00d8ad38) 📦@Float0(fF00d8ad24) 🗺️@Area(0xX009fda18) (@Float0(fF00d8ad28)) @Float2(fF00d8ad30*0.001)Km
+Travis ❤️@Float0(I:0xX00d8bf54_M:fFf8000b6c)/@Float0(I:0xX00d8bf54_M:fFf8000b68) 💀@Float0(A:fF00d8ad18_A:fF00d8ad1c_M:fF00d8ad20) (🔫@Float0(fF00d8ad1c) 🔨@Float0(fF00d8ad18) 👊@Float0(fF00d8ad20)) 🕑@Seconds(fF00d8ad34) 🔦@Seconds(fF00d8ad38) 📦@Float0(fF00d8ad24) 🗺️@Area(0xX009fda18) (@Float0(fF00d8ad28)) @Float2(fF00d8ad30*0.001)Km

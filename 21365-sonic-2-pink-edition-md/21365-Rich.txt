@@ -1,0 +1,69 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Act
+0x000=🌴Emerald Hill 1
+0x001=🌴Emerald Hill 2
+0xd00=🌆Chemical Plant 1
+0xd01=🌆Chemical Plant 2
+0xf00=💧Aquatic Ruin 1
+0xf01=💧Aquatic Ruin 2
+0x300=🏜️Sand Shower 1
+0x301=🏜️Sand Shower 2
+0xc00=🎰Casino Nisght 1
+0xc01=🎰Casino Night 2
+0x700=🔥Hill Top 1
+0x701=🔥Hill Top 2
+0xb00=🕯️Mystic Cave 1
+0xb01=🕯️Mystic Cave 2
+0x801=🦇Hidden Palace
+0xa00=🛢️Oil Ocean 1
+0xa01=🛢️Oil Ocean 2
+0x400=⚙️Metropolis 1
+0x401=⚙️Metropolis 2
+0x402=⚙️Metropolis 3
+0x200=🌳Secret Wood 1
+0x201=🌳Secret Wood 2
+0x1000=☁️Sky Chase
+0x600=✈️Wing Fortress
+0xe00=🌑Death Egg
+
+Lookup:Heart
+0x00=💗
+0x01=💗
+0x02=🧡
+0x03=💜
+0x04=💜
+
+Lookup:Char
+0x00=Amy and Cream
+0x01=Amy Rose
+0x02=Cream the rabbit
+0x03=Big and Cream
+0x04=Big the cat
+
+Lookup:Difficulty
+0x02=Easy
+0x00=Normal
+0x01=Hard
+
+Lookup:Scene
+0x04=Main Menu
+0x24=Options
+0x1c=Versus
+0x28=Level Select
+0x10=Special Stage
+0x88=Demo
+0x08=Demo
+
+Lookup:Super
+0x00=
+0x01=Super 
+
+Display:
+?0xHf601=H10?Special Stage 💎@Value(0xH00fe17)/7
+?0xHf601=H20?🏆 Game completed. 💎@Value(0xH00fe17)/7
+?N:0xHf601!=0_0xHf601!=Hc_0xHf601!=H8c?@Scene(0xHf601)
+?O:0xHf601=H8c_0xHf601=Hc_0xH00fe25<Ha?@Super(0xH00fe18)@Char(0xH00ff70) @Heart(0xH00ff70)x@Value(0xH00fe13) 💎@Value(0xH00fe17)/7 ⏰@Value(0xH00fe22):0@Value(0xH00fe25) @Act(0x00fe10) - @Difficulty(0xH00ff60)
+?O:0xHf601=H8c_0xHf601=Hc_0xH00fe25>=Ha?@Super(0xH00fe18)@Char(0xH00ff70) @Heart(0xH00ff70)x@Value(0xH00fe13) 💎@Value(0xH00fe17)/7 ⏰@Value(0xH00fe22):@Value(0xH00fe25) @Act(0x00fe10) - @Difficulty(0xH00ff60)
+Playing Sonic the Hedgehog 2: Pink Edition

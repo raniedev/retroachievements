@@ -1,0 +1,230 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Char
+0x00=Jill Valentine
+0x01=Jill Valentine
+0x02=Jill Valentine
+0x03=Jill Valentine
+0x04=Jill Valentine
+0x05=Jill Valentine
+0x06=Jill Valentine
+0x07=Jill Valentine
+0x08=Carlos Oliveira
+0x09=Mikhail Victor
+0x0a=Nikolai Ginovaef
+0x0b=Jill Valentine
+0x0c=Jill Valentine
+0x0d=Jill Valentine
+0x0e=Jill Valentine
+0x0f=Tofu
+
+Lookup:Weapon
+0x00=Empty
+0x01=Knife
+0x02=Merc's Handgun
+0x03=Hand Gun
+0x04=NC-94
+0x05=Rifle
+0x06=G. Launcher (Grenade)
+0x07=G. Launcher (Flame)
+0x08=G. Launcher (Acid)
+0x09=G. Launcher (Freeze)
+0x0a=R. Launcher
+0x0b=Gatling Gun
+0x0c=Mine Thrower
+0x0d=Eagle 6.0
+0x0e=Assault Rifle (Semi)
+0x0f=Assault Rifle (Auto)
+0x10=Western Custom
+0x11=Sigpro E
+0x12=M92F E
+0x13=Benelli M3S E
+0x14=M. Thrower E
+
+Lookup:WpIcon
+0x00=👊
+0x01=🔪
+0x02=🔫
+0x03=🔫
+0x04=🔫
+0x05=🔫
+0x06=🔫
+0x07=🔫
+0x08=🔫
+0x09=🔫
+0x0a=🔫
+0x0b=🔫
+0x0c=🔫
+0x0d=🔫
+0x0e=🔫
+0x0f=🔫
+0x10=🔫
+0x11=🔫
+0x12=🔫
+0x13=🔫
+0x14=🔫
+
+Lookup:Map0
+0x00=Uptown - Warehouse Office
+0x01=Uptown - Warehouse
+0x02=Uptown - Back Alleyway
+0x03=Uptown - Business Main Street
+0x04=Uptown - Business Back Street
+0x05=Uptown - Private Backyard
+0x06=Uptown - Residential Street
+0x07=Uptown - Black Jack's Bar
+0x08=Uptown - Barricaded Back Passage
+0x09=Uptown - Forked Alley
+0x0a=Uptown - Book Shop Street
+0x0b=Uptown - Sales Office Patio
+0x0c=Uptown - Store Room
+0x0e=Uptown - Dark Alley
+0x10=Police Station 1F - Courtyard
+0x11=Police Station 1F - Main Hall
+0x12=Police Station 1F - Information Room
+0x13=Police Station 1F - Evidence Room
+0x14=Police Station 1F - West Stairway
+0x15=Police Station 1F - Winding Corridor
+0x16=Police Station 1F - Operations Room
+0x17=Police Station 1F - Dark Room
+0x18=Police Station 2F - West Stairway
+0x19=Police Station 2F - Office Corridor
+0x1a=Police Station 2F - STARS Office
+0x1b=Uptown - Sales Office
+0x1c=Uptown - Sales Office Storeroom
+0x1e=Uptown - Business Main Street
+0x1f=Uptown - Business Back Street
+0x20=Uptown - Private Backyard
+0x22=Uptown - Barricaded Back Passage
+0x23=Uptown - Forked Alley
+
+Lookup:Map1
+0x00=Uptown - Parking Area
+0x01=Downtown - Garage
+0x02=Downtown - Construction Street
+0x03=Downtown - Maintenance Area
+0x04=Downtown - Sub Station Entrance
+0x05=Downtown - Water Feature Area
+0x06=Downtown - Shopping District
+0x07=Downtown - City Hall Gate
+0x08=Downtown - Three Points Street
+0x09=Downtown - Dirty Alley
+0x0a=Downtown - Lonsdale Yard
+0x0b=Downtown - Cable Car Area
+0x0c=Downtown - Cable Car
+0x0d=Downtown - Gas Station Shop
+0x0e=Downtown - Gas Station
+0x0f=Downtown - Press Office
+0x10=Downtown - Press Office Lobby
+0x11=Downtown - Restaurant
+0x12=Downtown - Restaurant Basement
+0x13=Downtown - Sub Station Gate Area
+0x14=Downtown - Sub Station
+0x15=Downtown - Cable Car
+0x16=Downtown - Storeroom
+0x17=Downtown - Gas Station
+0x18=Uptown - Straight Alleyway
+0x19=Downtown - Press Office Lobby
+0x1a=Uptown - Zigzag Alley
+0x1b=Downtown - Garage Office
+
+Lookup:Map2
+0x00=Clock Tower 1F - Chapel
+0x01=Clock Tower 1F - Piano Room
+0x02=Clock Tower 1F - Dining Room
+0x04=Clock Tower 1F - Main Hall
+0x05=Clock Tower 1F - Bedroom
+0x06=Clock Tower 1F - Living Room
+0x07=Clock Tower 1F - Small Library
+0x08=Clock Tower 1F - Spider Corridor
+0x09=Clock Tower 1F - Clock Room
+0x0a=Clock Tower 2F - Main Hall
+0x0b=Clock Tower 2F - Balcony
+0x0c=Clock Tower 3F
+0x0d=Clock Tower 1F - Courtyard
+0x0e=Clock Tower 1F - Main Hall
+0x0f=Clock Tower 1F - Dining Room
+
+Lookup:Map3
+0x00=Park - Alleyway
+0x01=Park - Office
+0x02=Hospital 1F - Waiting Room
+0x03=Hospital 1F - Reception Office
+0x04=Hospital 1F - Doctor's Lounge
+0x05=Hospital 4F - Entry Hallway
+0x06=Hospital 4F - Room 402
+0x07=Hospital 4F - Room 401
+0x08=Hospital 4F - Data Room
+0x09=Hospital B3 - Basement Hallway
+0x0a=Hospital B3 - Basement Storeroom
+0x0b=Hospital B3 - Experiment Room
+0x0c=Park - Main Area
+0x0d=Park - Fountain
+0x0e=Park - Wooden Jetty
+0x0f=Park - Forest Path
+0x10=Park - Drainage Passage
+0x11=Park - Graveyard
+0x12=Park - Graveyard Cabin
+0x13=Park - Graveyard Cabin Storeroom
+0x14=Park - Secret Communications Room
+0x15=Park - Graveyard
+0x17=Park - Alleyway
+
+Lookup:Map4
+0x00=Dead Factory 2F - Entry Corridor
+0x01=Dead Factory 2F - Resting Room
+0x02=Dead Factory 2F - Steam Room
+0x03=Dead Factory 2F - Control Room
+0x04=Dead Factory 1F - Water Filter Passage
+0x05=Dead Factory 1F - Monitoring Room
+0x06=Dead Factory 1F - Water Control Room
+0x07=Dead Factory 1F - Water Polution Pool
+0x08=Dead Factory 2F - Treatment Room Entry
+0x09=Dead Factory 2F - Treatment Room
+0x0a=Dead Factory 2F - Comunications Tower
+0x0b=Dead Factory 1F - Emmergency Tunnel
+0x0c=Dead Factory 1F - Car Yard
+0x0d=Dead Factory 1F - Rail Cannon Room
+0x0e=Dead Factory 1F - Helicopter Landing Zone
+0x0f=Dead Factory 1F - Maintenance Elevator
+0x10=Park - Exit Walkway
+
+Lookup:Map6
+0x05=Downtown - Water Feature Area
+0x07=Downtown - City Hall Gate
+0x09=Downtown - Dirty Alley
+0x0a=Downtown - Lonsdale Yard
+0x0e=Downtown - Gas Station
+
+Lookup:State
+0x00=❤️
+0x01=❤️
+0x02=❤️
+0x03=❤️
+0x04=❤️
+0x05=💜
+0x06=💜
+
+Lookup:Pass
+0x00=❌
+0x01=✔️
+
+Display:
+?0x0d1f4a=HFFFF_0xH0d1f86=8_O:0xH0ccc91=Hff_0xH0ccc91=H80?@Char(0xH0d1f86) 💀0/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=6?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map6(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=4?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map4(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=3_0x0d1f78=6_0xN0d202d=0?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xh0d239d)@Weapon(0xh0d239d) 🗺️@Map3(0x0d1f78) [@Pass(0xT0d1fc3) @Pass(0xS0d1fc3) @Pass(0xR0d1fc3)]
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=3?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map3(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=2?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map2(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=1?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map1(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0d1f86=8_0xH0ccc91=0_0x0d1f76=0?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d239d)@Weapon(0xh0d239d) 🗺️@Map0(0x0d1f78)
+?0x0d1f4a=HFFFF_O:0xH0ccc91=Hff_0xH0ccc91=H80?@Char(0xH0d1f86) 💀0/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=6?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map6(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=4?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map4(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=3_0x0d1f78=6_0xN0d202d=0?[@Pass(0xT0d1fc3) @Pass(0xS0d1fc3) @Pass(0xR0d1fc3)] @Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map3(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=3?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map3(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=2?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map2(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=1?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map1(0x0d1f78)
+?0x0d1f4a=HFFFF_0xH0ccc91=0_0x0d1f76=0?@Char(0xH0d1f86) @State(0xHccc97)@Value(0xH0ccc90)/@Value(0xH0ccc92) @WpIcon(0xH0d225d)@Weapon(0xH0d225d) 🗺️@Map0(0x0d1f78)
+Resident Evil 3: Dark Infection

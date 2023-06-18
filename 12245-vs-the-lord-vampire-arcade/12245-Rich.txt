@@ -1,0 +1,34 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:Char
+0x00=B.B.Hood
+0x01=Demitri
+0x02=J.Talbain
+0x03=Victor
+0x04=L.Rapter
+0x05=Morrigan
+0x06=Anakaris
+0x07=Felicia
+0x08=Bishamon
+0x09=Rikuo
+0x0a=Sasquatch
+0x0b=L.Rapter
+0x0c=Q-Bee
+0x0d=Hsien-ko
+0x0e=Lilith
+0x0f=Jedah
+0x12=Dark Talbain
+0x18=Oboro Bishamon
+
+Lookup:Controls
+0x01=P1 vs COM
+0x02=P2 vs COM
+0x03=P1 vs P2
+
+Display:
+?0xH80aa=1_0xM80a9=1_0xN80a9=1?Character Select (@Controls(0xH80a9)) ▹ @Char(0xH8783) vs @Char(0x8b83)
+?0xH80aa=1_0xN80a9=1?Character Select (@Controls(0xH80a9)) ▹ @Char(0x8b83)
+?0xH80aa=1_0xM80a9=1?Character Select (@Controls(0xH80a9)) ▹ @Char(0xH8783)
+?0xH80a9>0?Stage @Value(0xH8114_1) (@Controls(0xH80a9)) ▹ @Char(0xH8783) vs @Char(0xH8b83) ▹ Difficulty: @Value(0xH80a1_1)
+Vampire Savior: The Lord of Vampire

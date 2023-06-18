@@ -1,0 +1,30 @@
+Format:Value
+FormatType=VALUE
+
+Lookup:MainMenu
+0x00=Start
+0x01=Load
+0x02=Extra
+0x03=System
+
+Display:
+?0xf1e32e=H6165?Clear List ▹ @Value(0x957988)/6 • @Value(0x957994)/105 • @Value(0x9579a0)/224
+?0xf1e32e=H756e?Main Menu ▹ @MainMenu(0xHce438c)
+?0xHf21344=1_0xf1e32e=H7562?CG Library
+?0xf1e32e=H6973?Sound Library
+?0xf1e32e=H6976?Movie Library
+?0xf1e32e=H706c?Manual
+?0xHa8713c=H10?Chapter 0 - Prologue
+?0xHa8713c>=H11_0xHa8713c<=H1d?Chapter 1 - Time Travel Paranoia
+?0xHa8713c>=H1e_0xHa8713c<=H30?Chapter 2 - Interpreter Rendezvous
+?0xHa8713c>=H31_0xHa8713c<=H3e?Chapter 3 - Butterfly Effect's Divergence
+?0xHa8713c>=H3f_0xHa8713c<=H57?Chapter 4 - Chaos Theory Homeostasis
+?0xHa8713c>=H58_0xHa8713c<=H68?Chapter 5 - Dogma in Event Horizon
+?0xHa8713c>=H69_0xHa8713c<=H81?Chapter 6 - Metaphysics Necrosis
+?0xHa8713c>=H82_0xHa8713c<=H91?Chapter 7 – Made in Complex
+?0xHa8713c>=H92_0xHa8713c<=H9f?Chapter 8 – Fractal Androgynous
+?0xHa8713c>=Ha0_0xHa8713c<=Hab?Chapter 9 – Endless Apoptosis
+?0xHa8713c>=Hac_0xHa8713c<=Hbb?Chapter 10 – Paradox Meltdown
+?0xHa8713c>=Hbc_0xHa8713c<=Hc3?Chapter 11 – Open The Steins Gate
+?0xf1e32e=H6972?Config
+Playing Steins;Gate
